@@ -1,0 +1,22 @@
+a{
+    text-decoration: none;
+    color:white;
+}
+#header{
+    background: #FFB5B5;
+
+}
+.decor{
+   border: 1px solid whitesmoke;
+   font-size: 20px;
+   padding-left: 20px;
+}
+.decor_last{
+    display: flex;
+}
+.join{
+    color: black;
+}
+.part{
+    width: 70%;
+}
