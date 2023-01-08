@@ -1,0 +1,14 @@
+:root{
+    ---colorPrimary:rgb(247, 120, 120);
+    ---colorSecondary:rgb(218, 86, 86);
+    ---colorAccent:rgb(236, 176, 176);
+    
+
+    ---fontEnglish:'poppins';
+    ---fontBengali:'Noto Sans Bengali';
+    font-family: 'poppins','Noto Sans Bengali', Courier, monospace;
+}
+body{
+    margin: 0;
+    padding:0;
+}
