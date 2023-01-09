@@ -1,23 +1,78 @@
-import React from 'react';
-import "../header/Header.css";
+import style from "../header/Header.module.css";
 
-const header = () => {
+function Header() {
   return (
-    <div>
-        <div id='header'>
-        <div className="decor"><a href="#">অপরাধ </a></div>
-        <div className="decor"><a href="#">খেলা</a></div>
-        <div className="decor"><a href="#">রাজ্য</a></div>
-        <div className="decor"><a href='#'>বিশ্ব</a></div>
-        <div className="decor"><a href="#">archive</a></div>
+    <>
+      <div className={style.headerContainer}>
+        <div className={style.HeadContainer}>
+          {/*------menu btn for mobile --should hide in desktop mode-- */}
+          <div className={style.headBtnConainer}>
+            <img src="icon/menu.png"></img>
+          </div>
+          {/*--------dateWeather--------*/}
+          <div className={style.headInfoConainer}>
+            10.12am
+            <div className={style.infoBar}></div>
+            Raining
+          </div>
+          {/* ----links container------ */}
+          <div className={style.headLinksContainer}>
+            <div>
+              <img className={style.headUser} src="icon/user.png"></img>
+            </div>
+            <div>
+              <a href="https://www.janatarkalam.com/">
+                <img
+                  className={style.headLogo}
+                  src="icon/janatar_kolom_logo_mini.png"
+                ></img>
+              </a>
+            </div>
+          </div>
         </div>
-        <div className='decor_last'>
-            <div className="part"><a className='join' href=''>Join us/sign in</a></div>
-            <div >time</div>
+        {/* -------nav links container for mobile----- */}
+        <div className={style.mobileNavContainer}>
+          <div className={style.mobileNavLinks}>
+            <a href="">link</a>
+          </div>
+          <div className={style.mobileNavLinks}>
+            <a href="">link</a>
+          </div>
+          <div className={style.mobileNavLinks}>
+            <a href="">link</a>
+          </div>
+          <div className={style.mobileNavLinks}>
+            <a href="">link</a>
+          </div>
+          <div className={style.mobileNavLinks}>
+            <a href="">link</a>
+          </div>
+          <div className={style.mobileDetails}>
+          <a href="">Join us / Singup</a>
+        </div>
         </div>
         
-    </div>
-  )
+      </div>
+      {/* -------nav links container for desktop----- */}
+      <div className={style.desktopNavContainer}>
+        <div className={style.desktopNavLinks}>
+          <a href="">link</a>
+        </div>
+        <div className={style.desktopNavLinks}>
+          <a href="">link</a>
+        </div>
+        <div className={style.desktopNavLinks}>
+          <a href="">link</a>
+        </div>
+        <div className={style.desktopNavLinks}>
+          <a href="">link</a>
+        </div>
+        <div className={style.desktopNavLinks}>
+          <a href="">link</a>
+        </div>
+      </div>
+    </>
+  );
 }
 
-export default header
+export default Header;

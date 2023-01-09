@@ -5,7 +5,7 @@ function Marquee(props) {
     <>
       <div className={style.marqueeContainer}>
         <marquee className={style.marquee}>
-          <p>{props.text}</p>
+          <p>{props.text}Hello this is our creation!</p>
         </marquee>
       </div>
     </>
