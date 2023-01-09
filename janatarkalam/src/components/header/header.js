@@ -48,27 +48,26 @@ function Header() {
             <a href="">link</a>
           </div>
           <div className={style.mobileDetails}>
-          <a href="">Join us / Singup</a>
+            <a href="">Join us / Singup</a>
+          </div>
         </div>
-        </div>
-        
-      </div>
-      {/* -------nav links container for desktop----- */}
-      <div className={style.desktopNavContainer}>
-        <div className={style.desktopNavLinks}>
-          <a href="">link</a>
-        </div>
-        <div className={style.desktopNavLinks}>
-          <a href="">link</a>
-        </div>
-        <div className={style.desktopNavLinks}>
-          <a href="">link</a>
-        </div>
-        <div className={style.desktopNavLinks}>
-          <a href="">link</a>
-        </div>
-        <div className={style.desktopNavLinks}>
-          <a href="">link</a>
+        {/* -------nav links container for desktop----- */}
+        <div className={style.desktopNavContainer}>
+          <div className={style.desktopNavLinks}>
+            <a href="">link</a>
+          </div>
+          <div className={style.desktopNavLinks}>
+            <a href="">link</a>
+          </div>
+          <div className={style.desktopNavLinks}>
+            <a href="">link</a>
+          </div>
+          <div className={style.desktopNavLinks}>
+            <a href="">link</a>
+          </div>
+          <div className={style.desktopNavLinks}>
+            <a href="">link</a>
+          </div>
         </div>
       </div>
     </>

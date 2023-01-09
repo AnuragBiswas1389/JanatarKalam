@@ -1,5 +1,5 @@
 .headerContainer {
-  background-color: var(---colorPrimary);
+ margin-bottom: 0.2rem;
 }
 
 /* ----------head---------------- */
@@ -42,8 +42,32 @@
 .mobileNavContainer{
  display: none;
 }
+.desktopNavContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 0.7rem;
+    margin-right: 0.7rem;
+}
+.desktopNavLinks {
+    
 
+}
 
+.desktopNavLinks a{
+    text-decoration: none;
+    font-size: large;
+    color: black;
+}
+
+.desktopNavLinks :hover{
+    border-bottom-style:solid;
+}
+ .desktopNavLinks a:hover{
+    color: var(---colorPrimary);
+    cursor: pointer;
+    
+}
 
 @media only screen and (max-width: 600px) {
 
