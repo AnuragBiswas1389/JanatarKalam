@@ -8,28 +8,42 @@ import Archive from "./components/archive/Archive";
 import SectionHeader from "./components/sectionHeader/SectionHeader";
 import Marquee from "./components/marquee/Marquee";
 import NewsUpdate from "./components/NewsUpdate";
-import Video from './components/Video'
+import Video from "./components/Video";
+import Slider from "./components/Slider";
+import Image from "./components/Image";
 import "normalize.css";
 
 function App() {
   return (
     <div className="App">
-      <Header />
-      <Marquee />
-      <SectionHeader title={"News Updates"}></SectionHeader>
+      <Header></Header>
+      <Marquee></Marquee>
+      <SectionHeader title={"News update"}></SectionHeader>
       <NewsUpdate></NewsUpdate>
-      <SectionHeader title={"News Updates"}></SectionHeader>
-      <News
-        heading={
-          "পৃথক তিপরাল্যান্ডের দাবিতে দিল্লিতে ধরনায় বসবে তিপরা মথা : প্রদ্যুৎ"
-        }
-        dateTime={"1 jan 2023, 10am"}
-      />
-      <News />
-      <News />
+      <SectionHeader title={"latest update"}></SectionHeader>
+      <News></News>
+      <News></News>
+      <News></News>
+      <SectionHeader title={"Videos"}></SectionHeader>
       <Video></Video>
-
-      <Footer />
+      <Video></Video>
+      <Video></Video>
+      <Video></Video>
+      <SectionHeader title={"You may like"}></SectionHeader>
+      <Image
+        size={"Wide"}
+        src={
+          "https://janatarkalam.s3.ap-south-1.amazonaws.com/su9tdwcumzbj1gjvjwxo.jpg"
+        }
+      ></Image>
+      <SectionHeader title={"Tender"}></SectionHeader>
+      <Image
+        size={"medium"}
+        src={
+          "https://janatarkalam.s3.ap-south-1.amazonaws.com/xp0bk2qxm8h3mwfs3vmy.jpg"
+        }
+      ></Image>
+      <Footer></Footer>
     </div>
   );
 }

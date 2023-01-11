@@ -1,5 +1,5 @@
 .headerContainer {
-  margin-bottom: 0.5rem;
+  margin-bottom: 01rem;
 }
 
 .headerTopSection {
@@ -8,7 +8,7 @@
   border-radius: 0.8px;
   margin-top: 1rem;
   margin-left: 1rem;
-  padding-left: 0.5rem;
+  /* padding-left: 0.5rem; */
 }
 
 .headerBottomSection {
@@ -25,20 +25,21 @@
 }
 
 /* for mobile phones------- */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 700px) {
   .headerContainer {
+    margin-top: 0;
   }
 
   .headerTopSection {
     width: 100%;
     margin: 0;
-    margin-top: 1rem;
-    padding: 0;
+    margin-top: 0rem;
   }
   .headerTopSection p {
     margin: 0;
-    padding: 0;
-    margin-left: 0.3rem;
+    padding: 0.3rem;
+    padding-left: 0;
+    margin-left: 1rem;
   }
   .headerBottomSection {
     width: 100%;

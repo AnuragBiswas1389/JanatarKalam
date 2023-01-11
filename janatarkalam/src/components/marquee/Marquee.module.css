@@ -1,8 +1,37 @@
-.marquee{
-    background-color: var(---colorPrimary);
+.marqueeContainer {
+  margin: 0;
+  padding: 0;
+  height: 2rem;
+  background-color: var(---colorPrimary);
+  
 }
 
-.marquee p{
-    padding: 0;
-    margin: 0.2rem;
+marquee {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.marquee {
+  background-color: var(---colorPrimary);
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.marquee p {
+  padding: 0;
+  margin: 0.5rem;
+  width: 100%;
+  height: 100%;
+}
+
+@media only screen and (max-width: 700px) {
+  .marqueeContainer {
+  border-style: solid;
+  border: none;
+  border-bottom-style: solid;
+  border-bottom-width: 0.05rem;
+}
 }
