@@ -1,0 +1,42 @@
+#bar{
+    position: absolute;
+width: 377px;
+height: 150px;
+left: 20%;
+top: 100%;
+
+background: #c46d6d;
+box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.25);
+border-radius: 8px;
+}
+img{
+    box-sizing: border-box;
+    width: 139px;
+    height: 150px;
+
+position: absolute;
+left: 0%;
+right: 20%;
+top: 0%;
+bottom: 0%;
+
+border-bottom: 1px solid rgba(7, 41, 128, 0.9);
+border-radius: 8px 0px 0px 8px;
+
+}
+.second{
+    position: absolute;
+left: 38.27%;
+right: 0%;
+top: 4.32%;
+bottom: 53.96%;
+
+font-family: 'Noto Sans Bengali';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+
+color: #000000;
+
+}

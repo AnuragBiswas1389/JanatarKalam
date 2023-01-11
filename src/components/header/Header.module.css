@@ -1,0 +1,142 @@
+.headerContainer {
+ margin-bottom: 0.2rem;
+}
+
+/* ----------head---------------- */
+
+.HeadContainer {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  padding: 0.3rem;
+  justify-content: space-between;
+  height: 2rem;
+}
+.headBtnConainer {
+  display: none;
+}
+.headInfoConainer {
+  color: var(---colorPrimary);
+  font-size: larger;
+  display: flex;
+  flex-direction:row;
+  margin-left: 0.5rem;
+}
+.infoBar {
+  height: 90.5%;
+  background-color: var(---colorPrimary);
+    width: 0.2rem;
+    margin: 0.1rem;
+    border-radius: 1rem;
+}
+.headUser {
+  display: none;
+}
+.headLogo {
+  width: 7rem;
+  height: 2.1rem;
+}
+
+/* -----------links-------------------------- */
+
+.mobileNavContainer{
+ display: none;
+}
+.desktopNavContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 0.7rem;
+    margin-right: 0.7rem;
+}
+
+
+.desktopNavLinks a{
+    text-decoration: none;
+    font-size: large;
+    color: black;
+}
+
+.desktopNavLinks :hover{
+    border-bottom-style:solid;
+}
+ .desktopNavLinks a:hover{
+    color: var(---colorPrimary);
+    cursor: pointer;
+    
+}
+
+@media only screen and (max-width: 600px) {
+
+/* --------------head--------------- */
+  .headBtnConainer {
+    display: block;
+    margin-left: 0.2rem;
+  }
+  .infoBar {
+    display: none;
+  }
+  
+  .headInfoConainer {
+    display: block;
+    height: 100%;
+    font-size: small;
+    align-self: center;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.6rem;
+    width: 100%;
+  }
+  .headLinksContainer {
+    display: flex;
+    flex-direction: row;
+  }
+  .headUser {
+    margin-top: 0.1rem;
+    display: block;
+    margin-right: 0.4rem;
+    width: 1.5rem;
+    height: 1.6rem;
+  }
+  .headLogo {
+    width: 4.5rem;
+    height: 2rem;
+  }
+
+  /* ----------------------------links------------------------ */
+
+  .desktopNavContainer{
+    display: none;
+  }
+  /* ------ */
+  .mobileNavContainer{
+
+  }
+
+  .mobileNavLinks{
+    border: none;
+    border-style: solid;
+    border-top-width:0.01rem;
+    border-color: white;
+    border-left:none;
+    border-right: none;
+  }
+   .mobileNavLinks a {
+    font-size: larger;
+    text-decoration: none;
+    margin: 0.2rem;
+    margin-left: 0.5rem;
+   }
+
+  .mobileDetails{
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+    margin: 0.2rem;
+    margin-left: 0.5rem;
+  }
+  .mobileDetails a{
+    text-decoration: none;
+  }
+}
