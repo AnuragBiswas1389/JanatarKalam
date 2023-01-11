@@ -1,6 +1,6 @@
 import React from 'react';
-import P from "../../ne.jpg";
-import style from "../newsDetailsBar/newsDetailsBar.module.css";
+import P from "../../Assets/ne.jpg";
+import style from "../NewsDetailsBar/NewsDetailsBar.module.css";
 
 const newsDetailsBar = () => {
   return (

@@ -1,7 +1,7 @@
 import React from 'react';
-import "../tender/tender.css";
-import Left from "../../assets/left.png";
-import Right from "../../assets/right.png";
+import "../Tender/Tender.css";
+import Left from "../../Assets/left.png";
+import Right from "../../Assets/right.png";
 
 const BtnSlider = ({direction, moveSlide}) => {
   return (

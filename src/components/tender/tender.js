@@ -1,8 +1,8 @@
 import { useState } from 'react';
 import React from 'react';
-import "../tender/tender.css";
+import "../Tender/Tender.css";
 import BtnSlider from './BtnSlider';
-import Slider from "../tender/tenderSlider";
+import Slider from "./TenderSlider";
 
 
 const tender = () => {

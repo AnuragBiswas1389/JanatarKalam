@@ -1,5 +1,5 @@
 import React from "react";
-import "../news/news.css";
+import "./News.css";
 
 const news = () => {
   return (
