@@ -1,0 +1,2123 @@
+{
+    "body": "\"Hello from Website!\"",
+    "results": {
+        "ads": {
+            "tall_ad_images": [
+                {
+                    "id": 178,
+                    "last_updated": "Sat, 29 Oct 2022 10:30:04 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "3f48f5e5-c6ee-47b3-96e3-d228ab05ef22",
+                    "tall_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/3f48f5e5-c6ee-47b3-96e3-d228ab05ef22",
+                    "tender_image_id": null,
+                    "tender_image_secure_url": "",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                },
+                {
+                    "id": 167,
+                    "last_updated": "Sat, 22 Oct 2022 13:15:47 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "35c3ae08-5010-45b9-acf0-ce6478f125c3",
+                    "tall_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/35c3ae08-5010-45b9-acf0-ce6478f125c3",
+                    "tender_image_id": null,
+                    "tender_image_secure_url": "",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                },
+                {
+                    "id": 149,
+                    "last_updated": "Tue, 11 Oct 2022 08:16:17 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "okc8r5limyrpnj6ojq1p",
+                    "tall_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/okc8r5limyrpnj6ojq1p.jpg",
+                    "tender_image_id": "",
+                    "tender_image_secure_url": "",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                },
+                {
+                    "id": 147,
+                    "last_updated": "Sat, 01 Oct 2022 09:52:38 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "xp0bk2qxm8h3mwfs3vmy",
+                    "tall_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/xp0bk2qxm8h3mwfs3vmy.jpg",
+                    "tender_image_id": "",
+                    "tender_image_secure_url": "",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                },
+                {
+                    "id": 99,
+                    "last_updated": "Sat, 01 Oct 2022 09:52:38 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "xp0bk2qxm8h3mwfs3vmy.jpg",
+                    "tall_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/xp0bk2qxm8h3mwfs3vmy.jpg",
+                    "tender_image_id": "",
+                    "tender_image_secure_url": "",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                },
+                {
+                    "id": 98,
+                    "last_updated": "Fri, 30 Sep 2022 13:02:58 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "su9tdwcumzbj1gjvjwxo.jpg",
+                    "tall_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/su9tdwcumzbj1gjvjwxo.jpg",
+                    "tender_image_id": "",
+                    "tender_image_secure_url": "",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                },
+                {
+                    "id": 97,
+                    "last_updated": "Fri, 30 Sep 2022 08:00:03 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "vy7kktjrpx42ng7lgqtu.jpg",
+                    "tall_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/vy7kktjrpx42ng7lgqtu.jpg",
+                    "tender_image_id": "",
+                    "tender_image_secure_url": "",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                },
+                {
+                    "id": 88,
+                    "last_updated": "Wed, 07 Sep 2022 09:43:54 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "nmklyoxkrvkhfdhpoxu8.jpg",
+                    "tall_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/nmklyoxkrvkhfdhpoxu8.jpg",
+                    "tender_image_id": "",
+                    "tender_image_secure_url": "",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                },
+                {
+                    "id": 84,
+                    "last_updated": "Fri, 16 Sep 2022 13:06:26 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "ptlzay5q8cp2opag7zid.jpg",
+                    "tall_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/ptlzay5q8cp2opag7zid.jpg",
+                    "tender_image_id": "",
+                    "tender_image_secure_url": "",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                },
+                {
+                    "id": 82,
+                    "last_updated": "Sun, 14 Aug 2022 06:04:28 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "r5katafpaok1kelshnd9.jpg",
+                    "tall_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/r5katafpaok1kelshnd9.jpg",
+                    "tender_image_id": "",
+                    "tender_image_secure_url": "",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                }
+            ],
+            "tender_ad_images": [
+                {
+                    "id": 168,
+                    "last_updated": "Sat, 22 Oct 2022 13:16:02 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "",
+                    "tall_image_secure_url": "",
+                    "tender_image_id": "4e702bf3-c3e5-492f-a036-fbf9a5c7daee",
+                    "tender_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/4e702bf3-c3e5-492f-a036-fbf9a5c7daee",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                },
+                {
+                    "id": 154,
+                    "last_updated": "Thu, 20 Oct 2022 10:19:11 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "",
+                    "tall_image_secure_url": "",
+                    "tender_image_id": "neclmifmuptgolnuycxt",
+                    "tender_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/neclmifmuptgolnuycxt.jpg",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                },
+                {
+                    "id": 153,
+                    "last_updated": "Mon, 17 Oct 2022 10:24:19 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "",
+                    "tall_image_secure_url": "",
+                    "tender_image_id": "uuxyezgtyuceqd4rdd8m",
+                    "tender_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/uuxyezgtyuceqd4rdd8m.jpg",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                },
+                {
+                    "id": 152,
+                    "last_updated": "Sun, 16 Oct 2022 09:27:28 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "",
+                    "tall_image_secure_url": "",
+                    "tender_image_id": "iuvaypjgah4lpzinehae",
+                    "tender_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/iuvaypjgah4lpzinehae.jpg",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                },
+                {
+                    "id": 151,
+                    "last_updated": "Thu, 13 Oct 2022 07:11:46 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "",
+                    "tall_image_secure_url": "",
+                    "tender_image_id": "zkvtrm6tinhnc5womlu6",
+                    "tender_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/zkvtrm6tinhnc5womlu6.jpg",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                },
+                {
+                    "id": 150,
+                    "last_updated": "Tue, 11 Oct 2022 15:10:10 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "",
+                    "tall_image_secure_url": "",
+                    "tender_image_id": "cngohemwuuv6jzoxkpva",
+                    "tender_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/cngohemwuuv6jzoxkpva.jpg",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                },
+                {
+                    "id": 96,
+                    "last_updated": "Thu, 29 Sep 2022 13:20:23 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "",
+                    "tall_image_secure_url": "",
+                    "tender_image_id": "bjl5nhrvvztvsxz6fzi9.jpg",
+                    "tender_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/bjl5nhrvvztvsxz6fzi9.jpg",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                },
+                {
+                    "id": 95,
+                    "last_updated": "Mon, 26 Sep 2022 14:59:42 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "",
+                    "tall_image_secure_url": "",
+                    "tender_image_id": "ejwm9eitwzuse7y135ab.jpg",
+                    "tender_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/ejwm9eitwzuse7y135ab.jpg",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                },
+                {
+                    "id": 94,
+                    "last_updated": "Fri, 23 Sep 2022 13:50:07 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "",
+                    "tall_image_secure_url": "",
+                    "tender_image_id": "msvfjrnow7sthaxbohz3.jpg",
+                    "tender_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/msvfjrnow7sthaxbohz3.jpg",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                },
+                {
+                    "id": 93,
+                    "last_updated": "Thu, 22 Sep 2022 12:41:46 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "",
+                    "tall_image_secure_url": "",
+                    "tender_image_id": "mnqp1bhns6edvkxjfjcp.jpg",
+                    "tender_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/mnqp1bhns6edvkxjfjcp.jpg",
+                    "wide_image_id": "",
+                    "wide_image_secure_url": ""
+                }
+            ],
+            //youtube videos ---for reference
+            "videos": [
+                {
+                    "created": "Thu, 27 Oct 2022 00:00:00 GMT",
+                    "id": 52,
+                    "link": "2k8c0fyVAZY",
+                    "site_id": 29
+                },
+                {
+                    "created": "Thu, 27 Oct 2022 00:00:00 GMT",
+                    "id": 51,
+                    "link": "GVcNq7LfZxo",
+                    "site_id": 29
+                },
+                {
+                    "created": "Thu, 27 Oct 2022 00:00:00 GMT",
+                    "id": 50,
+                    "link": "JLDfaSqebpw",
+                    "site_id": 29
+                },
+                {
+                    "created": "Sat, 22 Oct 2022 00:00:00 GMT",
+                    "id": 36,
+                    "link": "48QHgzB9jLs",
+                    "site_id": 29
+                },
+                {
+                    "created": "Sat, 22 Oct 2022 00:00:00 GMT",
+                    "id": 17,
+                    "link": "PK1X4fz87sM",
+                    "site_id": 29
+                },
+                {
+                    "created": "Sat, 22 Oct 2022 00:00:00 GMT",
+                    "id": 13,
+                    "link": "wAq3tnRD8C8",
+                    "site_id": 29
+                }
+            ],
+            "wide_ad_images": [
+                {
+                    "id": 175,
+                    "last_updated": "Thu, 27 Oct 2022 09:26:02 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "",
+                    "tall_image_secure_url": "",
+                    "tender_image_id": null,
+                    "tender_image_secure_url": "",
+                    "wide_image_id": "db2bfd9b-7512-4a50-9d11-5d5e54e497f8",
+                    "wide_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/db2bfd9b-7512-4a50-9d11-5d5e54e497f8"
+                },
+                {
+                    "id": 148,
+                    "last_updated": "Sun, 09 Oct 2022 19:40:01 GMT",
+                    "site_id": 29,
+                    "tall_image_id": "",
+                    "tall_image_secure_url": "",
+                    "tender_image_id": "",
+                    "tender_image_secure_url": "",
+                    "wide_image_id": "yuc2ujfoqmrrbvlbfo7d",
+                    "wide_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/yuc2ujfoqmrrbvlbfo7d.jpg"
+                }
+            ]
+        },
+        "article": {
+            "articles_in_last_24_hours": [
+                {
+                    "alternate_id": 0,
+                    "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- জনসেবা, সুশৃংখলতা , কর্তব্য পরায়নতা এবং সুশাসনের জন্য নয়াদিল্লিতে আয়োজিত সরদার বল্লভ ভাই প্যাটেল এর জন্মদিনে একতা দিবসে আয়োজিত প্যারেড শোতে রাষ্ট্রপতি পদকে ভূষিত করা হয়েছে। নয়াদিল্লিতে আয়োজিত অনুষ্ঠানে পুলিশ সুপারেনটেনডেন্ট সমুদ্র দেববর্মার হাতে পদক তুলে দিয়েছেন। রাজ্যের আইন শৃঙ্খলা বজায় রাখার জন্য সর্বশ্রেষ্ঠ সম্মানে ভূষিত করা হয়েছে ত্রিপুরা পুলিশকে।\n\n",
+                    "category_id": 181,
+                    "created": "Mon, 31 Oct 2022 15:29:24 GMT",
+                    "draft": false,
+                    "id": 22346,
+                    "last_updated": "Mon, 31 Oct 2022 15:29:24 GMT",
+                    "photos": [
+                        {
+                            "public_id": "62b6385a-77b2-47cd-b527-4abcf46d29d6",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/62b6385a-77b2-47cd-b527-4abcf46d29d6"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Mon, 31 Oct 2022 15:29:24 GMT",
+                    "site_id": 29,
+                    "title": "রাষ্ট্রপতি পদকে ভূষিত ত্রিপুরা পুলিশ",
+                    "user_id": 10,
+                    "videos": [],
+                    "views": 26
+                },
+                {
+                    "alternate_id": 0,
+                    "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- প্রয়াত প্রধানমন্ত্রী ইন্দিরা গান্ধীর মৃত্যু দিবস পালনের অনুষ্ঠানে দুর্বৃত্তদের হামলা। বহু স্থানে ভাঙচুর, মারধর প্রতিবাদে রাস্তা অবরোধের কংগ্রেস। ইন্দিরা গান্ধীর প্রয়ান দিবসের বিকেলে রাজধানীর ইন্দ্রনগর কালী বাড়ির সামনে কংগ্রেস পার্টি অফিস সহ জিবি হাসপাতালের গেটের সামনে কংগ্রেস কর্মীদের উপর আক্রমণ করেছে দুর্বৃত্তরা। কংগ্রেস দলের অভিযোগ বিজেপি বাইক বাহিনীর দুষ্কৃতিকারীরা এ আক্রমণ করেছে। আক্রমণের হাত থেকে রক্ষা পায়নি মহিলারা। মহিলাদের উপর আক্রমণের পাশাপাশি বিশ্রী ভাষায় গালিগালাজ করেছে বলে অভিযোগ।প্রতিবাদে রাস্তা অবরোধ এ বসেছেন স্থানীয় মানুষ। এ নিয়ে উত্তপ্ত ইন্দ্রনগর এলাকার। তাদের দাবি যতক্ষণ না পর্যন্ত দোষীদের চিহ্নিত করে গ্রেফতার করা হয় ততক্ষণ পর্যন্ত চলবে রাস্তা অবরোধ। ঘটনার প্রতিক্রিয়া ব্যক্ত করতে গিয়ে কংগ্রেস নেতা আশিস সাহা বলেন গোটা রাজ্যে আজকের দিনে কংগ্রেস কর্মী সমর্থকদের উপর হামলা করেছে দুর্বৃত্তরা। উদয়পুর থেকে আগরতলা বিভিন্ন স্থান থেকে খবর আসছে আক্রমণের। এ ধরনের ঘটনার ধিক্কার জানাচ্ছে কংগ্রেস। 20 23 বিধানসভা নির্বাচন যতই ঘনিয়ে আসছে ততোই ক্ষিপ্ত হয়ে উঠছে রাজনৈতিক দলগুলি। একদিকে ক্ষমতায় আসার চেষ্টা অন্যদিকে ক্ষমতা ধরে রাখার মরিয়া প্রয়াস। দুইয়ের যাঁতাকলে পড়ে না বিশ্বাস হচ্ছে সাধারণ মানুষের। প্রশাসনের ভূমিকা নিয়ে প্রশ্ন তুলছে বুদ্ধিজীবী অংশের মানুষরারা।\n\n",
+                    "category_id": 181,
+                    "created": "Mon, 31 Oct 2022 15:27:38 GMT",
+                    "draft": false,
+                    "id": 22345,
+                    "last_updated": "Mon, 31 Oct 2022 15:27:38 GMT",
+                    "photos": [
+                        {
+                            "public_id": "a8491aeb-1238-413d-aa90-b2a92a5dcb55",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/a8491aeb-1238-413d-aa90-b2a92a5dcb55"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Mon, 31 Oct 2022 15:27:38 GMT",
+                    "site_id": 29,
+                    "title": "কংগ্রেসিদের উপর দূর্বৃত্তের হামলা প্রতিবাদে রাস্তা অবরোধ",
+                    "user_id": 10,
+                    "videos": [],
+                    "views": 1
+                },
+                {
+                    "alternate_id": 0,
+                    "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- আবারো গাঁজা বিরোধী অভিযানে সাফল্য পেলো মধুপুর থানার পুলিশ। সোমবার মধুপুর থানার পুলিশ মধুপুর থানার অন্তর্গত হরিহর দোলা এলাকায় অভিযান চালিয়ে প্রায় ৩০ হাজার গাঁজা গাছ ধ্বংস করে। জানা যায় গোপন খবরের ভিত্তিতে আজকের এই অভিযান। এই ব্যাপারে মধুপুর থানার পুলিশ জানান আগামী দিনেও এইরকম অভিযান জারি থাকবে।\n\n",
+                    "category_id": 184,
+                    "created": "Mon, 31 Oct 2022 12:27:30 GMT",
+                    "draft": false,
+                    "id": 22334,
+                    "last_updated": "Mon, 31 Oct 2022 12:27:30 GMT",
+                    "photos": [
+                        {
+                            "public_id": "7c44d227-08a0-49eb-8f1c-a212de95dda1",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/7c44d227-08a0-49eb-8f1c-a212de95dda1"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Mon, 31 Oct 2022 12:27:30 GMT",
+                    "site_id": 29,
+                    "title": "গাজা বাগান কেটে দিল পুলিশ",
+                    "user_id": 10,
+                    "videos": [],
+                    "views": 21
+                },
+                {
+                    "alternate_id": 0,
+                    "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- লৌহমানব সরদার বল্লভ ভাই প্যাটেলের জন্মদিন রাষ্ট্রীয় একতা দিবস উপলক্ষে সোমবার রান ফর ইউনিটি' সারাদেশের সঙ্গে যথাযথ গুরুত্বের সঙ্গে পালন করা হয়। রাজ্যের যুব কল্যাণ ও ক্রীড়া দপ্তরের আয়োজনে আগরতলা আস্তাবল ময়দান থেকে এই দৌড় শুরু হয়। এই ফলকে আয়োজিত অনুষ্ঠানে উপস্থিত ছিলেন মুখ্যমন্ত্রী ড : মানিক সাহা , শিক্ষামন্ত্রী রতন লাল নাথ যুব কল্যাণ ও ক্রীড়া দপ্তরের মন্ত্রী সুশান্ত চৌধুরী সহ অন্যান্য মন্ত্রী বিধায়কগণ। এছাড়াও এই রান ফর ইউনিটিতে অংশগ্রহণ করে বিভিন্ন স্কুলের ছাত্রছাত্রীরা।\nরাষ্ট্রীয় একতা দিবসে রান ফর ইউনিটি।",
+                    "category_id": 181,
+                    "created": "Mon, 31 Oct 2022 12:26:42 GMT",
+                    "draft": false,
+                    "id": 22333,
+                    "last_updated": "Mon, 31 Oct 2022 12:26:42 GMT",
+                    "photos": [
+                        {
+                            "public_id": "27142c62-ac72-4c21-8942-cff3de197ced",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/27142c62-ac72-4c21-8942-cff3de197ced"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Mon, 31 Oct 2022 12:26:42 GMT",
+                    "site_id": 29,
+                    "title": "রাষ্ট্রীয় একতা দিবসে আগরতলায় রান ফর ইউনিটি",
+                    "user_id": 10,
+                    "videos": [],
+                    "views": 22
+                },
+                {
+                    "alternate_id": 0,
+                    "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- প্রয়াত  প্রাক্তন প্রধানমন্ত্রী প্রিয়দর্শিনী ইন্দিরা গান্ধীর 38 তম প্রয়াণ দিবস উপলক্ষে বাধারঘাট বিধানসভা কেন্দ্রে কংগ্রেস এর উদ্যোগে আয়োজন করা হয়েছিল দরিদ্র নারায়ন সেবা। 31 অক্টোবর ইন্দিরা গান্ধীর প্রয়াণ দিবসে প্রায় আড়াই হাজার মানুষের জন্য মধ্যাহ্নভোজের আয়োজন এর প্রস্তুতি চলছিল। রবিবার রাতের অন্ধকারে দুস্কৃতিকারীরা অনুষ্ঠানকে বানচাল করার লক্ষ্যে সমস্ত চালডাল সবজি এবং দুটি সিলিন্ডার গ্যাস নিয়ে চম্পট দেয়। এনিয়ে বাধারঘাট বিধানসভা কেন্দ্রের কংগ্রেস  বিজিত প্রার্থী রতন  দাস আমতলী থানায় একটি মামলা দায়ের করেছে। থানার দায়িত্বপ্রাপ্ত ইনচার্জকে অনুরোধ করেন অবিলম্বে যাতে দুষ্কৃতিকারীদের চিহ্নিত করে দৃষ্টান্তমূলক শাস্তির ব্যবস্থা গ্রহণ করে পুলিশ। ন্যাক্কারজনক ঘটনার তীব্র নিন্দা জানিয়েছে বাধারঘাট কংগ্রেস কমিটি।\n\n",
+                    "category_id": 184,
+                    "created": "Mon, 31 Oct 2022 12:24:20 GMT",
+                    "draft": false,
+                    "id": 22332,
+                    "last_updated": "Mon, 31 Oct 2022 12:24:20 GMT",
+                    "photos": [
+                        {
+                            "public_id": "a00ed542-6cf4-4af4-9ce8-ff5bec65c72d",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/a00ed542-6cf4-4af4-9ce8-ff5bec65c72d"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Mon, 31 Oct 2022 12:24:20 GMT",
+                    "site_id": 29,
+                    "title": "দরিদ্র নারায়ন সেবার সরঞ্জাম চুরি করল দুষ্কৃতিকারীরা",
+                    "user_id": 10,
+                    "videos": [],
+                    "views": 52
+                },
+                {
+                    "alternate_id": 0,
+                    "body": "Janatar kalam agartala report :- \nThe Central Bureau of Communication, (Erstwhile Directorate of Field Publicity) Field Office Agartala, Ministry of Information & Broadcasting, Government of India, organized Mini Integrated Communication and Outreach Program. One Day Exhibition on Azadi Ka Amrit Mahotsav and 8 Years of Seva, Sushasan & Garib Kalyan on 31st Oct. 2022 at Community Hall, Mohanpur, Jirania Block, West Tripura.\nShri Ranga Swamy Pusuloor, I.B.E.S. Director (E), Doordarshan, Agartala graced the function as the Chief Guest, Guest of Honour- Shri Manik Majumdar, Principal, Amtali Higher Secondary School, Dukli Block, West Tripura. Other dignitaries- Shri Tapan Kumar Das, Journalist, Tripura Times.\nSeminars, group discussion, exhibition, cultural program, Quiz competition, etc, were organized based on the theme- Azadi Ka Amrit Mahotsav and 8 Years of Seva, Sushasan & Garib Kalyan. M/S Sanghati Sanskritic Sangstha, Khayerpur, Agartala, West Tripura participated in the program. Shri HK Chang, In-charge of Central Bureau of Communication, Field Office Agartala led the audiences and explain them in detail during the exhibition program. Prizes were awarded to all the competition Winners. An approximate of 350 Audiences participated in the Exhibition Program.\n\n",
+                    "category_id": 181,
+                    "created": "Mon, 31 Oct 2022 12:23:02 GMT",
+                    "draft": false,
+                    "id": 22331,
+                    "last_updated": "Mon, 31 Oct 2022 12:23:02 GMT",
+                    "photos": [
+                        {
+                            "public_id": "79f601da-0998-4f0f-a784-2c8f6b537c7c",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/79f601da-0998-4f0f-a784-2c8f6b537c7c"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Mon, 31 Oct 2022 12:23:02 GMT",
+                    "site_id": 29,
+                    "title": "Azadi Ka Amrit Mahotsav and 8 Years of Seva, Sushasan & Garib kalyan exhibition program",
+                    "user_id": 10,
+                    "videos": [],
+                    "views": 6
+                },
+                {
+                    "alternate_id": 0,
+                    "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- প্রয়াত প্রাক্তন প্রধানমন্ত্রী ইন্দিরা গান্ধীর প্রয়াণ দিবসকে কেন্দ্র করে প্রদেশ কংগ্রেসের রাজ্যব্যাপী কর্মসূচি। বিভিন্ন স্থানে করা হয়েছে সভা। প্রয়াত প্রধানমন্ত্রী ইন্দিরা গান্ধীর প্রয়াণ দিবসকে কেন্দ্র করে সোমবার একপ্রকার শক্তির মহড়া দিল বিশালগড়ের কংগ্রেস কর্মীরা।এদিন সকালে প্রদেশ কংগ্রেস কমিটির সদস্য জয়দেব রায় বর্মণের নেতৃত্বে একদল কংগ্রেস কর্মী বাইক রেলি করে বিশালগড় মধ্যেবাজারস্থিত প্রয়াত ইন্দিরা গান্ধীর প্রতিকৃতিতে মাল্যদান করে।বাইক রেলিটি বিশালগড়ের বিভিন্ন পথ পরিক্রমা করে সোজা চলে যায় ঘনিয়ামাড়া বাজারে।সেখানে জাতীয় পতাকা এবং দলীয় পতাকা উত্তোলন শেষে পথ সভায় মিলিত হন।সংবাদ মাধ্যমের মুখোমুখি হয়ে কংগ্রেস নেতা জয়দেব রায় বর্মন বলেন গত সাড়ে চার বছর ধরে বিশালগড়ের পরিস্হিতি খুব একটা ভালো ছিল না,যার ফলে মাঝখানে কয়েক বছর এই অনুষ্ঠান বন্ধ ছিল।সাংবাদিকদের এক প্রশ্নের উত্তরে জয়দেব বর্মণ বলেন কংগ্রেস দলে নেতা নেত্রীর কোনো ব্যাপার নেই,বিশালগড়ের সাধারন কর্মী সমর্থকরাই দলের উৎস এবং শক্তি। অন্যদিকে প্রয়াত প্রধানমন্ত্রী ইন্দিরা গান্ধীর প্রয়াণ দিবস উপলক্ষে বিশালগড় ব্লক কংগ্রেসের পক্ষ থেকেও প্রদেশ কংগ্রেস কমিটির আরও এক সদস্য বিশালগড়ের স্থানীয় নেতা জয়দুল হোসেনের নেতৃত্বে আরও একটি বাইক রেলি বের করা হয়।রেলিটি মধ্যবাজারে ইন্দিরা গান্ধীর প্রতিকৃতিতে মাল্যদান করে বিশালগড় এর বিভিন্ন পথ পরিক্রমা করে দুর্গানগর বাজারে পৌঁছায়।সেখানে থাকা বহু বছর পুরোনো কংগ্রেসের একটি দলীয় অফিস জঞ্জালমুক্ত করে ব্যাবহারের উপযুক্ত করে তুলে।সাংবাদিকদের মুখোমুখি হয়ে কংগ্রেস নেতা জয়দুল হোসেন জানান প্রয়াত ইন্দিরা গান্ধীর আদর্শকে পুঁজি করেই আগামীদিনে ২০২৩ বিধানসভা নির্বাচনে বিজেপিকে ক্ষমতাচ্যুত করে রাজ্যে জাতীয় কংগ্রেস দল সরকার প্রতিষ্ঠা করবে। কিন্তু এদিন উভয় কর্মসূচিকে কেন্দ্র করে বিশালগড়ের শুভ বুদ্ধি সম্পন্ন মহলের একটা অংশ বিষয়টিকে ভালোভাবে দেখলেও অপর একটি অংশ বিষয়টিকে গোষ্ঠী কুন্দলের বহিঃপ্রকাশ বলে আখ্যা দিয়েছে।এই বিষয়ে কংগ্রেস নেতা জয়দুল হোসেনকে জিজ্ঞাসা করা হলে তিনি বিষয়টির ব্যাখ্যা দিতে গিয়ে বলেন নভেম্বর মাসেই খুব সম্ভবত আগামী বিধানসভা নির্বাচনে কংগ্রেস প্রার্থী ঘোষণা করতে চলেছে।কংগ্রেস প্রার্থী তালিকা ঘোষণা হয়ে গেলে এই বিষয়গুলিরও সমাধান হয়ে যাবে।তবে যে যাই বলুক না কেন সোমবার ইন্দিরা গান্ধীর মৃত্যুবার্ষিকীকে কেন্দ্র করে বিশালগড়ের কংগ্রেস কর্মীরা যে কর্মসূচি গুলি হাতে নিয়েছে তাতে বিশালগড়বাসীকে আগামী বিধানসভা নির্বাচনে শাসকদলকে যে বড়সড় চ্যালেঞ্জ দিতে সক্ষম তা জানান দিতে অনেকটাই সফল হয়েছে বলা চলে।\n\n\n",
+                    "category_id": 181,
+                    "created": "Mon, 31 Oct 2022 12:20:36 GMT",
+                    "draft": false,
+                    "id": 22330,
+                    "last_updated": "Mon, 31 Oct 2022 12:20:36 GMT",
+                    "photos": [
+                        {
+                            "public_id": "e09e72dd-1e0b-4623-88d1-0a102bbfbae1",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/e09e72dd-1e0b-4623-88d1-0a102bbfbae1"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Mon, 31 Oct 2022 12:20:36 GMT",
+                    "site_id": 29,
+                    "title": "বিশালগড়ে শক্তির মহড়া দিল কংগ্রেস গোষ্ঠী কোন্দল প্রকাশ্যে",
+                    "user_id": 10,
+                    "videos": [],
+                    "views": 2
+                }
+            ],
+            "last_recorded_news": [
+                {
+                    "alternate_id": 0,
+                    "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- জনসেবা, সুশৃংখলতা , কর্তব্য পরায়নতা এবং সুশাসনের জন্য নয়াদিল্লিতে আয়োজিত সরদার বল্লভ ভাই প্যাটেল এর জন্মদিনে একতা দিবসে আয়োজিত প্যারেড শোতে রাষ্ট্রপতি পদকে ভূষিত করা হয়েছে। নয়াদিল্লিতে আয়োজিত অনুষ্ঠানে পুলিশ সুপারেনটেনডেন্ট সমুদ্র দেববর্মার হাতে পদক তুলে দিয়েছেন। রাজ্যের আইন শৃঙ্খলা বজায় রাখার জন্য সর্বশ্রেষ্ঠ সম্মানে ভূষিত করা হয়েছে ত্রিপুরা পুলিশকে।\n\n",
+                    "category_id": 181,
+                    "created": "Mon, 31 Oct 2022 15:29:24 GMT",
+                    "draft": false,
+                    "id": 22346,
+                    "last_updated": "Mon, 31 Oct 2022 15:29:24 GMT",
+                    "photos": [
+                        {
+                            "public_id": "62b6385a-77b2-47cd-b527-4abcf46d29d6",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/62b6385a-77b2-47cd-b527-4abcf46d29d6"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Mon, 31 Oct 2022 15:29:24 GMT",
+                    "site_id": 29,
+                    "title": "রাষ্ট্রপতি পদকে ভূষিত ত্রিপুরা পুলিশ",
+                    "user_id": 10,
+                    "videos": [],
+                    "views": 26
+                }
+            ],
+            "latest_articles": [
+                {
+                    "alternate_id": 0,
+                    "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- জনসেবা, সুশৃংখলতা , কর্তব্য পরায়নতা এবং সুশাসনের জন্য নয়াদিল্লিতে আয়োজিত সরদার বল্লভ ভাই প্যাটেল এর জন্মদিনে একতা দিবসে আয়োজিত প্যারেড শোতে রাষ্ট্রপতি পদকে ভূষিত করা হয়েছে। নয়াদিল্লিতে আয়োজিত অনুষ্ঠানে পুলিশ সুপারেনটেনডেন্ট সমুদ্র দেববর্মার হাতে পদক তুলে দিয়েছেন। রাজ্যের আইন শৃঙ্খলা বজায় রাখার জন্য সর্বশ্রেষ্ঠ সম্মানে ভূষিত করা হয়েছে ত্রিপুরা পুলিশকে।\n\n",
+                    "category_id": 181,
+                    "created": "Mon, 31 Oct 2022 15:29:24 GMT",
+                    "draft": false,
+                    "id": 22346,
+                    "last_updated": "Mon, 31 Oct 2022 15:29:24 GMT",
+                    "photos": [
+                        {
+                            "public_id": "62b6385a-77b2-47cd-b527-4abcf46d29d6",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/62b6385a-77b2-47cd-b527-4abcf46d29d6"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Mon, 31 Oct 2022 15:29:24 GMT",
+                    "site_id": 29,
+                    "title": "রাষ্ট্রপতি পদকে ভূষিত ত্রিপুরা পুলিশ",
+                    "user_id": 10,
+                    "videos": [],
+                    "views": 26
+                },
+                {
+                    "alternate_id": 0,
+                    "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- প্রয়াত প্রধানমন্ত্রী ইন্দিরা গান্ধীর মৃত্যু দিবস পালনের অনুষ্ঠানে দুর্বৃত্তদের হামলা। বহু স্থানে ভাঙচুর, মারধর প্রতিবাদে রাস্তা অবরোধের কংগ্রেস। ইন্দিরা গান্ধীর প্রয়ান দিবসের বিকেলে রাজধানীর ইন্দ্রনগর কালী বাড়ির সামনে কংগ্রেস পার্টি অফিস সহ জিবি হাসপাতালের গেটের সামনে কংগ্রেস কর্মীদের উপর আক্রমণ করেছে দুর্বৃত্তরা। কংগ্রেস দলের অভিযোগ বিজেপি বাইক বাহিনীর দুষ্কৃতিকারীরা এ আক্রমণ করেছে। আক্রমণের হাত থেকে রক্ষা পায়নি মহিলারা। মহিলাদের উপর আক্রমণের পাশাপাশি বিশ্রী ভাষায় গালিগালাজ করেছে বলে অভিযোগ।প্রতিবাদে রাস্তা অবরোধ এ বসেছেন স্থানীয় মানুষ। এ নিয়ে উত্তপ্ত ইন্দ্রনগর এলাকার। তাদের দাবি যতক্ষণ না পর্যন্ত দোষীদের চিহ্নিত করে গ্রেফতার করা হয় ততক্ষণ পর্যন্ত চলবে রাস্তা অবরোধ। ঘটনার প্রতিক্রিয়া ব্যক্ত করতে গিয়ে কংগ্রেস নেতা আশিস সাহা বলেন গোটা রাজ্যে আজকের দিনে কংগ্রেস কর্মী সমর্থকদের উপর হামলা করেছে দুর্বৃত্তরা। উদয়পুর থেকে আগরতলা বিভিন্ন স্থান থেকে খবর আসছে আক্রমণের। এ ধরনের ঘটনার ধিক্কার জানাচ্ছে কংগ্রেস। 20 23 বিধানসভা নির্বাচন যতই ঘনিয়ে আসছে ততোই ক্ষিপ্ত হয়ে উঠছে রাজনৈতিক দলগুলি। একদিকে ক্ষমতায় আসার চেষ্টা অন্যদিকে ক্ষমতা ধরে রাখার মরিয়া প্রয়াস। দুইয়ের যাঁতাকলে পড়ে না বিশ্বাস হচ্ছে সাধারণ মানুষের। প্রশাসনের ভূমিকা নিয়ে প্রশ্ন তুলছে বুদ্ধিজীবী অংশের মানুষরারা।\n\n",
+                    "category_id": 181,
+                    "created": "Mon, 31 Oct 2022 15:27:38 GMT",
+                    "draft": false,
+                    "id": 22345,
+                    "last_updated": "Mon, 31 Oct 2022 15:27:38 GMT",
+                    "photos": [
+                        {
+                            "public_id": "a8491aeb-1238-413d-aa90-b2a92a5dcb55",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/a8491aeb-1238-413d-aa90-b2a92a5dcb55"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Mon, 31 Oct 2022 15:27:38 GMT",
+                    "site_id": 29,
+                    "title": "কংগ্রেসিদের উপর দূর্বৃত্তের হামলা প্রতিবাদে রাস্তা অবরোধ",
+                    "user_id": 10,
+                    "videos": [],
+                    "views": 1
+                },
+                {
+                    "alternate_id": 0,
+                    "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- আবারো গাঁজা বিরোধী অভিযানে সাফল্য পেলো মধুপুর থানার পুলিশ। সোমবার মধুপুর থানার পুলিশ মধুপুর থানার অন্তর্গত হরিহর দোলা এলাকায় অভিযান চালিয়ে প্রায় ৩০ হাজার গাঁজা গাছ ধ্বংস করে। জানা যায় গোপন খবরের ভিত্তিতে আজকের এই অভিযান। এই ব্যাপারে মধুপুর থানার পুলিশ জানান আগামী দিনেও এইরকম অভিযান জারি থাকবে।\n\n",
+                    "category_id": 184,
+                    "created": "Mon, 31 Oct 2022 12:27:30 GMT",
+                    "draft": false,
+                    "id": 22334,
+                    "last_updated": "Mon, 31 Oct 2022 12:27:30 GMT",
+                    "photos": [
+                        {
+                            "public_id": "7c44d227-08a0-49eb-8f1c-a212de95dda1",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/7c44d227-08a0-49eb-8f1c-a212de95dda1"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Mon, 31 Oct 2022 12:27:30 GMT",
+                    "site_id": 29,
+                    "title": "গাজা বাগান কেটে দিল পুলিশ",
+                    "user_id": 10,
+                    "videos": [],
+                    "views": 21
+                },
+                {
+                    "alternate_id": 0,
+                    "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- লৌহমানব সরদার বল্লভ ভাই প্যাটেলের জন্মদিন রাষ্ট্রীয় একতা দিবস উপলক্ষে সোমবার রান ফর ইউনিটি' সারাদেশের সঙ্গে যথাযথ গুরুত্বের সঙ্গে পালন করা হয়। রাজ্যের যুব কল্যাণ ও ক্রীড়া দপ্তরের আয়োজনে আগরতলা আস্তাবল ময়দান থেকে এই দৌড় শুরু হয়। এই ফলকে আয়োজিত অনুষ্ঠানে উপস্থিত ছিলেন মুখ্যমন্ত্রী ড : মানিক সাহা , শিক্ষামন্ত্রী রতন লাল নাথ যুব কল্যাণ ও ক্রীড়া দপ্তরের মন্ত্রী সুশান্ত চৌধুরী সহ অন্যান্য মন্ত্রী বিধায়কগণ। এছাড়াও এই রান ফর ইউনিটিতে অংশগ্রহণ করে বিভিন্ন স্কুলের ছাত্রছাত্রীরা।\nরাষ্ট্রীয় একতা দিবসে রান ফর ইউনিটি।",
+                    "category_id": 181,
+                    "created": "Mon, 31 Oct 2022 12:26:42 GMT",
+                    "draft": false,
+                    "id": 22333,
+                    "last_updated": "Mon, 31 Oct 2022 12:26:42 GMT",
+                    "photos": [
+                        {
+                            "public_id": "27142c62-ac72-4c21-8942-cff3de197ced",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/27142c62-ac72-4c21-8942-cff3de197ced"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Mon, 31 Oct 2022 12:26:42 GMT",
+                    "site_id": 29,
+                    "title": "রাষ্ট্রীয় একতা দিবসে আগরতলায় রান ফর ইউনিটি",
+                    "user_id": 10,
+                    "videos": [],
+                    "views": 22
+                },
+                {
+                    "alternate_id": 0,
+                    "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- প্রয়াত  প্রাক্তন প্রধানমন্ত্রী প্রিয়দর্শিনী ইন্দিরা গান্ধীর 38 তম প্রয়াণ দিবস উপলক্ষে বাধারঘাট বিধানসভা কেন্দ্রে কংগ্রেস এর উদ্যোগে আয়োজন করা হয়েছিল দরিদ্র নারায়ন সেবা। 31 অক্টোবর ইন্দিরা গান্ধীর প্রয়াণ দিবসে প্রায় আড়াই হাজার মানুষের জন্য মধ্যাহ্নভোজের আয়োজন এর প্রস্তুতি চলছিল। রবিবার রাতের অন্ধকারে দুস্কৃতিকারীরা অনুষ্ঠানকে বানচাল করার লক্ষ্যে সমস্ত চালডাল সবজি এবং দুটি সিলিন্ডার গ্যাস নিয়ে চম্পট দেয়। এনিয়ে বাধারঘাট বিধানসভা কেন্দ্রের কংগ্রেস  বিজিত প্রার্থী রতন  দাস আমতলী থানায় একটি মামলা দায়ের করেছে। থানার দায়িত্বপ্রাপ্ত ইনচার্জকে অনুরোধ করেন অবিলম্বে যাতে দুষ্কৃতিকারীদের চিহ্নিত করে দৃষ্টান্তমূলক শাস্তির ব্যবস্থা গ্রহণ করে পুলিশ। ন্যাক্কারজনক ঘটনার তীব্র নিন্দা জানিয়েছে বাধারঘাট কংগ্রেস কমিটি।\n\n",
+                    "category_id": 184,
+                    "created": "Mon, 31 Oct 2022 12:24:20 GMT",
+                    "draft": false,
+                    "id": 22332,
+                    "last_updated": "Mon, 31 Oct 2022 12:24:20 GMT",
+                    "photos": [
+                        {
+                            "public_id": "a00ed542-6cf4-4af4-9ce8-ff5bec65c72d",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/a00ed542-6cf4-4af4-9ce8-ff5bec65c72d"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Mon, 31 Oct 2022 12:24:20 GMT",
+                    "site_id": 29,
+                    "title": "দরিদ্র নারায়ন সেবার সরঞ্জাম চুরি করল দুষ্কৃতিকারীরা",
+                    "user_id": 10,
+                    "videos": [],
+                    "views": 52
+                },
+                {
+                    "alternate_id": 0,
+                    "body": "Janatar kalam agartala report :- \nThe Central Bureau of Communication, (Erstwhile Directorate of Field Publicity) Field Office Agartala, Ministry of Information & Broadcasting, Government of India, organized Mini Integrated Communication and Outreach Program. One Day Exhibition on Azadi Ka Amrit Mahotsav and 8 Years of Seva, Sushasan & Garib Kalyan on 31st Oct. 2022 at Community Hall, Mohanpur, Jirania Block, West Tripura.\nShri Ranga Swamy Pusuloor, I.B.E.S. Director (E), Doordarshan, Agartala graced the function as the Chief Guest, Guest of Honour- Shri Manik Majumdar, Principal, Amtali Higher Secondary School, Dukli Block, West Tripura. Other dignitaries- Shri Tapan Kumar Das, Journalist, Tripura Times.\nSeminars, group discussion, exhibition, cultural program, Quiz competition, etc, were organized based on the theme- Azadi Ka Amrit Mahotsav and 8 Years of Seva, Sushasan & Garib Kalyan. M/S Sanghati Sanskritic Sangstha, Khayerpur, Agartala, West Tripura participated in the program. Shri HK Chang, In-charge of Central Bureau of Communication, Field Office Agartala led the audiences and explain them in detail during the exhibition program. Prizes were awarded to all the competition Winners. An approximate of 350 Audiences participated in the Exhibition Program.\n\n",
+                    "category_id": 181,
+                    "created": "Mon, 31 Oct 2022 12:23:02 GMT",
+                    "draft": false,
+                    "id": 22331,
+                    "last_updated": "Mon, 31 Oct 2022 12:23:02 GMT",
+                    "photos": [
+                        {
+                            "public_id": "79f601da-0998-4f0f-a784-2c8f6b537c7c",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/79f601da-0998-4f0f-a784-2c8f6b537c7c"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Mon, 31 Oct 2022 12:23:02 GMT",
+                    "site_id": 29,
+                    "title": "Azadi Ka Amrit Mahotsav and 8 Years of Seva, Sushasan & Garib kalyan exhibition program",
+                    "user_id": 10,
+                    "videos": [],
+                    "views": 6
+                },
+                {
+                    "alternate_id": 0,
+                    "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- প্রয়াত প্রাক্তন প্রধানমন্ত্রী ইন্দিরা গান্ধীর প্রয়াণ দিবসকে কেন্দ্র করে প্রদেশ কংগ্রেসের রাজ্যব্যাপী কর্মসূচি। বিভিন্ন স্থানে করা হয়েছে সভা। প্রয়াত প্রধানমন্ত্রী ইন্দিরা গান্ধীর প্রয়াণ দিবসকে কেন্দ্র করে সোমবার একপ্রকার শক্তির মহড়া দিল বিশালগড়ের কংগ্রেস কর্মীরা।এদিন সকালে প্রদেশ কংগ্রেস কমিটির সদস্য জয়দেব রায় বর্মণের নেতৃত্বে একদল কংগ্রেস কর্মী বাইক রেলি করে বিশালগড় মধ্যেবাজারস্থিত প্রয়াত ইন্দিরা গান্ধীর প্রতিকৃতিতে মাল্যদান করে।বাইক রেলিটি বিশালগড়ের বিভিন্ন পথ পরিক্রমা করে সোজা চলে যায় ঘনিয়ামাড়া বাজারে।সেখানে জাতীয় পতাকা এবং দলীয় পতাকা উত্তোলন শেষে পথ সভায় মিলিত হন।সংবাদ মাধ্যমের মুখোমুখি হয়ে কংগ্রেস নেতা জয়দেব রায় বর্মন বলেন গত সাড়ে চার বছর ধরে বিশালগড়ের পরিস্হিতি খুব একটা ভালো ছিল না,যার ফলে মাঝখানে কয়েক বছর এই অনুষ্ঠান বন্ধ ছিল।সাংবাদিকদের এক প্রশ্নের উত্তরে জয়দেব বর্মণ বলেন কংগ্রেস দলে নেতা নেত্রীর কোনো ব্যাপার নেই,বিশালগড়ের সাধারন কর্মী সমর্থকরাই দলের উৎস এবং শক্তি। অন্যদিকে প্রয়াত প্রধানমন্ত্রী ইন্দিরা গান্ধীর প্রয়াণ দিবস উপলক্ষে বিশালগড় ব্লক কংগ্রেসের পক্ষ থেকেও প্রদেশ কংগ্রেস কমিটির আরও এক সদস্য বিশালগড়ের স্থানীয় নেতা জয়দুল হোসেনের নেতৃত্বে আরও একটি বাইক রেলি বের করা হয়।রেলিটি মধ্যবাজারে ইন্দিরা গান্ধীর প্রতিকৃতিতে মাল্যদান করে বিশালগড় এর বিভিন্ন পথ পরিক্রমা করে দুর্গানগর বাজারে পৌঁছায়।সেখানে থাকা বহু বছর পুরোনো কংগ্রেসের একটি দলীয় অফিস জঞ্জালমুক্ত করে ব্যাবহারের উপযুক্ত করে তুলে।সাংবাদিকদের মুখোমুখি হয়ে কংগ্রেস নেতা জয়দুল হোসেন জানান প্রয়াত ইন্দিরা গান্ধীর আদর্শকে পুঁজি করেই আগামীদিনে ২০২৩ বিধানসভা নির্বাচনে বিজেপিকে ক্ষমতাচ্যুত করে রাজ্যে জাতীয় কংগ্রেস দল সরকার প্রতিষ্ঠা করবে। কিন্তু এদিন উভয় কর্মসূচিকে কেন্দ্র করে বিশালগড়ের শুভ বুদ্ধি সম্পন্ন মহলের একটা অংশ বিষয়টিকে ভালোভাবে দেখলেও অপর একটি অংশ বিষয়টিকে গোষ্ঠী কুন্দলের বহিঃপ্রকাশ বলে আখ্যা দিয়েছে।এই বিষয়ে কংগ্রেস নেতা জয়দুল হোসেনকে জিজ্ঞাসা করা হলে তিনি বিষয়টির ব্যাখ্যা দিতে গিয়ে বলেন নভেম্বর মাসেই খুব সম্ভবত আগামী বিধানসভা নির্বাচনে কংগ্রেস প্রার্থী ঘোষণা করতে চলেছে।কংগ্রেস প্রার্থী তালিকা ঘোষণা হয়ে গেলে এই বিষয়গুলিরও সমাধান হয়ে যাবে।তবে যে যাই বলুক না কেন সোমবার ইন্দিরা গান্ধীর মৃত্যুবার্ষিকীকে কেন্দ্র করে বিশালগড়ের কংগ্রেস কর্মীরা যে কর্মসূচি গুলি হাতে নিয়েছে তাতে বিশালগড়বাসীকে আগামী বিধানসভা নির্বাচনে শাসকদলকে যে বড়সড় চ্যালেঞ্জ দিতে সক্ষম তা জানান দিতে অনেকটাই সফল হয়েছে বলা চলে।\n\n\n",
+                    "category_id": 181,
+                    "created": "Mon, 31 Oct 2022 12:20:36 GMT",
+                    "draft": false,
+                    "id": 22330,
+                    "last_updated": "Mon, 31 Oct 2022 12:20:36 GMT",
+                    "photos": [
+                        {
+                            "public_id": "e09e72dd-1e0b-4623-88d1-0a102bbfbae1",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/e09e72dd-1e0b-4623-88d1-0a102bbfbae1"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Mon, 31 Oct 2022 12:20:36 GMT",
+                    "site_id": 29,
+                    "title": "বিশালগড়ে শক্তির মহড়া দিল কংগ্রেস গোষ্ঠী কোন্দল প্রকাশ্যে",
+                    "user_id": 10,
+                    "videos": [],
+                    "views": 2
+                },
+                {
+                    "alternate_id": 0,
+                    "body": "\n\n\nJanatar kalam web report :- The Central Bureau of Communication, Field Office Agartala carried out Pre-publicity program by pasting posters and miking on 30-Oct-2022.\n\nShri Ranga Swami Pusuloor, Director (E), Doordarshan, Agartala will inaugurate the Photo Exhibition on 31-Oct-2022, at Community Hall, Amtali Higher Secondary School, Dukli block, West Tripura.\n\nField Publicity Officer i.c. Field Office Agartala.\nMinistry of Information & Broadcasting,\nGovernment of India.",
+                    "category_id": 181,
+                    "created": "Sun, 30 Oct 2022 18:26:13 GMT",
+                    "draft": false,
+                    "id": 22313,
+                    "last_updated": "Sun, 30 Oct 2022 18:26:13 GMT",
+                    "photos": [
+                        {
+                            "public_id": "2b27acc5-3706-45ac-9947-0d2f72cea61b",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/2b27acc5-3706-45ac-9947-0d2f72cea61b"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Sun, 30 Oct 2022 18:26:13 GMT",
+                    "site_id": 29,
+                    "title": "Photo Exhibition on Azadi Ka Amrit Mahotsav and 8 years Seva, Sushasan & Garib Kalyan.",
+                    "user_id": 10,
+                    "videos": [],
+                    "views": 7
+                },
+                {
+                    "alternate_id": 0,
+                    "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- ছট পূজা উপলক্ষে আগরতলার ক্যাপিটাল কমপ্লেক্স এলাকার রানীর পুকুরে একত্রিত হয়েছিলেন  মহিলারা। জলে নেমে সূর্য দেবতার উদ্দেশ্যে আরতির পাশাপাশি পুন্যস্নানও করেন তারা। বিহার, ঝাড়খন্ড ,উত্তরপ্রদেশ সহ সমগ্র উত্তর ভারত ও নেপালে এই পূজার প্রচলন রয়েছে। মূলত আগরতলায় বসবাসকারী সে সমস্ত রাজ্যের মানুষেরাই পারিবারিক  সুখ সমবৃদ্ধির আশায় এই পূজা করে থাকেন।  ৩৬ ঘন্টা যাবৎ উপবাসের পর মহিলারা পুণ্যস্নান ও আরতিতে অংশ নেন। \n\n",
+                    "category_id": 181,
+                    "created": "Sun, 30 Oct 2022 14:58:28 GMT",
+                    "draft": false,
+                    "id": 22295,
+                    "last_updated": "Sun, 30 Oct 2022 14:58:28 GMT",
+                    "photos": [
+                        {
+                            "public_id": "8cdc6dfa-c678-4a8b-b7aa-1343fcb3fadd",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/8cdc6dfa-c678-4a8b-b7aa-1343fcb3fadd"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Sun, 30 Oct 2022 14:58:28 GMT",
+                    "site_id": 29,
+                    "title": "রাজধানীতে সংঘটিত হলো ছট পূজার পুণ্যস্নান",
+                    "user_id": 10,
+                    "videos": [],
+                    "views": 4
+                },
+                {
+                    "alternate_id": 0,
+                    "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- দ্বীপ ভট্টাচার্য নামে 22 বছর বয়সী এক যুবককে চুরির অপরাধে গ্রেপ্তার করে পূর্ব থানার পুলিশ। সে গত 23 শে অক্টোবর রাতে গণরাজ চৌমুহনী এলাকার ডাক্তার মৃদুল দাসের চেম্বারে  জানালার গ্রিল কেটে ঢুকে বেশ কিছু গুরুত্বপূর্ণ জিনিস চুরি করে নিয়ে যায়। পরদিন থানায় অভিযোগ দায়ের করেন ডাক্তার দাস। এই অভিযোগ মূলে পূর্ব থানার পুলিশ তদন্তে নেমে সিসিটিভির ফুটেজ ঘেঁটে দ্বীপ  ভট্টাচার্যকে চিহ্নিত করে এবং আটক করে। সদরের এস ডি পি ও অজয় কুমার দাস জানান তাকে পুলিশ রিমান্ডে এনে আরও জিজ্ঞাসাবাদ চালানো হবে এবং তার সঙ্গীদের গ্রেফতারের চেষ্টা করব।\n",
+                    "category_id": 184,
+                    "created": "Sun, 30 Oct 2022 14:40:53 GMT",
+                    "draft": false,
+                    "id": 22292,
+                    "last_updated": "Sun, 30 Oct 2022 14:40:53 GMT",
+                    "photos": [
+                        {
+                            "public_id": "61eab6e5-1b52-4655-8b34-f632fb4e8fec",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/61eab6e5-1b52-4655-8b34-f632fb4e8fec"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Sun, 30 Oct 2022 14:40:53 GMT",
+                    "site_id": 29,
+                    "title": "পূর্ব থানার পুলিশের হাতে গ্রেফতার এক চোর",
+                    "user_id": 10,
+                    "videos": [],
+                    "views": 3
+                }
+            ],
+            "most_read_news": [
+                {
+                    "alternate_id": 203,
+                    "body": "\n\nকাঞ্চনপুর থানার এস ডি পি ও এবং থানার ওসি নেতৃত্বে কাঞ্চনপুর বন দপ্তরের সেন্ট্রাল নার্সারি থেকে হিরোইন সহ তিন আরক্ষাকর্মীকে গ্রেপ্তার করে পুলিশ ।  এদের মধ্যে দুজন ছিল পুলিশ কনস্টেবল আরেকজন ছিল টি এস আর জওয়ান। তাদের নাম দিলীপ চাকমা , নরোত্তম চাকমা, ও সঞ্জীব চাকমা। ধৃত দিলীপ চাকমা রাজ্যের সমাজ কল্যাণ দপ্তরের মন্ত্রী শান্তনা চাকমার দেহরক্ষী বলে জানা যায় । ধৃতদের কাছ থেকে পুলিশ ১৪৮টি প্লাস্টিকের কন্টেনার সহ একটি প্যাকেট উদ্ধার করে । উদ্ধারকৃত হেরোইনের বাজার মূল্য ১০ লক্ষ টাকা বলে জানা যায় ।",
+                    "category_id": 181,
+                    "created": "Thu, 27 Feb 2020 12:28:08 GMT",
+                    "draft": false,
+                    "id": 17654,
+                    "last_updated": "Thu, 27 Feb 2020 12:28:08 GMT",
+                    "photos": [
+                        {
+                            "previous_reference": "https://res.cloudinary.com/janatarkalam/image/upload/v1582806484/oltqmqjprlfyvrnxoexa.jpg",
+                            "public_id": "oltqmqjprlfyvrnxoexa.jpg",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/oltqmqjprlfyvrnxoexa.jpg"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Thu, 27 Feb 2020 12:28:08 GMT",
+                    "site_id": 29,
+                    "title": "হিরোইনসহ ধরা খেল সমাজ কল্যাণ মন্ত্রীর দেহরক্ষী ও দুই পুলিশ কনস্টেবল ",
+                    "user_id": null,
+                    "videos": [],
+                    "views": 58728
+                },
+                {
+                    "alternate_id": 399,
+                    "body": "চিকিৎসার জন্যে চেন্নাই গিয়েছিল উদয়পুরের বাসিন্দা চঞ্চল মজুমদার ও তার স্ত্রী এবং আরো এক পরিবার  । সেখান থেকে ফেরার টিকিট না পাওয়ায় গত ১৫ তারিখ দুপুর ২টা নাগাদ চঞ্চল মজুমদারের পরিবার ও আরো এক পরিবার মিলে চেন্নাই থেকে রওনা হয় আগরতলার উদ্দেশ্যে । অবশেষে ১৯ তারিখ রাত ১১টাই আগরতলা এসে পৌঁছায় চেনাই থেকে ২ পরিবারকে নিয়ে আসা এম্বুলেন্সটি।  রাজধানীর বনমালিপুরস্থিত পেট্রোল পাম্পে পেট্রোল নেওয়ার উদ্দেশ্যে যখন এম্বুলেন্সটি দাঁড়ায় তখন সাংবাদিকদের মুখোমুখি হয়ে পরিবারের একজন জানায় লক ডাউনের ফলে ফেরার টিকিট পাইনি এরা, তাই উপায় না পেয়ে ২ পরিবার মিলে ১ লক্ষ ৪০ হাজার টাকা ব্যায় করে এম্বুলেন্সে করে আগরতলা চলে আসে ।",
+                    "category_id": 181,
+                    "created": "Mon, 20 Apr 2020 07:52:47 GMT",
+                    "draft": false,
+                    "id": 15094,
+                    "last_updated": "Mon, 20 Apr 2020 07:52:47 GMT",
+                    "photos": [
+                        {
+                            "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1587369157/fle5ryq9o7lwx5szhktb.jpg",
+                            "public_id": "fle5ryq9o7lwx5szhktb.jpg",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/fle5ryq9o7lwx5szhktb.jpg"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Mon, 20 Apr 2020 07:52:47 GMT",
+                    "site_id": 29,
+                    "title": "মোটা  টাকা ব্যায় করে এম্বুলেন্স নিয়ে চেন্নাই থেকে বাড়ি ফিরলো উদয়পুরের ২ পরিবার ",
+                    "user_id": null,
+                    "videos": [
+                        "9ucF3sp1E8Y"
+                    ],
+                    "views": 7139
+                },
+                {
+                    "alternate_id": 1543,
+                    "body": "\n\n\nজনতার কলম ত্রিপুরা আগরতলা প্রতিনিধিঃ- কিছুদিন পূর্বে রাজ্য সরকারের সংস্কারপন্থীরা বর্তমান রাজ্য সরকারের পরিস্থিতির নিরিখে দিল্লীতে গিয়েছিলেন কেন্দ্রীয় সরকারের নেতৃত্বদের সাথে কথা বলার জন্য। তারপর সে বিষয়ে ক্ষতিয়ে দেখার জন্য রাজ্যে এসেছিলেন ভারতীয় জনতা পার্টির ত্রিপুরা প্রদেশের নবনিযুক্ত প্রভারী বিনোদ সোনকর। সেদিন তিনি প্রদেশ বিজেপি কার্যালয়ে সাংবাদিকদের মুখোমুখি হয়ে রাজ্য রাজনীতির পরিস্থিতি স্বাভাবিক বলে জানিয়েছেন। কিন্তু তারপরও রাজ্য সরকারের সংস্কারপন্থী বিধায়করা বারংবার দীল্লিতে গিয়েছেন। সেখানে কেন্দ্রীয় নেতৃত্বদের সাথে কথা বলেন, সেটারই ফল কিংবা ঐতিহাসিক বিষয় রাজ্য রাজনীতিতে বলা যেতে পারে কেননা সুত্রের খবর অনুযায়ী জানা যায় বিধায়ক সুদীপ রায় বর্মন ফিরে পেতে চলছেন হারানো মন্ত্রীত্ব পদ, শুধু তাই নই বিপ্লব দেবের কাছ থেকে কেড়ে নিয়ে স্বরাষ্ট্র মন্ত্রকের দায়িত্বভার সুদীপের কাধে পড়তে চলছে বলে সুত্রে জানা যায়। তাছাড়া অন্যদিকে রাজ্যে আসন্ন দুদুটি নির্বাচনকে সামনে রেখে অস্থায়ী বিজেপি সভাপতি হিসেবে নির্বাচনের দায়িত্বভার কাধে নিতে চলছেন রাজ্য সরকারের বিধায়ক রামপ্রসাদ পাল। রাজ্য রাজনীতিতে এধরনের ঐতিহাসিক রদবদলে কতটুকু প্রভাব বিস্তার করতে পারবে রাজ্য সরকার সেটাই এখন দেখার বিষয়।",
+                    "category_id": 181,
+                    "created": "Wed, 06 Jan 2021 09:05:02 GMT",
+                    "draft": false,
+                    "id": 15102,
+                    "last_updated": "Wed, 06 Jan 2021 09:05:02 GMT",
+                    "photos": [
+                        {
+                            "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1609923899/lc6dyzx0ayx1rycdu0dc.jpg",
+                            "public_id": "lc6dyzx0ayx1rycdu0dc.jpg",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/lc6dyzx0ayx1rycdu0dc.jpg"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Wed, 06 Jan 2021 09:05:02 GMT",
+                    "site_id": 29,
+                    "title": "মন্ত্রীত্ব পদ ফিরে পাচ্ছেন সুদীপ, নির্বাচনী সভাপতি হিসাবে দায়িত্ব পেতে চলছেন রাম প্রসাদ পাল",
+                    "user_id": null,
+                    "videos": [],
+                    "views": 5770
+                },
+                {
+                    "alternate_id": 223,
+                    "body": "\n\nজয়পুর রাজস্থানের স্কুল অফ ল এবং মহারাজ বিনায়ক গ্লোবাল ইউনিভার্সিটির উদ্যোগে জাতীয় স্তরের মোট কোর্ট প্রতিযোগিতার আয়োজন করা হয় যেখানে রাজ্যের মডার্ন ল কলেজ থেকে রাজধানীর লেক চৌমুহনীর অনুসূয়া দেববর্মা নামের এক আইন পড়ুয়া ছাত্রীসহ দেশের বিভিন্ন রাজ্যের আরো ২৫ জন প্রতিযোগী অংশগ্রহন করে। সেখানে হাইকোর্টের বিচারপতিদের তত্ত্বাবধানে একটি প্রতিযোগিতা হয় সেখানে রাজ্যের মডার্ন ল কলেজের ছাত্রী অনুসূয়া দেববর্মা দেশের বিভিন্ন রাজ্যের ২৬ টি কলেজের প্রতিযোগীদের পেছনে ফেলে প্রথম স্থান অধিকার করে । ",
+                    "category_id": 181,
+                    "created": "Wed, 04 Mar 2020 08:25:15 GMT",
+                    "draft": false,
+                    "id": 17983,
+                    "last_updated": "Wed, 04 Mar 2020 08:25:15 GMT",
+                    "photos": [
+                        {
+                            "previous_reference": "https://res.cloudinary.com/janatarkalam/image/upload/v1583310309/qvnkrbt5alu5wl1tfow4.jpg",
+                            "public_id": "qvnkrbt5alu5wl1tfow4.jpg",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/qvnkrbt5alu5wl1tfow4.jpg"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Wed, 04 Mar 2020 08:25:15 GMT",
+                    "site_id": 29,
+                    "title": "দেশব্যাপী ল প্রতিযোগিতায় প্রথম রাজ্যের ছাত্রী অনুসূয়া দেববর্মা ",
+                    "user_id": null,
+                    "videos": [],
+                    "views": 4937
+                },
+                {
+                    "alternate_id": 534,
+                    "body": "\n\nলক ডাউনের পরিপ্রেক্ষিতে রাজ্য সরকার ১০৩২৩ শিক্ষকদের জন্য এককালীন ৩৫০০০ টাকা অনুদানের ঘোষণা দিয়েছিলো , সেই ঘোষণা অনুযায়ী রাজ্য সরকার কোনো প্রকারের শর্তাবলী না জড়ালেও জড়াচ্ছে শিক্ষা ভবনের অধিকর্তারা এমনটাই অভিযোগ ১০৩২৩ এডহক পে শিক্ষক কর্মচারী সংগঠনের । মঙ্গলবার ১০৩২৩ এডহক পে শিক্ষক কর্মচারী সংগঠন ৪ দফা দাবির ভিত্তিতে রাজধানীর শিক্ষাভবনে এক ডেপুটেশনে মিলিত হন । এদিন শিক্ষাভবনের শিক্ষা অধিকর্তাদের বিরুদ্ধে তীব্র ক্ষোভ প্রকাশ করেন ১০৩২৩ এডহক পে শিক্ষক কর্মচারী সংগঠন। পাশাপাশি আন্দোলন তীব্র থেকে তীব্রতর হয়ে হয়ে উঠে ফলে প্রশাসন কর্মকর্তাদের সাথে ধস্তাধস্তি লেগে যায় আন্দোলনরত শিক্ষকরা। তবে আন্দোলন তীব্রতর হতে থাকলে শিক্ষা দপ্তরের অধিকর্তা শিক্ষকদের ৩ জনের একটি প্রতিনিধি দল অধিকর্তার সাথে সাক্ষাৎ করেন কিন্তু সাক্ষাতের আলোচনা বিষয়বস্তু  জানা যায়নি ।  এই মুহূর্তে এরা কষ্টে আছেন ঠিকই কিন্তু সমাজের মেরুদন্ড হয়ে এই মহামারীর সময়ে এইভাবে জড়ো হয়ে সামাজিক দূরত্বকে বৃদ্ধাঙ্গুল দেখিয়ে আন্দোলনে সামিল হওয়াটা খুবই নিন্দনীয় ব্যাপার। ",
+                    "category_id": 181,
+                    "created": "Tue, 12 May 2020 08:44:23 GMT",
+                    "draft": false,
+                    "id": 17804,
+                    "last_updated": "Tue, 12 May 2020 08:44:23 GMT",
+                    "photos": [
+                        {
+                            "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1589273057/rk6qo2uhfvqlbxeqnv2c.jpg",
+                            "public_id": "rk6qo2uhfvqlbxeqnv2c.jpg",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/rk6qo2uhfvqlbxeqnv2c.jpg"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Tue, 12 May 2020 08:44:23 GMT",
+                    "site_id": 29,
+                    "title": " ১০৩২৩ এর রাজধানীর শিক্ষাভবনের  ডেপুটেশন  ধস্তাধস্তিতে পরিণত হয়, সামাজিক দূরত্বের অবমাননা    ",
+                    "user_id": null,
+                    "videos": [],
+                    "views": 2352
+                },
+                {
+                    "alternate_id": 538,
+                    "body": "\nগতকালের ঘটনার পরিপ্রেক্ষিতে ১০৩২৩ এড-হক পে শিক্ষক কর্মচারি সংগঠনের সভপতি ও সদস্য কমল সাহার নামে থানায় মামলা হয়েছে বলে জানা যায়।তারই পরিপ্রেক্ষিতে আজ সকালে ১০৩২৩ এড-হক পে শিক্ষক কর্মচারি সংগঠনের দুই জন শিক্ষক রাজধানী আগরতলার পুলিশ হেড কোয়ার্টারে যায় ডিজি সাহেবের সাথে দেখা করার উদ্দেশ্যে। তখনই কর্মরত পুলিশ বাহিনী তাদেরকে গ্রেপ্তার করে, গ্রেপ্তার হওয়ার কারণ সম্বন্ধে এরা জানায় যে পুলিশ নাকি বলেছে এরা আইন ভঙ্গ করছে পারমিশন না পেয়ে কেন জড়ো হচ্ছে। কিন্তু তাদের বক্তব্য এরা আইন ভাঙেনি এরা শুধু কথা বলতে চেয়েছিলো  ",
+                    "category_id": 181,
+                    "created": "Wed, 13 May 2020 07:46:29 GMT",
+                    "draft": false,
+                    "id": 16655,
+                    "last_updated": "Wed, 13 May 2020 07:46:29 GMT",
+                    "photos": [
+                        {
+                            "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1589355985/frbantjy1lfejf3qts05.jpg",
+                            "public_id": "frbantjy1lfejf3qts05.jpg",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/frbantjy1lfejf3qts05.jpg"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Wed, 13 May 2020 07:46:29 GMT",
+                    "site_id": 29,
+                    "title": "ডিজির সাথে দেখা করতে গিয়ে আটক ১০৩২৩ এড-হক পে শিক্ষক কর্মচারি সংগঠনের দুই শিক্ষক ",
+                    "user_id": null,
+                    "videos": [
+                        "z1OzqGg0BlA"
+                    ],
+                    "views": 2351
+                },
+                {
+                    "alternate_id": 270,
+                    "body": "\n\nরাজধানীর রবীন্দ্র শতবার্ষিকী ভবন হলে আয়োজিত হলো ১০৩২৩ ভিক্টিমাইজড শিক্ষক সংগঠনের সাংগঠনিক সভা । এদিন রাজ্যের বিভিন্ন প্রান্ত থেকে ১০৩২৩ এর ভিক্টিমাইজড শিক্ষকরা এদিনের সভায় হাজির হয়েছেন । এদিনের সভায় সংগঠনের এক শিক্ষক বলেন রাজ্য সরকার যদি ১০৩২৩ এর চাকরি স্থায়ী করতে চায় এই কম সময়ের মধ্যে তাহলে অর্ডিনেন্স জারি করতে হবে , অর্ডিনেন্সটাকে বিধানসভায় বিধায়করা যদি পাশ করিয়ে দেয় তাহলে পরবর্তী সময়ে রাজ্যপালের দ্বারা স্বাক্ষর করিয়ে  এবং সুপ্রিম কোর্টের মাধ্যমে ভেলিটেশন করে তাদের চাকরিতাকে স্থায়ী করা যেতে পারে বলে দাবি করেন তিনি ।",
+                    "category_id": 181,
+                    "created": "Wed, 11 Mar 2020 07:47:11 GMT",
+                    "draft": false,
+                    "id": 17478,
+                    "last_updated": "Wed, 11 Mar 2020 07:47:11 GMT",
+                    "photos": [
+                        {
+                            "previous_reference": "https://res.cloudinary.com/janatarkalam/image/upload/v1583912722/iaxrelocq7pzytvxtpul.jpg",
+                            "public_id": "iaxrelocq7pzytvxtpul.jpg",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/iaxrelocq7pzytvxtpul.jpg"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Wed, 11 Mar 2020 07:47:11 GMT",
+                    "site_id": 29,
+                    "title": "ভেলিটেশন এক্ট লাগু করে পরিবারের মুখের গ্রাস ফিরিয়ে দাও : ১০৩২৩ ভিক্টিমাইজড শিক্ষক",
+                    "user_id": null,
+                    "videos": [],
+                    "views": 2298
+                },
+                {
+                    "alternate_id": 834,
+                    "body": "সংবাদ প্রতিনিধি ত্রিপুরা আগরতলা:-শনিবার রাজধানীর স্কাইলার্ক ক্লাবের উদ্যোগে আয়োজিত হল পঞ্চদশ রক্তদান শিবিরে, অনুষ্ঠানে প্রধান অতিথি হিসেবে উপস্থিত ছিলেন রাজ্যের শিক্ষামন্ত্রী রতন লাল নাথ এবং রাজ্যের মুখ্যমন্ত্রী স্ত্রী নীতি দেব ও ত্রিপুরা টি বোর্ডের চেয়ারম্যান সন্তোষ সাহা সহ অন্যান্য নেতৃত্বরা. এদিন শিক্ষামন্ত্রী বক্তব্য রাখতে গিয়ে রাজ্যের মানুষের স্বতঃস্ফূর্তভাবে রক্তদানে ভূমিকা তুলে ধরেন এবং তিনি জানান যে এবছর করোনা ভাইরাসের আতঙ্ক থাকার পরেও এখন অব্দি ২৫ টি রক্তদান শিবিরের আয়োজন হয়েছে এবং এবছর আগামীতে আরো বেশ কয়েকটি রক্তদান শিবিরের আয়োজন রয়েছে বলে জানান তিনি. পাশাপাশি রাজ্যে সর্বোচ্চ ৩৪১ জন রক্তদানকারী শিবির যেটা ১০৩২৩ ভিক্টিমাইজড শিক্ষক সংগঠনের উদ্যোগে আয়োজিত হয়েছিল সেই শিবিরের গুরুত্ব তুলে ধরেন এবং রক্তদান শিবিরে মহিলাদের এগিয়ে আসা গুরুত্ব তুলে ধরেন শিক্ষামন্ত্রী. এদিন বক্তব্য শেষে অতিথিরা আয়োজিত রক্তদান শিবির ঘুরে দেখেন এবং কথা বলেন রক্তদাতাদের সঙ্গে. ",
+                    "category_id": 181,
+                    "created": "Sat, 27 Jun 2020 06:59:04 GMT",
+                    "draft": false,
+                    "id": 14615,
+                    "last_updated": "Sat, 27 Jun 2020 06:59:04 GMT",
+                    "photos": [
+                        {
+                            "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1593241113/qyrqlpu9hvrgsko0ajl6.jpg",
+                            "public_id": "qyrqlpu9hvrgsko0ajl6.jpg",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/qyrqlpu9hvrgsko0ajl6.jpg"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Sat, 27 Jun 2020 06:59:04 GMT",
+                    "site_id": 29,
+                    "title": "রাজ্যের সর্বোচ্চ রক্তদান শিবিরের আয়োজন করে দেখালো ১০৩২৩ ভিক্টিমাইজড শিক্ষক সংগঠন:- শিক্ষা মন্ত্রী",
+                    "user_id": null,
+                    "videos": [],
+                    "views": 2017
+                },
+                {
+                    "alternate_id": 365,
+                    "body": "",
+                    "category_id": 181,
+                    "created": "Mon, 13 Apr 2020 16:50:48 GMT",
+                    "draft": false,
+                    "id": 16343,
+                    "last_updated": "Mon, 13 Apr 2020 16:50:48 GMT",
+                    "photos": [
+                        {
+                            "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1586796643/vdb3ui89g3ugb7vtxggc.jpg",
+                            "public_id": "vdb3ui89g3ugb7vtxggc.jpg",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/vdb3ui89g3ugb7vtxggc.jpg"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Mon, 13 Apr 2020 16:50:48 GMT",
+                    "site_id": 29,
+                    "title": "করোনা মুক্ত হলেন রাজ্যের প্রথম করোনা সংক্রমিত মহিলা , দৃতীয়বার  পরীক্ষার পর জানাযায়, জানালেন মুখ্যমন্ত্রী ",
+                    "user_id": null,
+                    "videos": [],
+                    "views": 1791
+                },
+                {
+                    "alternate_id": 1330,
+                    "body": "\n\n জনতার কলম,ত্রিপুরা,তেলিয়ামুড়া প্রতিনিধি :- রাজ্যের মধ্যে ১০,৩২৩ শিক্ষকদের মৃত্যু মিছিল যেন শেষ হতে চাইছে না । দিনের পর দিন ১০,৩২৩-র সেই মৃত্যু মিছিল আজও দীর্ঘায়িত । প্রতিনিয়ত রাজ্যজুড়েই কোথাও না কোথাও চলছে সেই মৃত্যুর মিছিল । কিন্তু তেলিয়ামুড়া মহকুমায়ও এর কোন বিকল্প ছবি দেখা যায় নি । ২০২০-এ দাঁড়িয়ে ফের একবার বাস্তবের জীবন-সংগ্রামের কাছে হার মানলো ১০,৩২৩-র একজন চাকুরীচ্যুত শিক্ষক । অভাব অনটনের জেরে নিজ গলায় ফাঁস লাগিয়ে আত্মহত্যার পথ বেছে নিতে বাধ্য হল কর্মরাই জমাতিয়া নামে ১০,৩২৩-র চাকুরীচ্যুত একজন শিক্ষক । ঘটনা তেলিয়ামুড়া থানাধীন ধন-চাকমা এলাকায় । ঘটনার বিবরণে জানা যায় যে, রাজ্যের মোট ১০,৩২৩ পরিসংখ্যান চাকরিচ্যুত শিক্ষকদের মধ্যে একজন শিক্ষক ছিলেন তেলিয়ামুড়ার কর্মরাই জমাতিয়া, বয়স ৩২ বছর । উল্লেখ্য, স্ত্রী ও দুই সন্তান সহ তাঁর সুখের সংসার ছিল । কিন্তু বর্তমানে হঠাৎ আইনি মামলায় তাঁরও সরকারী শিক্ষকতার চাকুরী চলে যাওয়ার পর তাঁর অনেকটা \"নুন আনতে পান্তা ফুরায়\"-র মতো অবস্থা হয়ে দাঁড়িয়েছে । এর ফলে তাঁর বৈবাহিক জীবনে \"স্বামী-স্ত্রী\" দু'জনের মধ্যে প্রায়শই নিত্যদিন \"ঝগড়া-ঝুট-ঝামেলা\" লেগেই থাকতো । আর এই \"ঝগড়া-ঝুট-ঝামেলা\" একদিন চরম আকারের রূপ ধারণ করে । আজ প্রয়াত ১০,৩২৩-র শিক্ষক কর্মরাই জমাতিয়ার স্ত্রী একদিন বৈবাহিক সম্পর্কে তুমুল ঝগড়া শুরু করে । কিন্তু যদিও এখানেই শেষ নয় পরবর্তীতে প্রয়াত ১০,৩২৩-র শিক্ষক কর্মরাই জমাতিয়ার স্ত্রী নিজ শ্বশুরবাড়ি অর্থাৎ স্বামীর ঘর থেকে বেড়িয়ে তাঁর দুই সন্তানকে নিয়ে নিজের বাপের বাড়িতে চলে যায় । এইদিকে আবার পরিবার সূত্রে জানা যায়, আইনি মামলায় চাকুরীচ্যুত ১০,৩২৩-র শিক্ষক কর্মরাই জমাতিয়ার (৩২) পরিবারটি খুবই দরিদ্র এবং অসহায়তার  মধ্যে দিয়ে বর্তমানে প্রতিদিনই দিন গুজরান করতো । কিন্তু রবিবারের 'পরন্ত বিকেল' যেন তাঁর জীবনের কাল হয়ে দাঁড়িয়েছিল । উল্লেখ্য, রবিবারের পরন্ত বিকেলের কোন এক সময় বাড়ির সকলের নজর এড়িয়ে ওই চাকুরীচ্যুত ১০,৩২৩-র শিক্ষক কর্মরাই জমাতিয়া (৩২) তাঁর বাড়ির পাশের কোন একটি নির্জন জায়গায় গিয়ে নিজ গলায় ফাঁস লাগিয়ে আত্মহত্যার পথ বেছে নেয় । কিন্তু আশ্চর্যের বিষয় এই যে, রবিবার রাত ১০ টা ৩০ মিনিট নাগাদ অর্থাৎ দীর্ঘ ৮ ঘন্টার অতিক্রান্তের পর ওই এলাকার এক ব্যক্তির হঠাৎ নজরে আসে যে তাঁর বাড়ির পাশের কোন এক নির্জন জায়গায় ঝুলে আছে ওই চাকুরীচ্যুত অসহায় ১০,৩২৩-র শিক্ষক কর্মরাই জমাতিয়ার (৩২) নিথর দেহ । এরপরে চিৎকার চেঁচামেচিতে সেখানে জরো হয় আরও স্থানীয়রা । সেই ঝুলন্ত মৃত দেহের ছবি সকলে প্রত্যক্ষ করে তৎক্ষণাৎ সঙ্গে সঙ্গেই তড়িঘড়ি করে খবর দেয় তেলিয়ামুড়া থানায় । অতঃপর এই ঘটনার খবর পেয়ে তড়িঘরি করে ঘটনাস্থলে ছুটে যান, তেলিয়ামুড়া থানার পুলিশ বাহিনী । পাশাপাশি প্রয়াত চাকুরীচ্যুত ১০,৩২৩-র শিক্ষক কর্মরাই জমাতিয়ার এই মৃতদেহটি সেখান থেকে উদ্ধার করে ময়না তদন্তের জন্য তেলিয়ামুড়া মহকুমা হাসপাতালের মর্গে পাঠায় । \n\n\n\n",
+                    "category_id": 181,
+                    "created": "Mon, 19 Oct 2020 08:45:39 GMT",
+                    "draft": false,
+                    "id": 15701,
+                    "last_updated": "Mon, 19 Oct 2020 08:45:39 GMT",
+                    "photos": [
+                        {
+                            "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1603097082/sb8bjre5khdtxcehyuwl.jpg",
+                            "public_id": "sb8bjre5khdtxcehyuwl.jpg",
+                            "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/sb8bjre5khdtxcehyuwl.jpg"
+                        }
+                    ],
+                    "published": true,
+                    "published_on": "Mon, 19 Oct 2020 08:45:39 GMT",
+                    "site_id": 29,
+                    "title": "অভাব অনটনের জেরে নিজ গলায় ফাঁস লাগিয়ে আত্মহত্যা চাকুরীচ্যুত এক শিক্ষকের ",
+                    "user_id": null,
+                    "videos": [],
+                    "views": 1774
+                }
+            ]
+        },
+        "category": {
+            "categories": [
+                {
+                    "created": "Sat, 18 Jan 2020 10:26:24 GMT",
+                    "id": 184,
+                    "name": "অপরাধ",
+                    "parent_category": true,
+                    "sequence": 1000,
+                    "site_id": 29
+                },
+                {
+                    "created": "Sat, 18 Jan 2020 10:26:41 GMT",
+                    "id": 185,
+                    "name": "খেলা",
+                    "parent_category": true,
+                    "sequence": 1000,
+                    "site_id": 29
+                },
+                {
+                    "created": "Sat, 18 Jan 2020 10:24:47 GMT",
+                    "id": 181,
+                    "name": "রাজ্য ",
+                    "parent_category": true,
+                    "sequence": 1000,
+                    "site_id": 29
+                },
+                {
+                    "created": "Sat, 18 Jan 2020 10:25:23 GMT",
+                    "id": 182,
+                    "name": "দেশ",
+                    "parent_category": true,
+                    "sequence": 1000,
+                    "site_id": 29
+                },
+                {
+                    "created": "Sat, 18 Jan 2020 10:26:06 GMT",
+                    "id": 183,
+                    "name": "বিশ্ব",
+                    "parent_category": true,
+                    "sequence": 1000,
+                    "site_id": 29
+                }
+            ],
+            "category_wise_news": {
+                "অপরাধ": [
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- আবারো গাঁজা বিরোধী অভিযানে সাফল্য পেলো মধুপুর থানার পুলিশ। সোমবার মধুপুর থানার পুলিশ মধুপুর থানার অন্তর্গত হরিহর দোলা এলাকায় অভিযান চালিয়ে প্রায় ৩০ হাজার গাঁজা গাছ ধ্বংস করে। জানা যায় গোপন খবরের ভিত্তিতে আজকের এই অভিযান। এই ব্যাপারে মধুপুর থানার পুলিশ জানান আগামী দিনেও এইরকম অভিযান জারি থাকবে।\n\n",
+                        "category_id": 184,
+                        "created": "Mon, 31 Oct 2022 12:27:30 GMT",
+                        "draft": false,
+                        "id": 22334,
+                        "last_updated": "Mon, 31 Oct 2022 12:27:30 GMT",
+                        "photos": [
+                            {
+                                "public_id": "7c44d227-08a0-49eb-8f1c-a212de95dda1",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/7c44d227-08a0-49eb-8f1c-a212de95dda1"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Mon, 31 Oct 2022 12:27:30 GMT",
+                        "site_id": 29,
+                        "title": "গাজা বাগান কেটে দিল পুলিশ",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 21
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- প্রয়াত  প্রাক্তন প্রধানমন্ত্রী প্রিয়দর্শিনী ইন্দিরা গান্ধীর 38 তম প্রয়াণ দিবস উপলক্ষে বাধারঘাট বিধানসভা কেন্দ্রে কংগ্রেস এর উদ্যোগে আয়োজন করা হয়েছিল দরিদ্র নারায়ন সেবা। 31 অক্টোবর ইন্দিরা গান্ধীর প্রয়াণ দিবসে প্রায় আড়াই হাজার মানুষের জন্য মধ্যাহ্নভোজের আয়োজন এর প্রস্তুতি চলছিল। রবিবার রাতের অন্ধকারে দুস্কৃতিকারীরা অনুষ্ঠানকে বানচাল করার লক্ষ্যে সমস্ত চালডাল সবজি এবং দুটি সিলিন্ডার গ্যাস নিয়ে চম্পট দেয়। এনিয়ে বাধারঘাট বিধানসভা কেন্দ্রের কংগ্রেস  বিজিত প্রার্থী রতন  দাস আমতলী থানায় একটি মামলা দায়ের করেছে। থানার দায়িত্বপ্রাপ্ত ইনচার্জকে অনুরোধ করেন অবিলম্বে যাতে দুষ্কৃতিকারীদের চিহ্নিত করে দৃষ্টান্তমূলক শাস্তির ব্যবস্থা গ্রহণ করে পুলিশ। ন্যাক্কারজনক ঘটনার তীব্র নিন্দা জানিয়েছে বাধারঘাট কংগ্রেস কমিটি।\n\n",
+                        "category_id": 184,
+                        "created": "Mon, 31 Oct 2022 12:24:20 GMT",
+                        "draft": false,
+                        "id": 22332,
+                        "last_updated": "Mon, 31 Oct 2022 12:24:20 GMT",
+                        "photos": [
+                            {
+                                "public_id": "a00ed542-6cf4-4af4-9ce8-ff5bec65c72d",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/a00ed542-6cf4-4af4-9ce8-ff5bec65c72d"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Mon, 31 Oct 2022 12:24:20 GMT",
+                        "site_id": 29,
+                        "title": "দরিদ্র নারায়ন সেবার সরঞ্জাম চুরি করল দুষ্কৃতিকারীরা",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 52
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- দ্বীপ ভট্টাচার্য নামে 22 বছর বয়সী এক যুবককে চুরির অপরাধে গ্রেপ্তার করে পূর্ব থানার পুলিশ। সে গত 23 শে অক্টোবর রাতে গণরাজ চৌমুহনী এলাকার ডাক্তার মৃদুল দাসের চেম্বারে  জানালার গ্রিল কেটে ঢুকে বেশ কিছু গুরুত্বপূর্ণ জিনিস চুরি করে নিয়ে যায়। পরদিন থানায় অভিযোগ দায়ের করেন ডাক্তার দাস। এই অভিযোগ মূলে পূর্ব থানার পুলিশ তদন্তে নেমে সিসিটিভির ফুটেজ ঘেঁটে দ্বীপ  ভট্টাচার্যকে চিহ্নিত করে এবং আটক করে। সদরের এস ডি পি ও অজয় কুমার দাস জানান তাকে পুলিশ রিমান্ডে এনে আরও জিজ্ঞাসাবাদ চালানো হবে এবং তার সঙ্গীদের গ্রেফতারের চেষ্টা করব।\n",
+                        "category_id": 184,
+                        "created": "Sun, 30 Oct 2022 14:40:53 GMT",
+                        "draft": false,
+                        "id": 22292,
+                        "last_updated": "Sun, 30 Oct 2022 14:40:53 GMT",
+                        "photos": [
+                            {
+                                "public_id": "61eab6e5-1b52-4655-8b34-f632fb4e8fec",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/61eab6e5-1b52-4655-8b34-f632fb4e8fec"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sun, 30 Oct 2022 14:40:53 GMT",
+                        "site_id": 29,
+                        "title": "পূর্ব থানার পুলিশের হাতে গ্রেফতার এক চোর",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 3
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- আমবাসায় আবারও উদ্ধার গাজা। আমবাসা বেতবাগান পুলিশ নাকা চেকিং পয়েন্টে গোপন খবরের ভিত্তিতে একটি ছোট গাড়ি থেকে গাজা উদ্ধার করে। গোপন কেবিন থেকে গাজার পেকেট গুলি উদ্ধার করে পুলিশ। এই অভিযানে পুলিশ প্রায় ১১৬ কেজি গাঁজা উদ্ধার করে। রবিবার বারটা নাগদ নাকা চেকিং পয়েন্টে গাড়িটি আসা মাত্রই পুলিশ গাড়িটিকে থামিয়ে তল্লাশি চালায়। আর এই অভিযানে উদ্ধার হয় গাজা। গাড়িটি আগরতলা থেকে বহিরাজ্যের উদ্দেশ্যে যাচ্ছিল বলে জানান।  এই অভিযানে পুলিশ  গাড়ীর চালক মোহন জমাতিয়াকে আটক করে। জানা যায় গাড়ির চালকের বাড়ি তেলিয়ামুড়া এলাকায়। গাঁজা উদ্ধারের খবর পেয়ে ঘটনাস্থলে ছুটে আসে আমবাসা মহকুমা পুলিশ আধিকারিক সুমন মজুমদার।\n\n",
+                        "category_id": 184,
+                        "created": "Sun, 30 Oct 2022 13:57:23 GMT",
+                        "draft": false,
+                        "id": 22286,
+                        "last_updated": "Sun, 30 Oct 2022 13:57:23 GMT",
+                        "photos": [
+                            {
+                                "public_id": "2f595ed6-d2ed-43a0-bf49-11ee18b0d1f1",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/2f595ed6-d2ed-43a0-bf49-11ee18b0d1f1"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sun, 30 Oct 2022 13:57:23 GMT",
+                        "site_id": 29,
+                        "title": "১১৬ কেজি গাঁজা উদ্ধার আটক গাড়িসহ চালক",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 4
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- গণধোলাইয়ে মৃত্যুমুখী  এক চোর। ঘটনা জিবি বাজার এলাকায়। সংবাদে প্রকাশ, দুই বন্ধু মিলে এক ব্যক্তির কাছ থেকে মানিব্যাগ চুরি করতে গিয়ে হাতেনাতে ধরা পড়ে যায় এক বন্ধু । জানা যায় ওই এলাকাতে সুজিত দাস এবং তার বন্ধু এক ব্যক্তির মানিব্যাগ ছিনতাই করার সময় স্থানীয়রা হাতেনাতে ধরে ফেলে। তারপর ঘটনাস্থল থেকে পালিয়ে যায় সুজিত দাসের সঙ্গে থাকা অপর চোর।পরে এলাকাবাসীরা সুজিত দাস নামে ২২ বছরের ওই চোরকে আটক করে গণপিটুনি দেয়।এতেই আহত হন ওই চোর সুজিত দাস। তাকে আটক করার পর এলাকাবাসীরা তাকে বেধড়ক মারধর করে। পরে তারে নিকটবর্তী আত্মীয়রা উদ্ধার করে জিবি হাসপাতালে নিয়ে আসে চিকিৎসার জন্য। বর্তমানে হাসপাতালে চিকিৎসাধীন সুজিত দাস নামে ২২ বছরের চোর।\n\n",
+                        "category_id": 184,
+                        "created": "Sun, 30 Oct 2022 13:46:43 GMT",
+                        "draft": false,
+                        "id": 22281,
+                        "last_updated": "Sun, 30 Oct 2022 13:46:43 GMT",
+                        "photos": [
+                            {
+                                "public_id": "fd86c79b-0983-4628-9820-402cf90da01f",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/fd86c79b-0983-4628-9820-402cf90da01f"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sun, 30 Oct 2022 13:46:43 GMT",
+                        "site_id": 29,
+                        "title": "গণপিটুনিতে মৃত্যুমুখী চোর",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 3
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "রোগীর চুলের মুঠি ধরে টানতে টানতে নিয়ে গেল নার্স। ভিডিও ভাইরাল হতেই শোরগোল পড়ে গেল সব দিকে। মহিলা রোগীর চুলের মুঠি ধরে টানতে টানতে নিয়ে যাচ্ছেন এক নার্স। পিছনে দেখা গেল আরও কয়েক জন নার্সকে। মহিলাকে টেনে নিয়ে গিয়ে হাসপাতালের বিছানায় ঠেলে শুইয়েও দেওয়া হল। দাবি করা হচ্ছে, ভিডিয়োটি উত্তরপ্রদেশের সীতাপুর জেলা হাসপাতালের। যদিও ভিডিয়োটির সত্যতা যাচাই করেনি আনন্দবাজার অনলাইন। হাসপাতাল কর্তৃপক্ষের দাবি, ওই রোগীর সঙ্গে কোনও অভব্য আচরণ করা হয়নি। ইঞ্জেকশন নিতে অস্বীকার করছিলেন তিনি। শুধু তাই নয়, হাসপাতালের কর্মীদের সঙ্গেও নাকি খারাপ আচরণ করেন। সীতাপুরের মুখ্য স্বাস্থ্য আধিকারিক (সিএমও) চিকিৎসক আর কে সিংহ ভিডিয়োটি দেখার পর দাবি করেছেন, ঘটনাটি ১৮ অক্টোবর রাতের। মহিলাকে ভর্তি করিয়ে দিয়েই তাঁর বাড়ির লোকেরা হাসপাতাল ছেড়ে চলে যান। রাত ১২টা নাগাদ হঠাৎই ওই রোগী হিংস্র হয়ে ওঠেন। শৌচালয়ের সামনে তাণ্ডব শুরু করেন। সিএমওর কথায়, "রোগিণী তাঁর চুড়ি ভাঙা শুরু করেন। পরনের শা়ড়ি ছিঁড়ে ফেলছিলেন। মহিলার এই মূর্তি দেখে ওয়ার্ডের অন্য রোগীরা ভয় পেয়ে গিয়েছিলেন। রোগীকে শান্ত করতে শেষমেশ নার্সরা ছুটে আসেন। পুলিশকেও খবর দেওয়া হয়।" তবে মহিলার সঙ্গে কোনও দুর্ব্যবহার করা হয়নি বলেও দাবি সিএমওর। তাঁর আরও দাবি, মহিলাকে শান্ত করার জন্য ইঞ্জেকশন দেওয়ার চেষ্টা করা হয়। কিন্তু তিনি পাল্টা নার্সদের উপরই ঝাঁপিয়ে পড়েন। যদিও পরে তাঁকে ইঞ্জেকশন দিয়ে শান্ত করানো হয়েছিল। তার পর পরিবারের লোকজনকে ডেকে হাসপাতাল থেকে ছুটি দিয়ে দেওয়া হয়।"\n\n",
+                        "category_id": 184,
+                        "created": "Sat, 29 Oct 2022 11:15:21 GMT",
+                        "draft": false,
+                        "id": 22236,
+                        "last_updated": "Sat, 29 Oct 2022 11:15:21 GMT",
+                        "photos": [
+                            {
+                                "public_id": "a3a21fea-31e4-4331-84a0-22215e9b6f13",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/a3a21fea-31e4-4331-84a0-22215e9b6f13"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sat, 29 Oct 2022 11:15:21 GMT",
+                        "site_id": 29,
+                        "title": "রোগীর চুলের মুঠি ধরে টানতে টানতে নিয়ে যাচ্ছেন এক নার্স,, বিস্তারিত পড়ুন ",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 112
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ত্রিপুরা বক্সনগর প্রতিনিধি :- ভারতীয় জনতা পাটির বক্সনগর মন্ডল সংখ্যালঘু মোর্চার উদ্যাগে শনিবার  বক্সনগর ব্লকের কুলুবাড়ি সুকান্ত  কমিউনিটি হলে  সংখ্যালঘু উন্নয়ন বিষয়ক আলোচনা সভা অনুষ্ঠিত হয়। সভায় সভাপতিত্ব করেন সংখ্যালঘু মোর্চার বক্সনগর মন্ডল সভাপতি নজরুল ইসলাম এছাড়াও উপস্থিত ছিলেন সংখ্যালঘু উন্নয়ন নিগমে চেয়ারম্যান তাপস ভট্টাচার্য প্রদেশ সংখ্যালঘু মোর্চার সভাপতি শাহআলম মজুমদার ভারতীয় জনতা পাটি সিপাহীজলা জেলা দক্ষিণ অংশের  সহ সভাপতি তোফাজ্জল হোসেন বক্সনগর  মন্ডল  সভাপতি সুভাষ চন্দ্র সাহা প্রমূখ ।সভায় সিপিএম ছেড়ে 14 জন ভোটার বিজেপি দলে যোগদান করেছে।\n",
+                        "category_id": 184,
+                        "created": "Sat, 29 Oct 2022 10:47:08 GMT",
+                        "draft": false,
+                        "id": 22234,
+                        "last_updated": "Sat, 29 Oct 2022 10:47:08 GMT",
+                        "photos": [
+                            {
+                                "public_id": "e19bb584-8f9e-4a41-9a7b-3ff1f1cabb7e",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/e19bb584-8f9e-4a41-9a7b-3ff1f1cabb7e"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sat, 29 Oct 2022 10:47:08 GMT",
+                        "site_id": 29,
+                        "title": "সিপিআইএম ছেড়ে বিজেপিতে যোগদান",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 27
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- কালী পুজো উপলক্ষে থানা থেকে পারমিশন নিয়ে আনন্দমেলার নাম করে জুয়ার আসর বসিয়েছে একটি সামাজিক সংস্থা |জিবি এলাকার ৭৯ টিলাস্থিত মেমোরিয়াল ক্লাব এন্ড প্লে সেন্টারে আনন্দমেলায় রাত্রিতে চলছে জুয়ার আসর ।  আর সে আসরে জিবি আউটপোস্টের পুলিশ হানা দিয়ে উদ্ধার জোয়ার সামগ্রী । গ্রেফতার করতে পারেনি জোয়াড়ী কাউকে।\n",
+                        "category_id": 184,
+                        "created": "Sat, 29 Oct 2022 10:31:42 GMT",
+                        "draft": false,
+                        "id": 22230,
+                        "last_updated": "Sat, 29 Oct 2022 10:31:42 GMT",
+                        "photos": [
+                            {
+                                "public_id": "af693be5-7726-4704-9b61-010f5db56e7b",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/af693be5-7726-4704-9b61-010f5db56e7b"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sat, 29 Oct 2022 10:31:42 GMT",
+                        "site_id": 29,
+                        "title": "জুয়ার আসরে পুলিশের হানা পালিয়ে যায় জোয়াড়ী",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 2
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- কংগ্রেস  ও বিজেপির পার্টি অফিসে ভাঙচুর করেছে দুস্কৃতিকারীরা। একে অপরের বিরুদ্ধে কাদা ছোড়াছুড়ি। আক্রমণ পাল্টা আক্রমণ, আহত বেশ কয়েকজন , মামলা গড়ালো থানায়।রাজনৈতিক উত্তেজনায় থমথমে পরিবেশ।উদয়পুর বাগমা বাজারে বিজেপি ও কংগ্রেসের অফিস ভাঙচুর। উদয়পুর বাগমা বাজারে শুক্রবার রাতে কে বা কারা বাগমা বাজারে বিজেপি ও কংগ্রেসের অফিস ভাঙচুর করেছে বলে একে অপরের বিরুদ্ধে অভিযোগ করেছেন। দুইদলের পক্ষ থেকে জানানো হয় প্রতিদিনের মতো শুক্রবার রাতে দলীয় কাজ সেরে যে যার মতো করে দলীয় কর্মীরা বাড়িতে চলে যায়। শনিবার সকালে বাগমা বাজারের ব্যবসায়ীরা ও পথচারিরা দুই রাজনৈতিক দলের অফিস ভাঙচুর দেখে দুই দলের নেতাদের খবর দেয়। রাজনৈতিক নেতারা এসে পরিস্থিতি দেখে একে অপরের বিরুদ্ধে অভিযোগ করেন। খবর পেয়ে বাগমা ফাঁড়ী থেকে পুলিশ ছুটে আসে। পরিস্থিতি অনুকূলে না থাকায় রাধাকিশোরপুর থেকে ওসি বাবুল দাশ  বিশাল পুলিশ বাহিনী নিয়ে ঘটনাস্থলে ছুটে যায়। এদিকে এক গাড়ীর চালকের অভিযোগ তার একটি অটো গাড়ী ভাঙচুর করা হয়। বিজেপি ও কংগ্রেসের পক্ষ থেকে থানায় মামলা দায়ের করা হয়েছে বলে জানান দুই দলের নেতৃবৃন্দ | এদিকে পরিস্থিতি নিয়ন্ত্রণে থাকলেও উত্তেজনা বিরাজ করছে। ঘটনাস্থলে মহকুমা পুলিশ আধিকারিক নিরুপম দত্ত রয়েছেন। এখনও এই ঘটনায় কেউ গ্রেফতার হয়নি।\n\n",
+                        "category_id": 184,
+                        "created": "Sat, 29 Oct 2022 10:27:15 GMT",
+                        "draft": false,
+                        "id": 22228,
+                        "last_updated": "Sat, 29 Oct 2022 10:27:15 GMT",
+                        "photos": [
+                            {
+                                "public_id": "3dfd9881-66bd-46ab-8be4-cc5307cfe5d3",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/3dfd9881-66bd-46ab-8be4-cc5307cfe5d3"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sat, 29 Oct 2022 10:27:15 GMT",
+                        "site_id": 29,
+                        "title": "পার্টি অফিস ভাঙচুর বাগমায় ছড়িয়ে পড়েছে রাজনৈতিক উত্তেজনা",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 2
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- নেশার ছোবলে ঝরে গেল বছর একুশের এক তরতাজা যুবকের প্রাণ। নিথর দেহ উদ্ধার হল জঙ্গল থেকে। পাশে পড়েছিল প্রিয় সেই নেশার কৌটা। কলেজ টিলা এলাকায় জঙ্গলের একটি বিশ্রামাগার থেকে অজ্ঞাত পরিচয় এক যুবকের মৃতদেহ উদ্ধারের ঘটনাকে কেন্দ্র করে চাঞ্চল্য ছড়িয়ে পড়েছে এলাকায়। জানা যায় এলাকাবাসীরা প্রাতঃভ্রমণে বের হয়ে ওই যুবকের মৃতদেহটি পড়ে থাকতে দেখে সঙ্গে সঙ্গে পূর্ব থানা এবং কলেজটিলা পুলিশ ফাঁড়িতে খবর  দেয়। পুলিশ ছুটে এসে মৃতদেহটি উদ্ধার করে জিবি হাসপাতালে নিয়ে যায় ময়নাতদন্তের জন্য তবে কিভাবে ওই যুবকের মৃত্যু হয় সে বিষয়ে এখন অব্দি জানা যায়নি  পুলিশের প্রাথমিক ধারণা অতিরিক্ত নেশা সেবনের ফলে ওই যুবকের মৃত্যু হতে পারে। এদিকে চাঞ্চল্যকর এই ঘটনার খবর ছড়িয়ে পড়তেই মানুষ জড়ো হলে পরিবারের লোকজনদের মাধ্যমে মৃতদেহটি শনাক্ত করতে পেরেছে পুলিশ। পরিবারের লোকেরা জানায় মৃত যুবকের নাম প্রীতম দেবনাথ বয়স ২১। মাত্র ৮/১০ দিন আগে তাকে নেশা মুক্তি কেন্দ্র থেকে বাড়িতে আনা হয়েছিল। কিন্তু পরিবর্তন হয়নি কিছুই। নেশার কারণে মৃত্যুর কোলে ঢলে পড়ল তরতাজা যুবক। পুলিশ এ নিয়ে একটি মামলার এনিয়ে গ্রহণ করে তদন্ত চালিয়েছে বলে জানা যায়।",
+                        "category_id": 184,
+                        "created": "Sat, 29 Oct 2022 10:21:45 GMT",
+                        "draft": false,
+                        "id": 22225,
+                        "last_updated": "Sat, 29 Oct 2022 10:21:45 GMT",
+                        "photos": [
+                            {
+                                "public_id": "90f1bcad-70fc-432b-99b0-d80b76468597",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/90f1bcad-70fc-432b-99b0-d80b76468597"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sat, 29 Oct 2022 10:21:45 GMT",
+                        "site_id": 29,
+                        "title": "কৌটার নেশায় একুশের এক তরতাজা যুবকের গেলো প্রাণ",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 2
+                    }
+                ],
+                "খেলা": [
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :-আগামী ২৯ এবং ৩০ তারিখ রাজধানীর এন আর সি সি র ইনডোর হলে অনুষ্ঠিত হবে রাজ্যভিত্তিক কাবাডি কম্পিটিশন। দিবারাত্র চলবে এই কম্পিটিশন। এখান থেকে রাজ্য দল বাছাই করে আগামী ১৭ নভেম্বর উত্তরাখণ্ডের ঋষিকেশ এর জাতীয়স্তরের কম্পিটিশনে পাঠানো হবে খেলোয়ারদের। উত্তরাখণ্ডের  ঋষিকেশ এ ১৭ তারিখ থেকে ২১ তারিখ পর্যন্ত অনুষ্ঠিত হবে জাতীয় কম্পিটিশন। সেই লক্ষ্যে জেলা মহাকুমা স্তরে চলছে বাছাইপর্ব। বৃহস্পতিবার আগরতলা উমাকান্ত মাঠে সদর জেলা ভিত্তিক দলের বাছাইপর্ব  হয়েছে। জানিয়েছেন ত্রিপুরা কাবাডি এসোসিয়েশনের সম্পাদক হনু পাল।\n\n",
+                        "category_id": 185,
+                        "created": "Thu, 27 Oct 2022 09:28:55 GMT",
+                        "draft": false,
+                        "id": 22098,
+                        "last_updated": "Thu, 27 Oct 2022 09:28:55 GMT",
+                        "photos": [
+                            {
+                                "public_id": "f84db435-c5d4-4295-8e0c-3f7bee257761",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/f84db435-c5d4-4295-8e0c-3f7bee257761"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Thu, 27 Oct 2022 09:28:55 GMT",
+                        "site_id": 29,
+                        "title": "রাজ্য ভিত্তিক কাবাডি প্রতিযোগিতার প্রস্তুতি",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 3
+                    },
+                    {
+                        "alternate_id": 5210,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :-ফলাফল ঘোষিত হল বহুচর্চিত ত্রিপুরা ক্রিকেট এসোসিয়েশন নির্বাচনের। ঘোষিত ফলাফল অনুসারে বিনা প্রতিদ্বন্দীতায় সভাপতি নির্বাচিত হয়েছেন তপন লোধ  নির্বাচনে সম্পাদক নির্বাচিত হয়েছেন তাপস ঘোষ। জল্পনার হল অবসান গঠিত হল না ক্রিকেট এসোসিয়েশন। মামলা মোকাদ্দমা সবকিছু শেষ করে অ্যাসোসিয়েশনের সহসভাপতি হিসেবে নির্বাচিত হয়েছে পূর্বতন সম্পাদক তিমির চন্দ। আগেই বিনাপ্রতিদ্বন্দ্বিতায় সভাপতি হিসেবে নির্বাচিত হয়েছিলেন তপন লোধ। ভোট প্রক্রিয়ার মাধ্যমে সম্পাদক নির্বাচিত হয়েছেন তাপস ঘোষ , যুগ্ম সম্পাদক জয়ন্ত দে , কোষাধক্ষ্য হিসেবে নির্বাচিত হয়েছেন জয়নাল দাস। এদিকে মেম্বার হিসেবে নির্বাচিত হয়েছেন যথাক্রমে, অলোক ঘোষ, অর্ঘ্য জিৎ বিশ্বাস ,আশীষ ভট্টাচার্য, অতীত কুমার সাহা, বন্ধন দাস, মানিক লাল দাস, নিতিশ দেবনাথ, অঞ্জন দত্ত, সৌমিত্র  গোপ , শুভম রায়, সুমন্ত দেব রায়,   তাপসেইন্দু নাথ ,উত্তম বণিক\n মোট 18 জনের কমিটি গঠন করা হয়েছে এসোসিয়েশনে।\n",
+                        "category_id": 185,
+                        "created": "Fri, 21 Oct 2022 12:53:44 GMT",
+                        "draft": false,
+                        "id": 21765,
+                        "last_updated": "Fri, 21 Oct 2022 12:53:44 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1666356789/vcmrbaatyb9onyumnfh4.jpg",
+                                "public_id": "vcmrbaatyb9onyumnfh4.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/vcmrbaatyb9onyumnfh4.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Fri, 21 Oct 2022 12:53:44 GMT",
+                        "site_id": 29,
+                        "title": "ত্রিপুরা ক্রিকেট এসোসিয়েশনের নতুন কমিটি",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 389
+                    },
+                    {
+                        "alternate_id": 5188,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- 21 অক্টোবর অনুষ্ঠিত হবে ত্রিপুরা ক্রিকেট এসোসিয়েশনের নির্বাচন। নির্বাচনী প্রস্তুতি প্রায় চূড়ান্ত পর্যায়ে। বুধবার প্রকাশিত হয়েছে নির্বাচনী ইশতেহার। বিলি  করা হয়েছে ভোটার আইডি কার্ড। কাউন্সিলে 11 টি আসনের জন্য অনুষ্ঠিত হবে এই নির্বাচন। ভোটার রয়েছে জেলা মহকুমা নিয়ে 32 জন। বুধবার টি সি এ  সম্পাদক পদপ্রার্থী সুব্রত দে সাংবাদিকদের মুখোমুখি হয়ে অভিযোগ করে বলেন, মাত্র 32 জন ভোটারের মধ্যে মহাকুমা ভোটারদের রাজধানীর বিভিন্ন হোটেলে আটকে রেখেছে একটি দুষ্টচক্র। যাতে করে ভোটাররা নির্বিঘ্নে ভোট দান করতে না পারে। উল্লেখ্য  টি সি এ সভাপতি  পদে বিনা প্রতিদ্বন্দ্বিতায় জয়ী হয়ে গিয়েছে তপন  লোদ। বাকি নির্বাচন হবে শুধুমাত্র সহ-সভাপতি, সম্পাদক, সহ-সম্পাদক  ও কোষাধ্যক্ষ পদে নির্বাচন হবে।\n\n\n",
+                        "category_id": 185,
+                        "created": "Wed, 19 Oct 2022 14:43:51 GMT",
+                        "draft": false,
+                        "id": 21802,
+                        "last_updated": "Wed, 19 Oct 2022 14:43:51 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1666190628/bvsnzh5whevpgjlbui0c.jpg",
+                                "public_id": "bvsnzh5whevpgjlbui0c.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/bvsnzh5whevpgjlbui0c.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Wed, 19 Oct 2022 14:43:51 GMT",
+                        "site_id": 29,
+                        "title": "টিসিএ- ভোটারদের হোটেল বন্দি করে রাখার অভিযোগ",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 42
+                    },
+                    {
+                        "alternate_id": 5176,
+                        "body": "\n\nজনতার কলম ওয়েবডেস্ক :-টেস্টের পর ৫০ ওভারের অধিনায়ক হলেন প্যাট কামিন্স।যদিও অধিনায়কের দৌড়ে ছিলেন ডেভিড ওয়ার্নার। কিন্তু শেষ পর্যন্ত কামিন্স এর উপর আস্থা রাখলো ক্রিকেট অস্ট্রেলিয়া।২০২৩সালে ভারতের মাটিতে ৫০ওভারের বিশ্বকাপ আয়োজিত হবে। আর সেই বিশ্বকাপেও অস্ট্রেলিয়ার হয়ে নেতৃত্ব দেবেন ২৯বছরের কামিন্স।",
+                        "category_id": 185,
+                        "created": "Tue, 18 Oct 2022 10:34:16 GMT",
+                        "draft": false,
+                        "id": 21820,
+                        "last_updated": "Tue, 18 Oct 2022 10:34:16 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1666089253/qbyiosed5mvlqpyvcgai.jpg",
+                                "public_id": "qbyiosed5mvlqpyvcgai.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/qbyiosed5mvlqpyvcgai.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Tue, 18 Oct 2022 10:34:16 GMT",
+                        "site_id": 29,
+                        "title": "অ্যারন ফিঞ্চের পর অস্ট্রেলিয়ার নতুন অধিনায়ক প্যাট কামিন্স",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 14
+                    },
+                    {
+                        "alternate_id": 5173,
+                        "body": "জনতার কলম ওয়েবডেস্ক :- BCCI বার্ষিক ৯১তম সাধারণ সভা থেকে সিদ্ধান্ত এইবার bcci এর প্রেসিডেন্ট পদে বসলেন রজার বিনি। অপেক্ষা ছিলো শুধু ঘোষণার। এবারের বিসিসিআইয়ের নির্বাচনের আগে সৌরভ গঙ্গোপাধ্যায় মনোনয়ন পত্র জমা দেননি যদিও। তাই পরিষ্কার হয়ে গিয়েছিলো আগে থেকেই যে এই বার অন্য কেও তার জায়গায় বসতে চলেছে। তবে সৌরভ গঙ্গোপাধ্যায় Bcci সভাপতি পদে না থাকলেও, জয় শাহ একই পদে থাকছে।",
+                        "category_id": 185,
+                        "created": "Tue, 18 Oct 2022 09:47:02 GMT",
+                        "draft": false,
+                        "id": 21821,
+                        "last_updated": "Tue, 18 Oct 2022 09:47:02 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1666086415/xrk2m9jicm0jcuss6jbt.jpg",
+                                "public_id": "xrk2m9jicm0jcuss6jbt.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/xrk2m9jicm0jcuss6jbt.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Tue, 18 Oct 2022 09:47:02 GMT",
+                        "site_id": 29,
+                        "title": "BCCI সভাপতি পদে বসলেন রজার বিনি",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 14
+                    },
+                    {
+                        "alternate_id": 5153,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- শুরু হয়েছে আন্ত অফিস ক্রিকেট প্রতিযোগিতা। এিপুরা আন্তঃঅফিস ক্রীড়া ও বিনোদন সংস্থা পরিচালিত ক্রিকেট প্রতিযোগিতা রবিবার থেকে নড়সিংগড়স্থিত পঞ্চায়েত মাঠে শুরু হল।প্রতিযোগিতায় মোট 11 টি  রেক্রিয়েশন ক্লাব অংশগ্রহণ করেছে বলে জানিয়েছে এিপুরা আন্তঃঅফিস ক্রীড়া ও বিনোদন সংস্থার সাধারণ সম্পাদক রাজীব চ্যাটার্জী। আগামী 3রা নভেম্বর সংস্থা পরিচালিত সবগুলি খেলার পুরস্কার তুলে দেওয়া হবে রবীন্দ্র শতবার্ষিকী ভবনে এক অনুষ্ঠানের মাধ্যমে।\n \n",
+                        "category_id": 185,
+                        "created": "Sun, 16 Oct 2022 09:17:12 GMT",
+                        "draft": false,
+                        "id": 21822,
+                        "last_updated": "Sun, 16 Oct 2022 09:17:12 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1665911829/hcf1bausec6xbf6mbtwr.jpg",
+                                "public_id": "hcf1bausec6xbf6mbtwr.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/hcf1bausec6xbf6mbtwr.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sun, 16 Oct 2022 09:17:12 GMT",
+                        "site_id": 29,
+                        "title": "শুরু হলো আন্ত অফিস ক্রিকেট প্রতিযোগিতা",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 14
+                    },
+                    {
+                        "alternate_id": 5148,
+                        "body": "জনতার কলম ওয়েবডেস্ক :- ছেলেদের টিম দিয়ে না হলেও, মেয়েদের টিম দিয়ে দেশে আনলো এশিয়া কাপ। ভারতের মেয়েরা টানা ২০০৪সাল থেকে ২০১৬ পর্যন্ত এশিয়া কাপে চ্যাম্পিয়নের শিরোপা ভারতের উঠেছে মুকুটে। এইবার বাংলাদেশের সিলেটে বসেছিলো এশিয়া কাপের আসর। ঘরের মাঠে ফাইনালে পা রাখতে পারেনি বাংলাদেশ। উল্টে প্রতিবেশি দেশ থেকে শ্রীলংকার বিরুদ্ধে জেতে চ্যাম্পিয়নের ট্রফি নিয়ে ফিরছেন ভারতের মেয়েরা।",
+                        "category_id": 185,
+                        "created": "Sat, 15 Oct 2022 12:42:52 GMT",
+                        "draft": false,
+                        "id": 21740,
+                        "last_updated": "Sat, 15 Oct 2022 12:42:52 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1665837764/u1nrgmdsvh29vtbsyfcc.jpg",
+                                "public_id": "u1nrgmdsvh29vtbsyfcc.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/u1nrgmdsvh29vtbsyfcc.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sat, 15 Oct 2022 12:42:52 GMT",
+                        "site_id": 29,
+                        "title": "মহিলা টি-টোয়েন্টি এশিয়া কাপে চ্যাম্পিয়ন ভারত ",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 51
+                    },
+                    {
+                        "alternate_id": 5138,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- রাজধানীর এনআরসিসি টেবিল টেনিস  হলে শুরু হয়েছে অল ত্রিপুরা ওপেন ম্যান এন্ড ওম্যান টেবিল টেনিস চ্যাম্পিয়নশিপ 2022।  ওয়েস্ট ত্রিপুরা ডিস্ট্রিক্ট টেবিল টেনিস এসোসিয়েশন ও ত্রিপুরা স্পোর্টস কাউন্সিল এর সহযোগিতায় 15 ও 16 অক্টোবর এই প্রতিযোগিতা অনুষ্ঠিত হবে।প্রতিযোগিতা গুলি দেখার জন্য আমন্ত্রণ জানিয়েছেন ত্রিপুরা স্পোর্টস কাউন্সিল এর পক্ষে সুজিত বণিক।\n\n",
+                        "category_id": 185,
+                        "created": "Sat, 15 Oct 2022 07:48:17 GMT",
+                        "draft": false,
+                        "id": 21828,
+                        "last_updated": "Sat, 15 Oct 2022 07:48:17 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1665820094/miozwfh4ghl6if9cu9la.jpg",
+                                "public_id": "miozwfh4ghl6if9cu9la.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/miozwfh4ghl6if9cu9la.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sat, 15 Oct 2022 07:48:17 GMT",
+                        "site_id": 29,
+                        "title": "শুরু হলো অল ত্রিপুরা ওপেন ম্যান এন্ড ওম্যান টেবিল টেনিস চ্যাম্পিয়নশিপ ২০২২",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 11
+                    },
+                    {
+                        "alternate_id": 5136,
+                        "body": "\n\nজনতার কলম ওয়েবডেস্ক :- বুমরার পরিবর্ত হিসেবে দলে যোগ দিচ্ছেন মহম্মদ শামী শুক্রবার ভারতীয় ক্রিকেট বোর্ড থেকে জানিয়ে দেওয়া হলো এই খবর।। ওয়ার্ম আপ ম্যাচের আগে ব্রিসবেনে ভারতীয় শিবিরে যোগ দেবেন তিনি। ইতিমধ্যেই অস্ট্রেলিয়া উড়ে গিয়েছেন শামী। Bcci থেকে আরো জানানো হয়েছে যাতে খেলা চলাকালীন কেও যদি চোট পান তারজন্য মহম্মদ শিরাজ ও শাদুর্ল ঠাকুর কেও বিকল্প হিসেবে দলে যোগ দেবেন।",
+                        "category_id": 185,
+                        "created": "Fri, 14 Oct 2022 13:38:50 GMT",
+                        "draft": false,
+                        "id": 21827,
+                        "last_updated": "Fri, 14 Oct 2022 13:38:50 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1665754727/hautauhedhhbtyuadbhg.jpg",
+                                "public_id": "hautauhedhhbtyuadbhg.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/hautauhedhhbtyuadbhg.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Fri, 14 Oct 2022 13:38:50 GMT",
+                        "site_id": 29,
+                        "title": "টি-টোয়েন্টি বিশ্বকাপে দলে যোগ দিচ্ছেন মহম্মদ শামী",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 41
+                    },
+                    {
+                        "alternate_id": 5097,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- বি এস এফ এবং বি জিবি,র মধ্যে এক বন্ধু পূর্ণ ভলিবল টুর্নামেন্ট অনুষ্ঠিত হল সাবরুম উচ্চতর মাধ্যমিক বিদ্যালয় মাঠে।  দুই দেশের সীমান্তরক্ষী বাহিনীর জওয়ানদের মধ্যে আয়োজিত ভলিবল টুর্নামেন্টকে কেন্দ্র করে ব্যাপক উৎসাহ-উদ্দীপনা পরিলক্ষিত হয়। ভলিবল টুর্নামেন্ট  দুই দেশের সীমান্তরক্ষী বাহিনীর মধ্যে টানটান উত্তেজনায়  বাংলাদেশের সীমান্তরক্ষী বাহিনী 2.0  গোলে ভারতের বিএসএফ কে পরাজিত করে |উপস্থিত ছিলেন বিএসএফ 109 ব্যাটালিয়ন  কমান্ডেন্ট অশোক কুমার যাদব. এবং বাংলাদেশের বি জি বি 40 ব্যাটেলিয়ান  কমান্ডেন্ট  সোহেল আহমেদ।\n \n",
+                        "category_id": 185,
+                        "created": "Sun, 09 Oct 2022 09:55:15 GMT",
+                        "draft": false,
+                        "id": 21517,
+                        "last_updated": "Sun, 09 Oct 2022 09:55:15 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1665309313/lpju3uq21bxthzdzlmk6.jpg",
+                                "public_id": "lpju3uq21bxthzdzlmk6",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/lpju3uq21bxthzdzlmk6.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sun, 09 Oct 2022 09:55:15 GMT",
+                        "site_id": 29,
+                        "title": "ভলিবলে ভারতের বিএসএফ কে পরাজিত করে বি জিবি,র জয় ",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 57
+                    }
+                ],
+                "দেশ": [
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ওয়েবডেস্ক :- নতুন বাড়ির চাবি পেয়ে কেঁদে ফেললেন দরিদ্র বিধায়ক। ভাইরাল ভিডিওতে মশগুল সারা দুনিয়া। উপার্জন ও ব্যয়ের পরিসংখ্যানে বিহারের দরিদ্রতম বিধায়ক হলেন রাষ্ট্রীয় জনতা দলের রামবৃক্ষ সদা৷ সম্প্রতি তাঁকে পটনায় একটি সরকারি বাড়ি দেওয়া হল৷ মুখ্যমন্ত্রী নীতীশ কুমারের হাত থেকে নিজের নতুন বাড়ির চাবি নিয়ে আবেগ ধরে রাখতে পারেননি প্রথম বারের বিধায়ক রামবৃক্ষ৷ তাঁর দু'চোখে আনন্দাশ্রুর ভিডিও এখন ভাইরাল সামাজিক মাধ্যমে৷ ভাইরাল ভিডিওয় বিধায়ক রামবৃক্ষ বলেছেন, ''আমি বিহারের দরিদ্রতম বিধায়ক৷ একজন দরিদ্র যখনই কিছু পান, সেটা তাঁর কাছে দীপাবলির উপহার৷ এখন মুখ্যমন্ত্রী আমার হাতে নতুন বাড়ির চাবি তুলে দিলেন৷ জীবনে এরকম কোনওদিন স্বপ্নই দেখিনি৷ তাই আবেগতাড়িত হয়ে পড়েছি৷'' আপ্লুত বিধায়কের আরও সংযোজন, ''আমি মুশহর সম্প্রদায়ের৷ লালুপ্রসাদ যাদব আমাকে প্রথমে নেতা এবং পরে বিধায়ক তৈরি করেছেন৷'' আলাউলির এই বিধায়ক এখনও খাগারিয়া এলাকায় তাঁর গ্রাম রউনে দু' কামরার বাড়িতে থাকেন৷ এই বাড়ি তৈরি হয়েছিল ২০০৪ সালে ইন্দিরা আবাস যোজনায়৷ তফশিলি জাতির এই বিধায়ককে এ বার দেওয়া হল পটনার বীর চাঁদ পটেল পথে তিলতলা বাড়ি৷ রামবৃক্ষের মতো মোট আট বিধায়কের হাতে এই অনুষ্ঠানে নতুন বাড়ির চাবি তুলে দেওয়া হয়৷ পাঁচ পুত্র ও এক কন্যার বাবা ৪৭ বছর বয়সি এই বিধায়ক জানিয়েছেন তিনি ১৯৯৫ সালে রাজনীতিতে যোগ দেওয়ার সিদ্ধান্ত নেন৷ তখন তিনি ইটভাটার শ্রমিক ছিলেন৷ এক নির্বাচনী প্রচারে ব্যস্ত লালুপ্রসাদ যাদবের সঙ্গে তিনি দেখা করে কথা বলেন৷ আরজেডি-র টিকিটে একাধিকবার পরাজয়ের পর অবশেষে তিনি বিধায়ক নির্বাচিত হন ২০২০-তে\n\n",
+                        "category_id": 182,
+                        "created": "Sat, 29 Oct 2022 13:48:16 GMT",
+                        "draft": false,
+                        "id": 22243,
+                        "last_updated": "Sat, 29 Oct 2022 13:48:16 GMT",
+                        "photos": [
+                            {
+                                "public_id": "13e8e7e4-336a-4f1d-9de5-15c145741b5d",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/13e8e7e4-336a-4f1d-9de5-15c145741b5d"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sat, 29 Oct 2022 13:48:16 GMT",
+                        "site_id": 29,
+                        "title": "বাড়ি পেয়ে কেঁদে ফেললেন বিধায়ক ভাইরাল ভিডিও",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 87
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ওয়েবডেস্ক :- জামাই বৃটেনের প্রধানমন্ত্রী আহ্লাদে আটটান ইনফোসিসের সহ-প্রতিষ্ঠাতা এনআর নারায়ণ মূর্তি। ব্যাঙ্গালোর জুড়ে আনন্দের জোয়ার। জামাই ইংল্যান্ডের প্রধানমন্ত্রী হচ্ছেন। এই খবরে উচ্ছ্বসিত এবং গর্বিত ইনফোসিসের সহ-প্রতিষ্ঠাতা এনআর নারায়ণ মূর্তি। ঋষি সুনকের সঙ্গে নারায়ণ মূর্তির মেয়ে অক্ষতার বিয়ে হয়েছে। রবিবার, ৪২ বছরের ঋষি কনজারভেটিভ পার্টির অভ্যন্তরীণ দৌড়ে জয়লাভ করেন। তার পরই প্রথম ভারতীয় বংশোদ্ভূত ব্যক্তি হিসাবে ইংল্যান্ডের প্রধানমন্ত্রী হওয়া নিশ্চিত হয়ে যায়। এই খবরে ইংল্যান্ডে বসবাসকারী ভারতীয়দের পাশাপাশি খুশি ঋষির শ্বশুরমশায় নারায়ণ মূর্তিও। প্রথম প্রতিক্রিয়ায় তিনি বলেন, ''অভিনন্দন ঋষি! আমরা তোমার জন্য গর্বিত। জীবনে সমস্ত রকম সাফল্য পাও, এই কামনা করি।'' এর পরই ইনফোসিসের সহ-প্রতিষ্ঠাতা বলেন, ''আমরা নিশ্চিত, ইউনাইটেড কিংডমের সমস্ত অধিবাসীর জন্য ঋষি সর্বস্ব চেষ্টা করবে।'' চিকিৎসক বাবা ও ফার্মাসিস্ট মায়ের ছেলে ঋষি। পড়াশোনা ইংল্যান্ডের অন্যতম বিখ্যাত উইনচেষ্টার স্কুলে। তার পর উচ্চশিক্ষা অক্সফোর্ডে। চাকরিজীবনে ঋষি টানা তিন বছর কাজ করেছেন গোল্ডম্যান স্যাকস গোষ্ঠীতে। তারপর আমেরিকার ক্যালিফোর্নিয়ার স্ট্যানফোর্ড বিশ্ববিদ্যালয় থেকে এমবিএ করেন। সেখানেই ঋষির সঙ্গে পরিচয় ইনফোসিসের সহ-প্রতিষ্ঠাতা নারায়ণ মূর্তির মেয়ে অক্ষতার। ২০০৯-এ অক্ষতার সঙ্গে বিয়ে হয় ঋষির। দম্পতির দুই কন্যা, কৃষ্ণা এবং অনুষ্কা।\n\n",
+                        "category_id": 182,
+                        "created": "Tue, 25 Oct 2022 15:06:58 GMT",
+                        "draft": false,
+                        "id": 22029,
+                        "last_updated": "Tue, 25 Oct 2022 15:06:58 GMT",
+                        "photos": [
+                            {
+                                "public_id": "f1591924-7ec1-499b-b8ea-19647d0bdd44",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/f1591924-7ec1-499b-b8ea-19647d0bdd44"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Tue, 25 Oct 2022 15:06:58 GMT",
+                        "site_id": 29,
+                        "title": "ব্যাঙ্গালোরের জামাই ভারতীয় বংশোদ্ভূত বৃটেনের প্রধানমন্ত্রী",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 4
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ওয়েবডেস্ক :- আবহাওয়া দফতর পূর্বাভাস মেনে বাংলাদেশেই আছড়ে পড়েছে ঘূর্ণিঝড় সিত্রাং। সোমবার রাতেই সিত্রাংয়ের অগ্রভাগ বাংলাদেশের  উপকূলে আঘাত করে। ঘূর্ণিঝড়ের কেন্দ্রটি উপকূলে আঘাত করে রাতের দিকে। সিত্রাংয়ের প্রভাবে প্রবল ঝড়বৃষ্টি চলছে সে দেশে। এখনও পর্যন্ত ১০ জন মারা গিয়েছেন ঝড়ের তাণ্ডবে। সোমবার সকাল থেকেই দেশের বিভিন্ন জেলায় শুরু হয় ঝড়বৃষ্টি। সন্ধ্যা পেরিয়ে রাত যত বেড়েছে, ততই বেড়েছে ঝড়ের তাণ্ডব। ঘূর্ণিঝড়ের অগ্রভাগ সোমবার সন্ধ্যায় এবং মূল কেন্দ্রটি রাতে উপকূলে আঘাত করে। ঘূর্ণিঝড়ের কেন্দ্রটি ভোলার উপর দিয়ে যায়। সিত্রাংয়ের প্রভাবে সারা দেশে সোমবার গভীর রাত পর্যন্ত ৯ জনের মৃত্যু হয়েছে। বাংলাদেশের প্রশাসন সূত্রে জানা যাচ্ছে, কুমিল্লায় ৩ জন, ভোলায় ২ জন, নড়াইলে ১ জন, বরগুনায় ১ জন এবং সিরাজগঞ্জে মৃত্যু হয়েছে ২ জনের। ঘূর্ণিঝড় সিত্রাংয়ের প্রভাবে নারায়ণগঞ্জের সোনারগাঁয়ের দড়িকান্দি এলাকায় ঢাকা-চট্টগ্রাম মহাসড়কে বড় একটি গাছ উপড়ে পড়ে। তারপরই বন্ধ হয়ে যায় যানবাহন চলাচল। ঘূর্ণিঝড়ের প্রভাবে চট্টগ্রাম ও বরিশাল বিভাগের বেশির ভাগ এলাকায় ঝোড়ো বাতাসের সঙ্গে ভারী বৃষ্টি চলছে। উপকূলের ১৫টি জেলার নদ–নদীর জলস্তর স্বাভাবিকের থেকে ৩ থেকে ৫ ফুট বেশি। ভোলার দৌলতখানা পুর এলাকায় খাদিজা বিবি নামে এক বৃদ্ধা গাছ চাপা পড়ে মারা যান। ভোলাতেই আর এক জন মারা যান চারফ্যাশন উপজেলায়। সেখানে দু'জন বাইকে করে যাচ্ছিলেন। সেই সময়ই তাঁদের উপর একটি প্রকাণ্ড গাছ ভেঙে পড়ে। ঘটনাস্থলেই মৃত্যু হয় বাইক চালকের। আরোহী গুরুতর আহত হন। বরগুনা জেলায় একটি বাড়ির উপর গাছ ভেঙে পড়ে। ওই সময় ঘরে থাকা আমিনা খাতুন নামে এক বৃদ্ধার ঘটনাস্থলেই মৃত্যু হয়। গাছের ডাল ভেঙে পড়ে নড়াইলের মর্জিনা বেগম গুরুতর আহত হন। স্থানীয়েরা তাঁকে চিকিৎসার জন্য নিকটবর্তী হাসপাতালে নিয়ে গেলে চিকিৎসকরা তাঁকে মৃত বলে ঘোষণা করেন। কুমিল্লার নাঙ্গলকোটে ঘরের উপর গাছ উপড়ে পড়ে সন্তান-সহ স্বামী-স্ত্রীর মৃত্যু হয়েছে। সোমবার রাত ১১টা নাগাদ হেসাখাল ইউনিয়নের পশ্চিমপাড়ায় এই ঘটনা ঘটে। নিহতদের নাম নিজামউদ্দিন, তাঁর স্ত্রী শারমিন আক্তার এবং তাঁদের চার বছরের শিশুসন্তান নুসরত। অন্য দিকে, সিরাজগঞ্জ সদরের সয়দা ইউনিয়নের মোহনপুর এলাকায় সোমবার রাতে ঘূর্ণিঝড় সিত্রাংয়ের জেরে নৌকাডুবিতে মা ও ছেলের মৃত্যু হয় বলে জানা যাচ্ছে। ঘূ্র্ণিঝড় সিত্রাং প্রভাব ফেলেছে বাংলাদেশের মোট ১৩টি জেলায়। ওই সব জেলায় আগাম সতর্কতা জারি করা হয়েছিল। উপকূলবর্তী এলাকার বহু বাসিন্দাকে নিরাপদ স্থানে সরিয়ে নেওয়া হয়েছে। বাংলাদেশের আবহাওয়া দফতর জানিয়েছে, ঘূর্ণিঝড় অতিক্রম করার সময় উপকূলবর্তী এলাকায় ঝড়ের বেগ ছিল ঘণ্টায় ৮০ থেকে ১০০ কিলোমিটার ছিল বলে জানা যাচ্ছে।\n\n",
+                        "category_id": 182,
+                        "created": "Tue, 25 Oct 2022 09:35:15 GMT",
+                        "draft": false,
+                        "id": 22022,
+                        "last_updated": "Tue, 25 Oct 2022 09:35:15 GMT",
+                        "photos": [
+                            {
+                                "public_id": "ec30a9df-0ffa-4df6-bcb1-f710b7a47d86",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/ec30a9df-0ffa-4df6-bcb1-f710b7a47d86"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Tue, 25 Oct 2022 09:35:15 GMT",
+                        "site_id": 29,
+                        "title": "বাংলাদেশকে ধ্বংসলীলায় পরিণত করেছে সিত্রাং যোগাযোগ  বিচ্ছিন্ন ১৩ টি জেলায় , ঝড়ের তাণ্ডবে মারা গিয়েছে দশজন",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 3
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- সন্ত্রাস শেষের উৎসব হল দীপাবলি। কারগিলে গিয়ে পাকিস্তানকে নিশানা করলেন প্রধানমন্ত্রী নরেন্দ্র মোদি।ক্ষমতা ছাড়া শান্তি প্রতিষ্ঠা করা অসম্ভব। কারগিলের সেনা জওয়ানদের সঙ্গে দীপাবলি পালন করতে গিয়ে বললেন প্রধানমন্ত্রী নরেন্দ্র মোদী। প্রধানমন্ত্রী বলেন, যুদ্ধ হল শেষ রাস্তা। ভারত যুদ্ধ চায় না। কারগিল এমন একটি জায়গা যে যখনই পাকিস্তানের সঙ্গে লড়াই হয়েছে তখনই এখানে বিজয় কেতন উড়িয়েছে আমাদের সেনা। গোটা দুনিয়াকে দীপাবলির উত্সবে সামিল করতে চায় ভারত। কারগিলের এই পুণ্যভূমিতে জওয়ানদের মধ্যে থেকে দেশবাসী ও গোটা বিশ্বকে দীপাবলির শুভকামনা জানাই। গোটা বিশ্বে শান্তি বিরাজ করুক। এটা আমাদের কামনা। দীপাবলির অর্থ সন্ত্রাস দমনের পর উত্সব। আমাদের দেশ কেবল এক ভৌগলিক ভূখণ্ডই শুধু নয়। এক জীবন্ত 'বিভূতি'। একটি চেতনা। যখন আমরা ভারতের  কথা বলি তখন আমাদের মনে এক সাংস্কৃতির কথা মনে করিয়ে দেয়। দেশ সুরক্ষিত তখনই হয় যখন সীমান্ত সুরক্ষিত থাকে, অর্থীনীতি চাঙ্গা থাকে, সমাজে আত্মবিশ্বাসে ভরপুর থাকে। অযোধ্যায় গতকাল দীপত্সবে অংশ নেওয়ার পর আজ কারগিলে সেনা জওয়ানদের সঙ্গে দীপাবলি পালন করলেন প্রধানমন্ত্রী নরেন্দ্র মোদী। কারগিলে মোদী তার ভাষণে বলেন, সেনাবাহিনী আমাদের পারিবারের মতো। তাই জওয়ানদের সঙ্গেই তা কাটাতে ভালোবাসি। দেশে সন্ত্রাস বিরোধী লড়াইয়ের কথা বলতে গিয়ে প্রধানমন্ত্রী বলেন, দ্রাস, কারগিল ও বাটালিকে সন্ত্রাসের বিরুদ্ধে লড়াইয়ে সাহস দেখিয়েছে আমাদের সেনা। কারগিলে আমাদের সেনা সন্ত্রাসকে গুঁড়িয়ে দিয়েছে। সেই ঘটনার সাক্ষী আমি। গোটা দুনিয়া এখ আমাদের দেশকে সম্মান করে। দেশের সীমান্ত রক্ষার প্রশ্ন অত্যন্ত কড়া আমাদের সেনাবাহিনী। কেউ যদি আমাদের চ্য়ালেঞ্জ করে তাহলে আমাদের সেনা জানে কীভাবে তার জবাব দিতে হয়। প্রধানমন্ত্রী হওয়ার পর থেকেই বিভিন্ন সেনাঘাঁটিতে দীপাবলি পালন করেন প্রধানমন্ত্রী নরেন্দ্র মোদী। কখনও তা সেনার সঙ্গে, কখনও তা বায়ু সেনার সঙ্গে। কখনও তা নৌবাহিনীর জওয়ানদের সঙ্গে। দেশের বর্তমান পরিস্থিতি নিয়ে প্রধানমন্ত্রী বলেন, আজ দেশ দুর্নীতির সঙ্গে লড়াই করছে। দুর্নীতি পরায়ন মানুষ যতই শক্তিশালী হোক না কেন তিনি পালাতে পারবেন না। সরকার চালানোর ক্ষেত্রে দুর্নীতি দেশের উন্নয়নের পথে বড় বাধা। তার বিরুদ্ধেই লড়াই করছে সরকার।   \n\n",
+                        "category_id": 182,
+                        "created": "Mon, 24 Oct 2022 13:34:46 GMT",
+                        "draft": false,
+                        "id": 22011,
+                        "last_updated": "Mon, 24 Oct 2022 13:34:46 GMT",
+                        "photos": [
+                            {
+                                "public_id": "2bf9fda8-139d-4fbc-a735-11922ec3b046",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/2bf9fda8-139d-4fbc-a735-11922ec3b046"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Mon, 24 Oct 2022 13:34:46 GMT",
+                        "site_id": 29,
+                        "title": "সন্ত্রাস শেষের উৎসব দীপাবলি পাকিস্তানকে নিশানা করলেন মোদি",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 23
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ওয়েবডেস্ক :- দীপাবলির উৎসবে উপস্থিত  ছিলেন প্রধানমন্ত্রী নরেন্দ্র মোদি। মোদির উপস্থিতিতে জ্বলছে 15 লক্ষ প্রদীপ। রবিবার অযোধ্যায় জ্বলছে ১৫ লক্ষ প্রদীপ। মোদীর সামনেই দীপোৎসবের অঙ্গ হিসেবে ১৫ লক্ষের বেশি প্রদীপ জ্বালানো হয়েছে। আতশবাজি, লেজার প্রদর্শনী এবং রামলিলাসের আয়োজনও রয়েছে আজকের অনুষ্ঠানে। দীপোৎসবের ষষ্ঠ সংস্করণে অংশ নিয়েছেন প্রধানমন্ত্রী নরেন্দ্র মোদী। পাঁচটি অ্যানিমেটেড ট্যাবলৌ এবং এগারোটি রামলীলা ট্যাবলৌ প্রদর্শিত হয়েছে দীপোৎসবে। সরযূ নদীর তীরে এবং আরও ৩৭টি ঘাট এলাকায় ইতিমধ্যেই ১৫ লক্ষ প্রদীপ দেওয়া হয়েছে। মাটির প্রদীপ জ্বালিয়ে নতুন গিনেস ওয়ার্ল্ড রেকর্ড গড়ার চেষ্টায় অযোধ্যা প্রশাসন। ২০২১ সালে দীপোৎসবে ৯ লক্ষ,৪১ হাজার,৫৫১ টি প্রদীপ প্রজ্জ্বলনের মাধ্যমে অযোধ্যা প্রশাসন বিশ্ব রেকর্ড গড়েছে। তবে উজ্জয়িনী মহাশিবরাত্রিতে ১১লক্ষ্য,৭১হাজার,৭৮টি প্রদীপ জ্বালানোর পর সে রেকর্ড ভেঙে যায়। প্রধানমন্ত্রীর কার্যালয় সূত্রে জানা গেছে, বিকেল ৫টার দিকে ভগবান শ্রী রামলালা ভিরাজমান-এর দর্শন ও পুজো   করেছেন মোদী। বিকেল ৫টা ৪৫ মিনিটে ভগবান শ্রী রামের রাজঅভিষেক এবং সন্ধ্যা ৬টা ৩০ মিনিটে সারয়ু নদীর নতুন ঘাটে আরতি অনুষ্ঠানে সামিল হয়েছেন প্রধানমন্ত্রী। উপস্থিত ছিলেন উত্তরপ্রদেশের মুখ্যমন্ত্রী যোগী আদিত্যনাথও। সূত্রের খবর অনুযায়ী, মোদী অযোধ্যা ছেড়ে যাওয়ার পর স্থানীয় মানুষের জন্য ২৫ মিনিটের মধ্যে আটটি লেজার শো করেছে অযোধ্যা প্রশাসন।\n\n",
+                        "category_id": 182,
+                        "created": "Sun, 23 Oct 2022 12:27:37 GMT",
+                        "draft": false,
+                        "id": 21963,
+                        "last_updated": "Sun, 23 Oct 2022 12:27:37 GMT",
+                        "photos": [
+                            {
+                                "public_id": "e73a1d1f-126d-41c2-9bbe-91121f15296b",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/e73a1d1f-126d-41c2-9bbe-91121f15296b"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sun, 23 Oct 2022 12:27:37 GMT",
+                        "site_id": 29,
+                        "title": "অযোধ্যায় জ্বলছে ১৫ লক্ষ প্রদীপ লক্ষ্য বিশ্বরেকর্ড",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 4
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "দীপাবলিতে যুবাদের উপহার দিলেন  প্রধানমন্ত্রী নরেন্দ্র মোদি। ৭৫ হাজার যুবাকে নিয়োগের মাধ্যমে শুরু করেছে রজগার মেলা। দীপাবলিতে দেশের যুব সম্প্রদায়কে প্রধানমন্ত্রী নরেন্দ্র মোদীর উপহার। রোজগার মেলার শুভ সূচনা করলেন প্রধানমন্ত্রী মোদী। রোজগার মেলার লক্ষ্য দেশে ১০ লাখ কর্মসংস্থান। যার প্রাথমিক সূচনা হিসেবে শনিবার ৭৫ হাজার যুবার হাতে নিয়োগপত্র তুলে দিলেন প্রধানমন্ত্রী। এদিন রোজগার মেলার সূচনা করে মোদী বলেন, 'আমরা স্বনির্ভর ভারতের পথে হাঁটছি। যে উন্নত ভারত গড়ার সংকল্প আমরা নিয়েছি, তা পূরণের জন্য আমরা স্বনির্ভর ভারতের পথে হাঁটছি। উদ্ভাবক, উদ্যোক্তা,, কৃষক, সেবা এবং উৎপাদন সহযোগীদের এক্ষেত্রে বড় ভূমিকা রয়েছে।' দীপাবলির আগে এদিন ভিডিয়ো কনফারেন্সের মাধ্যমে দেশে রোজগার মেলার শুভ সূচনা করেন মোদী। এই রোজগার মেলার প্রথম পর্যায়ে যে ৭৫ হাজার ২২৬ জন নির্বাচিত প্রার্থীর হাতে এদিন নিয়োগপত্র তুলে দেওয়া হল, তাঁদের কেন্দ্রের বিভিন্ন মন্ত্রক ও দফতরে নিয়োগ করা হবে। প্রসঙ্গত, সারা দেশে বেকারত্ব বৃদ্ধির অভিযোগে সরব বিরোধীরা। সেইসময় মোদীর এই রোজগার মেলা এককথায় দীপাবলির আগে ধামাকা অফার! এই ৭৫ হাজার যুবক-যুবতী কেন্দ্রের ৩৮টি মন্ত্রক ও নানা দফতরে যোগদান করবে। গ্রুপ - এ, গ্রুপ -বি, গ্রুপ -সি, গ্রুপ -ডি ইত্যাদি যে কোনও স্তরেই এই যুবক-যুবতীদের নিয়োগ করা হতে পারে। সেন্ট্রাল আর্মড ফোর্সে কর্মী হিসেবে নিয়োগ করা হতে পারে। সাব ইন্সপেক্টর, কনস্টেবল, এলডিসি, স্টেনো, পিএ, ইনকাম ট্যাক্স ইন্সপেক্টর, এমটিএস ইত্যাদি পদে নিয়োগ করা হবে বলে জানা গিয়েছে। কেন্দ্রীয় সূত্রে খবর, বিরোধীদের অভিযোগের মুখে দ্রুত নিয়োগের রাস্তাতেই হাঁটছে মোদী সরকার। দ্রুত নিয়োগ করার জন্য নির্বাচন পদ্ধতি ও টেকনোলজি সহজ করা হয়েছে।\n\n",
+                        "category_id": 182,
+                        "created": "Sat, 22 Oct 2022 14:03:57 GMT",
+                        "draft": false,
+                        "id": 21916,
+                        "last_updated": "Sat, 22 Oct 2022 14:03:57 GMT",
+                        "photos": [
+                            {
+                                "public_id": "acd1c450-329f-4461-9b90-e532b7d418d6",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/acd1c450-329f-4461-9b90-e532b7d418d6"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sat, 22 Oct 2022 14:03:57 GMT",
+                        "site_id": 29,
+                        "title": "৭৫ হাজার যুবাকে নিয়োগের মাধ্যমে  রোজগার মেলার সূচনা করলেন মোদি",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 6
+                    },
+                    {
+                        "alternate_id": 5186,
+                        "body": "জনতার কলম ওয়েবডেস্ক :- কংগ্রেসের নতুন সভাপতি হলেন মল্লিকার্জুন খাড়গে । আরও এক প্রতিদ্বন্দ্বী শশী থারুরকে পরাজিত করে নয়া দায়িত্বভার পেলেন তিনি। বুধবার সকাল ১০টা থেকে শুরু হয় কংগ্রেস সভাপতি নির্বাচনের ভোটগণনা। মল্লিকার্জুন খাড়গে যে ভোটে জিতে সভাপতি হচ্ছেন, সে বিষয়ে কংগ্রেস নেতারা নিশ্চিত ছিলেনই। মল্লিকার্জুন পেয়েছেন ৭৮৯২টি ভোট। অন্যদিকে শশী পেয়েছেন মাত্র ১০৭২টি ভোট। ৬ হাজার ৮২০ ভোটের ব্যবধানে জিতলেন খাড়গে। ৪১৬টি ব্যালট বাতিল হয়েছে। বরাবরই গান্ধী পরিবার ঘনিষ্ঠ মল্লিকার্জুন খাড়গে। ফলে দু'দশক পর অ-গান্ধী সভাপতি কংগ্রেস পেলেও তা কিন্তু আদতেই গান্ধী দখলেই থাকল। নির্বাচনের ফল প্রকাশ হওয়ার আগেই শশী থারুর টুইট করে লেখেন, "জাতীয় কংগ্রেসের সভাপতি হওয়া অত্যন্ত গর্বের ও দায়িত্বের। আমি মল্লিকার্জুন খাড়গেকে এই দায়িত্ব প্রাপ্তির জন্য শুভেচ্ছা জানাচ্ছি। এক হাজারেরও বেশি সদস্যের সমর্থন পাওয়াও অনেক বড় সাফল্য।" তবে গণনার প্রথম থেকেই শশী থারুরের দলের তরফে কংগ্রেস সভাপতি নির্বাচনে অনিয়মের অভিযোগ করা হল। দলের নির্বাচনী সংস্থাকে চিঠি লিখেছেন তাঁরা। বেনিয়মের অভিযোগ উড়িয়ে দিয়েছে খাড়গে এবং তাঁর শিবির। তাঁদের দাবি, সম্পূর্ণ গণতান্ত্রিক পদ্ধতিতেই নির্বাচন হয়েছে৷ উল্লেখ্য, ১৩০ বছরের দীর্ঘ ইতিহাসে কংগ্রেসে আজও পর্যন্ত ৪১ জন সভাপতি হয়েছেন। মল্লিকার্জুন খাড়গে তাদের মধ্যে দ্বিতীয় দলিত হিসেবে দলের সর্বোচ্চ পদে আসীন হলেন আজ। এর আগে ২০০০ সালে শেষবার নির্বাচন অনুষ্ঠিত হয়েছিল কংগ্রেস সভাপতি পদের জন্য। সেবার জগজীবন রামকে হারিয়ে সভাপতি হয়েছিলেন সনিয়া গান্ধী। প্রথম থেকেই জানা ছিল কোনদিকে ঝুঁকে দল। হলও তাই। খাড়গের নামের পাশে বসে গিয়েছিল 'গান্ধী পরিবারের প্রার্থীর তকমা। সোনিয়া গান্ধী অবশ্য শুরু থেকেই বলে আসছিলেন, নির্বাচন প্রক্রিয়ায় তাঁরা নিরপেক্ষ থাকবেন। সেই মতো প্রকাশ্যে গান্ধী পরিবারের সদস্যরা কোনও প্রার্থীর সমর্থনে মুখও খোলেননি। সূত্রের খবর, দলের অন্দরে ক্যাম্পেন হয়েছিল গান্ধী পরিবারের প্রার্থী হিসাবেই। ফলে প্রায় ৮ হাজার ভোটে জিতলেন মল্লিকার্জুন খাড়গে। \n\n\n\n",
+                        "category_id": 182,
+                        "created": "Wed, 19 Oct 2022 11:37:41 GMT",
+                        "draft": false,
+                        "id": 21816,
+                        "last_updated": "Wed, 19 Oct 2022 11:37:41 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1666179458/dy5oaaaktt0zoki67h7m.jpg",
+                                "public_id": "dy5oaaaktt0zoki67h7m.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/dy5oaaaktt0zoki67h7m.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Wed, 19 Oct 2022 11:37:41 GMT",
+                        "site_id": 29,
+                        "title": "কংগ্রেসের দখল রইল গান্ধী পরিবারের হাতেই  সভাপতির দায়িত্ব পেলেন মল্লিকার্জুন খাড়গে",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 71
+                    },
+                    {
+                        "alternate_id": 5174,
+                        "body": "\nজনতার কলম ত্রিপুরা ওয়েবডেস্ক :- কেদারনাথের উদ্দেশ্যে কপ্টারে যেতে গিয়ে ভেঙে পরে এখন পর্যন্ত  ৬জনের মৃত্যু বলে খবর পাওয়া যায়। তার মধ্যে ৪জন পুণ্যার্থী ও ২জন পাইলট। ঘটনাটি ঘটে কেদারনাথের কাছাকাছি গরুর চটির কাছে এই কপ্টারটি ভেঙে পরে। যত টুকু খবর সূত্র অনুযায়ী ওড়ার পরই কপ্টারটিতে আগুন ধরে যায় বলে জানা যায়।",
+                        "category_id": 182,
+                        "created": "Tue, 18 Oct 2022 10:05:15 GMT",
+                        "draft": false,
+                        "id": 21783,
+                        "last_updated": "Tue, 18 Oct 2022 10:05:15 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1666087506/ialdan2kwedvkuuvplp4.jpg",
+                                "public_id": "ialdan2kwedvkuuvplp4.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/ialdan2kwedvkuuvplp4.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Tue, 18 Oct 2022 10:05:15 GMT",
+                        "site_id": 29,
+                        "title": "কেদারনাথের কাছে ভেঙে পড়ল হেলিকপ্টার, নিহত পুণ্যার্থী ৪সহ পাইলট ২",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 70
+                    },
+                    {
+                        "alternate_id": 5167,
+                        "body": "জনতার কলম ওয়েবডেস্ক :-দেশে প্রথমবার হিন্দিতে পড়ানো হবে ডাক্তারি, নতুন বই প্রকাশ করলেন অমিত শাহ। হিন্দিতে লেখা ডাক্তারি বই পড়ানো হবে পড়ুয়াদের। মধ্যপ্রদেশের প্রথম বর্ষের ডাক্তারি পড়ুয়াদের জন্য লেখা সেই বইগুলি প্রকাশ করলেন স্বরাষ্ট্রমন্ত্রী অমিত শাহ। ভোপালের ওই অনুষ্ঠানে শাহ ছাড়া উপস্থিত ছিলেন মুখ্যমন্ত্রী শিবরাজ সিং চৌহান ও রাজ্যের চিকিৎসা শিক্ষামন্ত্রী বিশ্বাস কৈলাস সারং। এদিনের অনুষ্ঠানে অমিত শাহ বলেন, " আগামিদিনে যখনই ইতিহাস লেখা হবে, আজকের দিনটি স্বর্ণাক্ষরে লেখা থাকবে। আজ দেশের শিক্ষাক্ষেত্রের এক অত্যন্ত গুরুত্বপূর্ণ দিন। 'ব্রেইন ড্রেন' থেকে 'ব্রেইন গেম' এ দেশকে এগিয়ে নিয়ে যাওয়ার অঙ্গীকার নিয়েছেন প্রধানমন্ত্রী নরেন্দ্র মোদি।\"\"বিজেপির শিবরাজ সিং চৌহান দেশের প্রথম বার হিন্দিতে ডাক্তারি পড়ানো শুরু করে প্রধানমন্ত্রীর ইচ্ছাকে মান্যতা দিয়েছেন। জাতীয় শিক্ষা নীতির মাধ্যমে প্রধানমন্ত্রী মোদি মাতৃভাষায় শিক্ষায় বিশেষ জোর দিয়েছেন। এটা একটা ঐতিহাসিক সিদ্ধান্ত।" মধ্যপ্রদেশের মুখ্যমন্ত্রী শিবরাজ সিং চৌহান বক্তব্য রাখার সময় উচ্ছ্বসিত হয়ে বলেন, "আজ অমিত শাহ দরিদ্রদের সন্তানদের জন্য নতুন ভোরের সূচনা করলেন। অনেকেই মেডিক্যাল কলেজগুলিতে ভরতি হতেন। কিন্তু ইংরাজির ফাঁদে পড়ে পরীক্ষায় পাশ করতে না পেরে পড়াশোনা ছেড়ে দিতে বাধ্য হতেন।" উল্লেখ্য, শিবরাজ আগেই জানিয়েছিলেন, "এমন ধারণা আমূল বদলে যেতে চলেছে যে মাতৃভাষায় ডাক্তারি কিংবা ইঞ্জিনিয়ারিং পড়া সম্ভব নয়। হিন্দি মাধ্যমে শিক্ষালাভ করেও যে জীবনে এগিয়ে যাওয়া যায়, তা প্রমাণ করতেই নতুন এই পদক্ষেপ করলাম আমরা।" হিন্দি এবং আঞ্চলিক ভাষার প্রচারের জন্য প্রধানমন্ত্রী মোদির দৃষ্টিভঙ্গি সম্পর্কে কথা বলতে গিয়ে শাহ বলেন, "প্রধানমন্ত্রী মোদি হিন্দি, মারাঠি, তামিল, তেলেগু, গুজরাতি, মালয়ালি থেকে বাংলা পর্যন্ত সব ভাষায় মেডিসিন এবং ইঞ্জিনিয়ারিংয়ের শিক্ষা প্রদানের মিশন শুরু করেছেন। . প্রধানমন্ত্রীর দৃষ্টিভঙ্গি অনুযায়ী, আমাদের ভাষাকে গুরুত্ব দেওয়া হচ্ছে এবং ১২টি ভাষায় প্রবেশিকা পরীক্ষা অনুষ্ঠিত হচ্ছে।"\n",
+                        "category_id": 182,
+                        "created": "Mon, 17 Oct 2022 09:26:44 GMT",
+                        "draft": false,
+                        "id": 21788,
+                        "last_updated": "Mon, 17 Oct 2022 09:26:44 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1665998798/gwkftqohaitgukbtzmyo.jpg",
+                                "public_id": "gwkftqohaitgukbtzmyo.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/gwkftqohaitgukbtzmyo.jpg"
+                            },
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1665998801/uf5jrb7iwr77m8zyky5x.jpg",
+                                "public_id": "uf5jrb7iwr77m8zyky5x.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/uf5jrb7iwr77m8zyky5x.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Mon, 17 Oct 2022 09:26:44 GMT",
+                        "site_id": 29,
+                        "title": "বাংলা ভাষাতেও পড়া যাবে ডাক্তারি ইঞ্জিনিয়ারিং  ঘোষণা করলেন কেন্দ্রীয় স্বরাষ্ট্রমন্ত্রী অমিত শাহ ",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 14
+                    },
+                    {
+                        "alternate_id": 5162,
+                        "body": "জনতার কলম ওয়েবডেস্ক :- ৮৮ বছর বয়সে প্রয়াত হলেন ORS-এর জনক দিলীপ মহলানবিশ ৷ সারা বিশ্বের কাছে ORS একটি অতি প্রয়োজনীয় মিশ্রণ ৷ ডায়েরিয়া বা অন্যান্য যেকোনও পেটের রোগে, শরীরের জলের পরিমাণ সঠিক রাখতে ORS-এর গুরুত্ব অপরিসীম ৷ তাই সারা বিশ্বের কাছে এই তরলের জনপ্রিয়তা অনেক ৷ কিন্তু এই বিশেষ তরলের সৃষ্টিকর্তা হয়তো অনেকের কাছেই অপরিচিত ৷ এই বিশেষ মিশ্রণটির সৃষ্টি করেন বিশিষ্ট চিকিৎসক দিলীপ মহলানবিশ ৷ মূলত বার্ধক্য জনিত কারণেই তিনি মারা  গিয়েছেন বলে জানা গিয়েছে ৷ শনিবার রাতেই শেষ নিশ্বাস ত্যাগ করেন এই বিশিষ্ট চিকিৎসক ৷ বিংশ শতাব্দিতে ORS হল একটি অতি গুরুত্বপূর্ণ আবিস্কার ৷ ৭০এর দশকে কলেরার সময় ORS বহু মানুষেরই প্রাণ বাঁচায় ৷ ৭১-এর যুদ্ধের সময় বাংলাদেশে কলেরা থাবা বসিয়েছিল ৷ সেই সময়তেই নুন ও চিনির মিশ্রণ দিয়ে ORS- তৈরি করেন এই বিশিষ্ট ডাক্তার দিলীপ মহলানবিশ ৷ চিনি ও নুন দিয়ে তৈরি করা এই তরল,  করেলা রোগীদের উপর প্রয়োগ করেন তিনি ৷ রোগীদের উপর মহাষৌধের মত কাজ করেছিল এই বিশেষ মিশ্রণ ৷ ১৯৭১ সালে তিনি বনগাঁর বিভিন্ন ল্যাব, ওয়ার্কশপ এবং ফিল্ড ট্রায়ালগুলিতে দিন  কাটাতেন ৷  বিভিন্ন  বিশেষজ্ঞ এবং বিজ্ঞানীদের  ORS এক কার্যকারিতা  সম্পর্কে বোঝতে  বছরের পর বছর অতিবাহীত করতে হয়েছিল তাঁকে ৷ বাংলাদেশের স্বাধীনতা যুদ্ধের সময় হাজার হাজার গৃহহীন মানুষ  ভারতীয় সীমান্তের বিভিন্ন  শরণার্থী শিবিরে স্থানান্তরিত হয়।সেই সময়ে বহু শরনার্থী কলেরায় আক্রান্ত ছিল।  বিশেষ করে  ডায়রিয়া ও কলেরায় একের পর এক শিশুর মৃত্যু হচ্ছিল । এই সমস্ত শরনার্থীকে ORS দেওয়ার পর অবিশ্বাস্য ফল পাওয়া যায় ৷ পরে, বিশ্ব স্বাস্থ্য সংস্থা  ১০৫ টি দেশে প্রকল্পটি গ্রহণ করে এবং বিশ্বব্যাপী ORS-এর ব্যবহারকে স্বীকৃতি দেয়। পরবর্তীতে, এটি জাতিসংঘ দ্বারা শতাধিক শরণার্থী শিবিরে ব্যবহৃত হয়।এই উদ্যোগটি সফলভাবে ডায়রিয়ায় মোট মৃত্যু কমাতে সক্ষম হয়েছিল ৷ শরীর সুস্থ রাখতে বহু মানুষের বাড়িতেই এক প্যাকেট ORS সব সময়তেই মজুত থাকে ৷ এর সৃষ্টি কর্তাকে ডঃ দিলীপ মহালনবীশকে বেশিরভাগ মানুষই ডাক্তারবাবু নামেই জানতেন ৷  বাংলাদেশের ইন্টারন্যাশনাল সেন্টার ফর ডায়রিয়াল ডিজিজ রিসার্চ থেকে অবসর নেওয়ার পর কলকাতার সল্টলেকের একটি ফ্ল্যাটে বসবাস করতেন এই বিশিষ্ট ডাক্তার ৷ শনিবার রাতে বাইপাসের একটি হাসপাতালে শেষ নিশ্বাস ত্যাগ করেন এই বিশিষ্ট চিকিৎসক ৷\n",
+                        "category_id": 182,
+                        "created": "Sun, 16 Oct 2022 12:49:16 GMT",
+                        "draft": false,
+                        "id": 21805,
+                        "last_updated": "Sun, 16 Oct 2022 12:49:16 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1665924553/f779nexziaiwuqtynybm.jpg",
+                                "public_id": "f779nexziaiwuqtynybm.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/f779nexziaiwuqtynybm.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sun, 16 Oct 2022 12:49:16 GMT",
+                        "site_id": 29,
+                        "title": "চলে গেলেন ORS এর জনক দিলীপ মহলানবিশ",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 13
+                    }
+                ],
+                "বিশ্ব": [
+                    {
+                        "alternate_id": 5175,
+                        "body": "\n\nজনতার কলম ওয়েবডেস্ক :- জনসমক্ষে অপমান সহ্য করার চেয়ে আত্মহত্যার পথ বেছে নিলো এক আফঘান নারী। উল্লেখ্য, তালিবানের ভয়ে আত্মহত্যা করলেন ওই নারী। ঘটনার সূত্রে জানাযায় ওই নারী তার পুরুষ বন্ধুর সাথে বাড়ি ছেড়ে পালিয়ে গিয়েছিলেন। তিনি শুনেছিলেন তালিবান পুলিশরা তাকে পাথর ছুরে মারবার প্ল্যান করছিলো। সেই সুযোগ তিনি তাঁদের আর দিলেন না।জনসমক্ষেই অপমান সহ্য করার চেয়ে আত্মহত্যার পথ বেছে নিলেন তিনি। ঘটনাটি ঘটে আফগানিস্তানের ঘর প্রদেশে। ঘর প্রদেশের তালিবান পুলিশ প্রশাসনের মুখপাত্র আব্দুল রহমান জানান, মেয়েদের জন্য জেলের অভাবে বিবাহিত পুরুষবন্ধুর সঙ্গে পলাতক ওই নারীকে পাথর ছুড়ে হত্যার শাস্তির কথাই ঠিক করা ছিল। ওই পুরুষবন্ধুকে হত্যা করা হয়েছে। তাই মেয়েটিও পাথর ছুঁড়ে মারা যাওয়ার ভয়ে গলায় স্কার্ফ জড়িয়ে আত্মহত্যা করেছেন বলে জানিয়েছেন তালিবান সূত্র",
+                        "category_id": 183,
+                        "created": "Tue, 18 Oct 2022 10:23:41 GMT",
+                        "draft": false,
+                        "id": 21742,
+                        "last_updated": "Tue, 18 Oct 2022 10:23:41 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1666088613/fds8ztaxrgassekwhqav.jpg",
+                                "public_id": "fds8ztaxrgassekwhqav.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/fds8ztaxrgassekwhqav.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Tue, 18 Oct 2022 10:23:41 GMT",
+                        "site_id": 29,
+                        "title": "পাথর ছুড়ে হত্যার শাস্তি এড়াতে আত্মহত্যার পথ বেছে নিলেন আফগান নারী ",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 15
+                    },
+                    {
+                        "alternate_id": 5166,
+                        "body": "\n\nজনতার কলম ওয়েবডেস্ক :- ছন্দে ফিরছে ইমরান খান। উপনির্বাচনে শাসক দলকে হারিয়ে ১০টি আসনের মধ্যে ৮টি আসনেই জয় লাভ করলো ইমরান খানের দল। যার মধ্যে ন্যাশনাল অ্যাসেম্বলি ৬টি ও পাঞ্জাব অ্যাসেম্বলি ২টি মোট ৮টি আসনে জয়ী হয়েছেন ইমরান খানের দল। গতকাল অর্থাৎ রবিবার সকাল ৮টা থেকে ভোট গ্রহণ পর্ব শুরু হয়,শেষ হয় বিকেল ৫টা।তারপর শুরু হয় ভোট গণনা।আপাতভাবে শান্তিপূর্ণভাবেই ভোটগ্রহণ প্রক্রিয়া চললেও, খাইবার পাখতুনখাওয়ায় পিটিআই ও আওয়ামি ন্যাশনাল পার্টির সদস্যদের মধ্যে সংঘর্ষ হয়। অন্যদিকে, পিটিআই কর্মীরা অভিযোগ করেছেন, করাচীতে তাদের উপরে হামলা করা হয়েছে। ভোট রিগিংয়েরও অভিযোগ করা হয়েছে। পাকিস্তান নির্বাচন কমিশনের তরফে জানানো হয়েছে, নির্বাচন বিধিভঙ্গের মোট ১৫টি অভিযোগ জমা পড়েছে।এদিকে, নির্বাচনের ফল প্রকাশ হতেই উচ্ছাস প্রকাশ করেছেন প্রাক্তন প্রধানমন্ত্রী ইমরান খান। একইসঙ্গে নির্বাচন এগিয়ে আনার দাবিতেও ফের একবার সরব হয়েছেন তিনি।",
+                        "category_id": 183,
+                        "created": "Mon, 17 Oct 2022 09:05:01 GMT",
+                        "draft": false,
+                        "id": 21786,
+                        "last_updated": "Mon, 17 Oct 2022 09:05:01 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1665997498/tuenionemv6652dmtbal.jpg",
+                                "public_id": "tuenionemv6652dmtbal.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/tuenionemv6652dmtbal.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Mon, 17 Oct 2022 09:05:01 GMT",
+                        "site_id": 29,
+                        "title": "উপনির্বাচনে শাসক দলকে হারিয়ে জয় লাভ করলো ইমরান খানের দল ",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 14
+                    },
+                    {
+                        "alternate_id": 5159,
+                        "body": "জনতার কলম ওয়েবডেস্ক :- রাশিয়ার প্রতিরক্ষা মন্ত্রণালয়ের বিবৃতিতে জানানো হয়েছে। ইউক্রেন সীমান্তবর্তী বেলগোরোদ অঞ্চলে রাশিয়ার একটি সামরিক প্রশিক্ষন কেন্দ্রে সন্ত্রাসী হামলায় কমপক্ষে ১১জন নিহত ও ১৫জন আহত হয়েছেন। দুজনেই পাল্টা গুলিতে নিহত ও আহত হয়েছেন।রাশিয়ার প্রতিরক্ষা মন্ত্রণালয় আরো জানান ইউক্রেন বিশেষ সেনা অভিযানে অংশ নিতে স্বেচ্ছাসেবীদের প্রশিক্ষণ চলাকালে এই হামলা সংঘটিত হয়।",
+                        "category_id": 183,
+                        "created": "Sun, 16 Oct 2022 11:26:13 GMT",
+                        "draft": false,
+                        "id": 21811,
+                        "last_updated": "Sun, 16 Oct 2022 11:26:13 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1665919560/dlmq9df4pkuwppkrzpcf.jpg",
+                                "public_id": "dlmq9df4pkuwppkrzpcf.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/dlmq9df4pkuwppkrzpcf.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sun, 16 Oct 2022 11:26:13 GMT",
+                        "site_id": 29,
+                        "title": "রুশ সামরিক প্রশিক্ষণকেন্দ্রে সন্ত্রাসী হামলায় মৃত ১১",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 15
+                    },
+                    {
+                        "alternate_id": 5157,
+                        "body": "\n\nজনতার কলম ওয়েবডেস্ক :- এইবার বিরোধীদের বিরুদ্ধে মুখ খুললেন দেশের অর্থমন্ত্রী নির্মলা সীতারামন। শনিবার ওয়াশিংটনের একটি অনুষ্ঠানে সাংবাদিক সম্মেলনের মাধ্যমে জানান কেন্দ্রীয় তদন্তকারী সংস্থা ED যতই গভীরে নামছে তাঁদেরকাজের নিরপেক্ষতা নিয়ে প্রশ্ন তুলছেন বিরোধীরা। ভারতের বিভিন্ন রাজ্যের দুর্নীতি নিয়ে তারা তদন্তে নেমেছে এরই মধ্যে তাঁদের কাজের নিরপেক্ষতা নিয়ে প্রশ্ন তুলতে শুরু করেছে বিরোধীরা যদিও তারা যথাপযুক্ত প্রমান নিয়ে ওই মাঠে নেমে থাকেন। তিনি আরো বলেন ED হলো এমন একটি তদন্তকারী সংস্থা অপরাধের ভিত্তিতেই তদন্ত করে তারা। ED যে কাজ করে তা সম্পূর্ণ স্বতন্ত্র।",
+                        "category_id": 183,
+                        "created": "Sun, 16 Oct 2022 10:35:46 GMT",
+                        "draft": false,
+                        "id": 21748,
+                        "last_updated": "Sun, 16 Oct 2022 10:35:46 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1665916534/ee2inrphtnipaluhkki0.jpg",
+                                "public_id": "ee2inrphtnipaluhkki0.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/ee2inrphtnipaluhkki0.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sun, 16 Oct 2022 10:35:46 GMT",
+                        "site_id": 29,
+                        "title": "প্রমান নিয়ে মাঠে নেমে থাকেন ED, বিরোধীদের করা বার্তা অর্থমন্ত্রীর ",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 15
+                    },
+                    {
+                        "alternate_id": 5145,
+                        "body": "\n\nজনতার কলম ওয়েবডেস্ক :- শুক্রবার মধ্যরাতে কয়লাখনিতে ভয়াবহ বিস্ফোরণ। ঘটনা তুরস্কের উত্তরে অবস্থিত বার্টিন প্রদেশে। জানা যায় খনির ভিতরে প্রায় ১১০জন কাজ করছিলো।  তাঁদের মধ্যে অর্ধেক সংখ্যা কর্মী খনির ৩০০মিটার গভীরে ছিল। তখনই হটাৎ বিস্ফোরণ হয়, কমপক্ষে ২৮জনের মৃত্যু হয় বলে জানা যায় আর ১১জনকে উদ্ধার করা সম্ভব হয়। খনির ভিতরে আরো ১২জন বা তার বেশি সংখ্যক কর্মী আটকে রয়েছেন বলে মনে করা হচ্ছে। ইতিমধ্যেই বিশফোড়নের কারণ খতিয়ে দেখার নির্দেশ দিলেন দেশের শক্তি মন্ত্রী ফাতিহ ডনমেজ।",
+                        "category_id": 183,
+                        "created": "Sat, 15 Oct 2022 09:20:44 GMT",
+                        "draft": false,
+                        "id": 21772,
+                        "last_updated": "Sat, 15 Oct 2022 09:20:44 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1665825641/br6onrbet8ndi8gcieiq.jpg",
+                                "public_id": "br6onrbet8ndi8gcieiq.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/br6onrbet8ndi8gcieiq.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sat, 15 Oct 2022 09:20:44 GMT",
+                        "site_id": 29,
+                        "title": "তুরুস্কে ভয়াবহ বিস্ফোরণ কয়লাখনিতে ",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 15
+                    },
+                    {
+                        "alternate_id": 5142,
+                        "body": "\nজনতার কলম ওয়েডেস্ক :- এবার শুধু ইউক্রেন নয়, বিশ্বব্যাপী বিপর্যয়ের হুশিয়ারী দিলেন ভ্লাদিমির পুতিন। তিনি বলেন যদি রাশিয়ার সেনা ন্যাটোর মুখোমুখি আসে বা তাঁদের সঙ্গে সংঘর্ষ হয়, তবে এর পরিণতি ভয়ঙ্কর হবে। বিশ্বব্যাপী বিপর্যয় নেমে আসবে।তিনি আরো বলেন আশা করি যারা এই কথা ইউক্রেনকে ন্যাটোর সহায়তা বলছেন, তারা এতটা বুদ্ধিমান যে এই পদক্ষেপ করবেন না।এইদিকে মার্কিন প্রেসিডেন্ট জো বাইডেনও পরমাণু হামলার হুঁশিয়ারি নিয়ে কথা বলেন। তিনি বলেন,পুতিন যখন পরমাণু অস্ত্র বা বায়োলজিক্যাল বা রাসায়নিক অস্ত্র ব্যবহারের কথা বলেন, তখন সেখানে মজা হিসাবে গণ্য করা উচিত নয়। কারণ পুতিনের সেনা বর্তমানে সেভাবে কিছুই করতে পারছে না।",
+                        "category_id": 183,
+                        "created": "Sat, 15 Oct 2022 08:23:55 GMT",
+                        "draft": false,
+                        "id": 21770,
+                        "last_updated": "Sat, 15 Oct 2022 08:23:55 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1665822226/qwjwnq6rce8opyef7xyn.jpg",
+                                "public_id": "qwjwnq6rce8opyef7xyn.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/qwjwnq6rce8opyef7xyn.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sat, 15 Oct 2022 08:23:55 GMT",
+                        "site_id": 29,
+                        "title": "বিশ্বব্যাপী বিপর্যয়ের হুশিয়ারী দিলেন ভ্লাদিমির পুতিন",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 13
+                    },
+                    {
+                        "alternate_id": 5011,
+                        "body": "জনতার কলম ওয়েবডেস্ক :- তাইওয়ানে বিরাট ভূমিকম্প , ঘর ছাড়া প্রায় ২০ লক্ষ পরিবার, জারি করা হয়েছে সুনামি সর্তকতা , দেশজুড়ে আতঙ্ক | ঘণ্টায় তিন বার ভূমিকম্পে কেঁপে উঠেছে তাইওয়ান ৷ ভয়াবহ ভূমিকম্পে ভেঙে পড়েছে বহু বহুতল এবং বাড়ি ৷ এর জেরে সুনামির সতর্কতাও জারি করা হয়েছে ৷ তাইওয়ানে প্রকৃতির ধ্বংসলীলার রূপ দেখে প্রত্যেকেই চমকে উঠেছেন ৷ এরই মধ্যে ভাইরাল হয়েছে একটি ভিডিও ৷ যেখানে জিমের ছাদের প্রায় গোটা অংশটাই ভেঙে পড়ার ভয়াবহ ফুটেজ দেখা গিয়েছে ৷ ভিডিওটিতে দেখা যায় ঘটনার সময়ে জিমে বেশ কয়েকজন ছিলেন ৷ কিন্তু ছাদের অংশ ভেঙে পড়তেই এদিকে ওদিকে দৌড়তে থাকেন তারা ৷ অল্পের জন্য প্রাণে রক্ষা পান অনেকেই। তাইওয়ানের আবহাওয়া দফতর থেকে জানানো হয়েছে, দক্ষিণ-পূর্বের তাইতুং কাউন্টি ভূমিকম্পের উৎসস্থল। সেখানেই ক্ষয়ক্ষতির পরিমাণ সর্বাধিক। তবে কারও মৃত্যু হয়েছে কি না তা এখনও স্পষ্ট নয়।\n\n\n",
+                        "category_id": 183,
+                        "created": "Mon, 19 Sep 2022 10:30:07 GMT",
+                        "draft": false,
+                        "id": 15097,
+                        "last_updated": "Mon, 19 Sep 2022 10:30:07 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1663583404/tv8qkyitetg0ftbiqdtj.jpg",
+                                "public_id": "tv8qkyitetg0ftbiqdtj.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/tv8qkyitetg0ftbiqdtj.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Mon, 19 Sep 2022 10:30:07 GMT",
+                        "site_id": 29,
+                        "title": "ঘর ছাড়া প্রায় ২০ লক্ষ পরিবার জারি করা হয়েছে সুনামি সর্তকতা",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 196
+                    },
+                    {
+                        "alternate_id": 4918,
+                        "body": "জনতার কলম ওয়েবডেস্ক :- ভোটে হেরে হোয়াইট হাউস থেকে বিদায় নেওয়ার পরেও মোদীর প্রশংসায় পঞ্চমুখ ছিলেন ডোনাল্ড ট্রাম্প। সম্প্রতি একটি সংবাদমাধ্যমকে দেওয়া সাক্ষাৎকারে আমেরিকার প্রাক্তন প্রেসিডেন্টের মন্তব্য, ''মোদী এক জন অসাধারণ মানুষ। তিনি দারুণ কাজও করছেন। আমার মনে হয়, ২০২৪ সালেও উনিই ফের  প্রধানমন্ত্রীর দায়িত্ব পাবেন।''আমেরিকার প্রেসিডেন্ট পদে পূর্বসূরি বারাক ওবামা কিংবা উত্তরসূরি জো বাইডেনের তুলনায় তাঁর জমানায় নয়াদিল্লি-ওয়াশিংটন সম্পর্ক উষ্ণতর ছিল কি না জানতে চাওয়া হলে ট্রাম্প বলেন, ''এ প্রশ্ন মোদীকে করা যেতে পারে। তবে আমার মনে হয় না, আমার সময়ের চেয়ে ভাল মৈত্রীর সম্পর্ক ভারত আর পাবে।'' মোদীর সঙ্গে তাঁর ব্যক্তিগত সম্পর্কের রসায়নও অত্যন্ত ভাল ছিল বলে দাবি করেন ট্রাম্প। সেই সঙ্গে বলেন, ''আমার বন্ধু মোদী ভারতবাসীর কল্যাণে কাজ নিরলস ভাবে করে চলেছেন।''প্রসঙ্গত, মোদী-ট্রাম্পের ব্যক্তিগত সম্পর্কের রসায়ন অতীতে একাধিক বার দেখা গিয়েছে। ২০১৯-এর সেপ্টেম্বরে টেক্সাসের হিউস্টনে 'হাউডি মোদী' সভায় প্রায় ৫০ হাজার ভারতীয় বংশোদ্ভূত ও প্রবাসী ভারতীয়ের সামনে কূটনীতির বেড়া টপকে 'অব কি বার ট্রাম্প সরকার' স্লোগান দিয়েছিলেন প্রধানমন্ত্রী। বলেছিলেন, ''ট্রাম্পের নেতৃত্বগুণ, আমেরিকাকে নিয়ে ওঁর আবেগ, দেশের নাগরিকদের জন্য ওঁর উদ্বেগ এবং আমেরিকাকে ফের মহান করে তোলার জন্য ওঁর মনের তাগিদ আমাকে অনুপ্রাণিত করে।''এর পর ২০২০-র গত ফেব্রুয়ারি মাসে ভারত সফরে এসে গুজরাতের আমদাবাদে পুনর্নির্মিত মোতেরা ক্রিকেট স্টেডিয়াম উদ্বোধনে গিয়েছিলেন ট্রাম্প এবং ফার্স্ট লেডি মেলানিয়া। সেখানে লক্ষাধিক মানুষের জমায়েতে মোদী দাবি করেছিলেন, তিনি এবং ট্রাম্প মিলে নয়াদিল্লি-ওয়াশিংটন সম্পর্ককে নতুন উচ্চতায় পৌঁছে দেবেন। সেখানে শোনা গিয়েছিল 'নমস্তে ট্রাম্প' স্লোগানও। \n\n",
+                        "category_id": 183,
+                        "created": "Thu, 08 Sep 2022 12:36:32 GMT",
+                        "draft": false,
+                        "id": 17988,
+                        "last_updated": "Thu, 08 Sep 2022 12:36:32 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1662640589/nie2yzaxrwxac4mgrwfc.jpg",
+                                "public_id": "nie2yzaxrwxac4mgrwfc.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/nie2yzaxrwxac4mgrwfc.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Thu, 08 Sep 2022 12:36:32 GMT",
+                        "site_id": 29,
+                        "title": "২০২৪ সালে ফের ভারতের প্রধানমন্ত্রী  নরেন্দ্র মোদি !  দাবি আমেরিকার প্রাক্তন রাষ্ট্রপতি ডোনাল্ড ট্রাম্পের",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 65
+                    },
+                    {
+                        "alternate_id": 4725,
+                        "body": "জনতার কলম ওয়েবডেস্ক :- শ্রীলংকা কে সামুদ্রিক নজরদারিতে সাহায্য করতে বিমান দেওয়ায় ভারতের প্রতি কৃতজ্ঞ প্রকাশ শ্রীলংকার প্রেসিডেন্ট বিক্রমশিঙ্ঘের। শ্রীলঙ্কার বিশেষ ১৫জন পাইলট এই বিমান চালাতে পারবেন। তাঁদের দীর্ঘ ৪মাস ধরে ভারতে প্রশিক্ষন চলছে। এই বিমান দেওয়ার ঠিক একদিন পর ভারতের উদ্বেগ বাড়িয়ে শ্রীলংকার হাম্বানটোটা বন্দরে অত্যাধুনিক প্রযুক্তির ক্ষেপনাস্র ও স্যাটেলাইট বহনকারী চিনা জাহাজ লক্ষ্য করা যায়। তবে শনিবার ১৬ অগাস্ট থেকে ২২অগাস্ট পর্যন্ত বন্দর ব্যবহারে অনুমতি দিয়েছে শ্রীলঙ্কা। অন্যদিকে অন্যদিকে এই জাহাজের মাধ্যমে প্রযুক্তিকে হাতিয়ার করে ভারতের গোপন তথ্য বের করার চেষ্টা করতে পারে চিন,আশঙ্কা নয়া দিল্লির।",
+                        "category_id": 183,
+                        "created": "Tue, 16 Aug 2022 06:41:24 GMT",
+                        "draft": false,
+                        "id": 17889,
+                        "last_updated": "Tue, 16 Aug 2022 06:41:24 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1660632080/zl0ybrfnxz7jocjxddfo.jpg",
+                                "public_id": "zl0ybrfnxz7jocjxddfo.jpg",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/zl0ybrfnxz7jocjxddfo.jpg"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Tue, 16 Aug 2022 06:41:24 GMT",
+                        "site_id": 29,
+                        "title": "ভারতের প্রতি কৃতজ্ঞ প্রকাশ শ্রীলংকার তবে আশঙ্কা বাড়ালো চিন ",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 47
+                    },
+                    {
+                        "alternate_id": 4241,
+                        "body": "\n\nজনতার কলম ওয়েবডেস্ক: ইউক্রেন যুদ্ধের ব্যাপারে এল এক আশ্চর্য মন্তব্য।রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিন নারী হলে ইউক্রেন আক্রমণ করতেন না বলে মন্তব্য করলেন বরিস জনসন।ক সাক্ষাৎকারে এ কথা বলেন ব্রিটিশ প্রধানমন্ত্রী। ওই সাক্ষাৎকারে লিঙ্গসাম্য ও শিক্ষার গুরুত্ব সম্পর্কে নানা কথা বলেন বরিস। তিনি বলেন পুতিন যদি নারী হতেন, তাহলে এভাবে উন্মত্ত-পৌরুষপূর্ণ একটি যুদ্ধ ও হিংস্রতা তিনি কোনও ভাবেই শুরু করতেন না। আসলে বরিস বলেন, আপনি যদি বিষাক্ত পৌরুষের এক উৎকৃষ্ট উদাহরণ চান, তবে পুতিন ইউক্রেনে যা করছেন, সেটিই হতে পারে সেই উদাহরণ।এ প্রসঙ্গে আরও কথা বলতে গিয়ে বরিস জানান, ইউক্রেন যুদ্ধ শিগগির শেষ হওয়ার বিষয়ে তিনি কোনো আশার আলো দেখছেন না। যুদ্ধ অবসানে মস্কো ও কিয়েভের মধ্যে সম্ভাব্য কোনো চুক্তির দেখাও এখন পর্যন্ত মেলেনি।",
+                        "category_id": 183,
+                        "created": "Wed, 29 Jun 2022 12:46:44 GMT",
+                        "draft": false,
+                        "id": 14704,
+                        "last_updated": "Wed, 29 Jun 2022 12:46:44 GMT",
+                        "photos": [
+                            {
+                                "previous_reference": "https://res.cloudinary.com/janatarkalambackup/image/upload/v1656506800/xt4toga1cvt2ckaettgz.webp",
+                                "public_id": "xt4toga1cvt2ckaettgz.webp",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/xt4toga1cvt2ckaettgz.webp"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Wed, 29 Jun 2022 12:46:44 GMT",
+                        "site_id": 29,
+                        "title": " ইউক্রেন যুদ্ধের ব্যাপারে এল এক আশ্চর্য মন্তব্য",
+                        "user_id": null,
+                        "videos": [],
+                        "views": 90
+                    }
+                ],
+                "রাজ্য ": [
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- জনসেবা, সুশৃংখলতা , কর্তব্য পরায়নতা এবং সুশাসনের জন্য নয়াদিল্লিতে আয়োজিত সরদার বল্লভ ভাই প্যাটেল এর জন্মদিনে একতা দিবসে আয়োজিত প্যারেড শোতে রাষ্ট্রপতি পদকে ভূষিত করা হয়েছে। নয়াদিল্লিতে আয়োজিত অনুষ্ঠানে পুলিশ সুপারেনটেনডেন্ট সমুদ্র দেববর্মার হাতে পদক তুলে দিয়েছেন। রাজ্যের আইন শৃঙ্খলা বজায় রাখার জন্য সর্বশ্রেষ্ঠ সম্মানে ভূষিত করা হয়েছে ত্রিপুরা পুলিশকে।\n\n",
+                        "category_id": 181,
+                        "created": "Mon, 31 Oct 2022 15:29:24 GMT",
+                        "draft": false,
+                        "id": 22346,
+                        "last_updated": "Mon, 31 Oct 2022 15:29:24 GMT",
+                        "photos": [
+                            {
+                                "public_id": "62b6385a-77b2-47cd-b527-4abcf46d29d6",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/62b6385a-77b2-47cd-b527-4abcf46d29d6"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Mon, 31 Oct 2022 15:29:24 GMT",
+                        "site_id": 29,
+                        "title": "রাষ্ট্রপতি পদকে ভূষিত ত্রিপুরা পুলিশ",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 26
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- প্রয়াত প্রধানমন্ত্রী ইন্দিরা গান্ধীর মৃত্যু দিবস পালনের অনুষ্ঠানে দুর্বৃত্তদের হামলা। বহু স্থানে ভাঙচুর, মারধর প্রতিবাদে রাস্তা অবরোধের কংগ্রেস। ইন্দিরা গান্ধীর প্রয়ান দিবসের বিকেলে রাজধানীর ইন্দ্রনগর কালী বাড়ির সামনে কংগ্রেস পার্টি অফিস সহ জিবি হাসপাতালের গেটের সামনে কংগ্রেস কর্মীদের উপর আক্রমণ করেছে দুর্বৃত্তরা। কংগ্রেস দলের অভিযোগ বিজেপি বাইক বাহিনীর দুষ্কৃতিকারীরা এ আক্রমণ করেছে। আক্রমণের হাত থেকে রক্ষা পায়নি মহিলারা। মহিলাদের উপর আক্রমণের পাশাপাশি বিশ্রী ভাষায় গালিগালাজ করেছে বলে অভিযোগ।প্রতিবাদে রাস্তা অবরোধ এ বসেছেন স্থানীয় মানুষ। এ নিয়ে উত্তপ্ত ইন্দ্রনগর এলাকার। তাদের দাবি যতক্ষণ না পর্যন্ত দোষীদের চিহ্নিত করে গ্রেফতার করা হয় ততক্ষণ পর্যন্ত চলবে রাস্তা অবরোধ। ঘটনার প্রতিক্রিয়া ব্যক্ত করতে গিয়ে কংগ্রেস নেতা আশিস সাহা বলেন গোটা রাজ্যে আজকের দিনে কংগ্রেস কর্মী সমর্থকদের উপর হামলা করেছে দুর্বৃত্তরা। উদয়পুর থেকে আগরতলা বিভিন্ন স্থান থেকে খবর আসছে আক্রমণের। এ ধরনের ঘটনার ধিক্কার জানাচ্ছে কংগ্রেস। 20 23 বিধানসভা নির্বাচন যতই ঘনিয়ে আসছে ততোই ক্ষিপ্ত হয়ে উঠছে রাজনৈতিক দলগুলি। একদিকে ক্ষমতায় আসার চেষ্টা অন্যদিকে ক্ষমতা ধরে রাখার মরিয়া প্রয়াস। দুইয়ের যাঁতাকলে পড়ে না বিশ্বাস হচ্ছে সাধারণ মানুষের। প্রশাসনের ভূমিকা নিয়ে প্রশ্ন তুলছে বুদ্ধিজীবী অংশের মানুষরারা।\n\n",
+                        "category_id": 181,
+                        "created": "Mon, 31 Oct 2022 15:27:38 GMT",
+                        "draft": false,
+                        "id": 22345,
+                        "last_updated": "Mon, 31 Oct 2022 15:27:38 GMT",
+                        "photos": [
+                            {
+                                "public_id": "a8491aeb-1238-413d-aa90-b2a92a5dcb55",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/a8491aeb-1238-413d-aa90-b2a92a5dcb55"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Mon, 31 Oct 2022 15:27:38 GMT",
+                        "site_id": 29,
+                        "title": "কংগ্রেসিদের উপর দূর্বৃত্তের হামলা প্রতিবাদে রাস্তা অবরোধ",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 1
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- লৌহমানব সরদার বল্লভ ভাই প্যাটেলের জন্মদিন রাষ্ট্রীয় একতা দিবস উপলক্ষে সোমবার রান ফর ইউনিটি' সারাদেশের সঙ্গে যথাযথ গুরুত্বের সঙ্গে পালন করা হয়। রাজ্যের যুব কল্যাণ ও ক্রীড়া দপ্তরের আয়োজনে আগরতলা আস্তাবল ময়দান থেকে এই দৌড় শুরু হয়। এই ফলকে আয়োজিত অনুষ্ঠানে উপস্থিত ছিলেন মুখ্যমন্ত্রী ড : মানিক সাহা , শিক্ষামন্ত্রী রতন লাল নাথ যুব কল্যাণ ও ক্রীড়া দপ্তরের মন্ত্রী সুশান্ত চৌধুরী সহ অন্যান্য মন্ত্রী বিধায়কগণ। এছাড়াও এই রান ফর ইউনিটিতে অংশগ্রহণ করে বিভিন্ন স্কুলের ছাত্রছাত্রীরা।\nরাষ্ট্রীয় একতা দিবসে রান ফর ইউনিটি।",
+                        "category_id": 181,
+                        "created": "Mon, 31 Oct 2022 12:26:42 GMT",
+                        "draft": false,
+                        "id": 22333,
+                        "last_updated": "Mon, 31 Oct 2022 12:26:42 GMT",
+                        "photos": [
+                            {
+                                "public_id": "27142c62-ac72-4c21-8942-cff3de197ced",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/27142c62-ac72-4c21-8942-cff3de197ced"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Mon, 31 Oct 2022 12:26:42 GMT",
+                        "site_id": 29,
+                        "title": "রাষ্ট্রীয় একতা দিবসে আগরতলায় রান ফর ইউনিটি",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 22
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "Janatar kalam agartala report :- \nThe Central Bureau of Communication, (Erstwhile Directorate of Field Publicity) Field Office Agartala, Ministry of Information & Broadcasting, Government of India, organized Mini Integrated Communication and Outreach Program. One Day Exhibition on Azadi Ka Amrit Mahotsav and 8 Years of Seva, Sushasan & Garib Kalyan on 31st Oct. 2022 at Community Hall, Mohanpur, Jirania Block, West Tripura.\nShri Ranga Swamy Pusuloor, I.B.E.S. Director (E), Doordarshan, Agartala graced the function as the Chief Guest, Guest of Honour- Shri Manik Majumdar, Principal, Amtali Higher Secondary School, Dukli Block, West Tripura. Other dignitaries- Shri Tapan Kumar Das, Journalist, Tripura Times.\nSeminars, group discussion, exhibition, cultural program, Quiz competition, etc, were organized based on the theme- Azadi Ka Amrit Mahotsav and 8 Years of Seva, Sushasan & Garib Kalyan. M/S Sanghati Sanskritic Sangstha, Khayerpur, Agartala, West Tripura participated in the program. Shri HK Chang, In-charge of Central Bureau of Communication, Field Office Agartala led the audiences and explain them in detail during the exhibition program. Prizes were awarded to all the competition Winners. An approximate of 350 Audiences participated in the Exhibition Program.\n\n",
+                        "category_id": 181,
+                        "created": "Mon, 31 Oct 2022 12:23:02 GMT",
+                        "draft": false,
+                        "id": 22331,
+                        "last_updated": "Mon, 31 Oct 2022 12:23:02 GMT",
+                        "photos": [
+                            {
+                                "public_id": "79f601da-0998-4f0f-a784-2c8f6b537c7c",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/79f601da-0998-4f0f-a784-2c8f6b537c7c"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Mon, 31 Oct 2022 12:23:02 GMT",
+                        "site_id": 29,
+                        "title": "Azadi Ka Amrit Mahotsav and 8 Years of Seva, Sushasan & Garib kalyan exhibition program",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 6
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- প্রয়াত প্রাক্তন প্রধানমন্ত্রী ইন্দিরা গান্ধীর প্রয়াণ দিবসকে কেন্দ্র করে প্রদেশ কংগ্রেসের রাজ্যব্যাপী কর্মসূচি। বিভিন্ন স্থানে করা হয়েছে সভা। প্রয়াত প্রধানমন্ত্রী ইন্দিরা গান্ধীর প্রয়াণ দিবসকে কেন্দ্র করে সোমবার একপ্রকার শক্তির মহড়া দিল বিশালগড়ের কংগ্রেস কর্মীরা।এদিন সকালে প্রদেশ কংগ্রেস কমিটির সদস্য জয়দেব রায় বর্মণের নেতৃত্বে একদল কংগ্রেস কর্মী বাইক রেলি করে বিশালগড় মধ্যেবাজারস্থিত প্রয়াত ইন্দিরা গান্ধীর প্রতিকৃতিতে মাল্যদান করে।বাইক রেলিটি বিশালগড়ের বিভিন্ন পথ পরিক্রমা করে সোজা চলে যায় ঘনিয়ামাড়া বাজারে।সেখানে জাতীয় পতাকা এবং দলীয় পতাকা উত্তোলন শেষে পথ সভায় মিলিত হন।সংবাদ মাধ্যমের মুখোমুখি হয়ে কংগ্রেস নেতা জয়দেব রায় বর্মন বলেন গত সাড়ে চার বছর ধরে বিশালগড়ের পরিস্হিতি খুব একটা ভালো ছিল না,যার ফলে মাঝখানে কয়েক বছর এই অনুষ্ঠান বন্ধ ছিল।সাংবাদিকদের এক প্রশ্নের উত্তরে জয়দেব বর্মণ বলেন কংগ্রেস দলে নেতা নেত্রীর কোনো ব্যাপার নেই,বিশালগড়ের সাধারন কর্মী সমর্থকরাই দলের উৎস এবং শক্তি। অন্যদিকে প্রয়াত প্রধানমন্ত্রী ইন্দিরা গান্ধীর প্রয়াণ দিবস উপলক্ষে বিশালগড় ব্লক কংগ্রেসের পক্ষ থেকেও প্রদেশ কংগ্রেস কমিটির আরও এক সদস্য বিশালগড়ের স্থানীয় নেতা জয়দুল হোসেনের নেতৃত্বে আরও একটি বাইক রেলি বের করা হয়।রেলিটি মধ্যবাজারে ইন্দিরা গান্ধীর প্রতিকৃতিতে মাল্যদান করে বিশালগড় এর বিভিন্ন পথ পরিক্রমা করে দুর্গানগর বাজারে পৌঁছায়।সেখানে থাকা বহু বছর পুরোনো কংগ্রেসের একটি দলীয় অফিস জঞ্জালমুক্ত করে ব্যাবহারের উপযুক্ত করে তুলে।সাংবাদিকদের মুখোমুখি হয়ে কংগ্রেস নেতা জয়দুল হোসেন জানান প্রয়াত ইন্দিরা গান্ধীর আদর্শকে পুঁজি করেই আগামীদিনে ২০২৩ বিধানসভা নির্বাচনে বিজেপিকে ক্ষমতাচ্যুত করে রাজ্যে জাতীয় কংগ্রেস দল সরকার প্রতিষ্ঠা করবে। কিন্তু এদিন উভয় কর্মসূচিকে কেন্দ্র করে বিশালগড়ের শুভ বুদ্ধি সম্পন্ন মহলের একটা অংশ বিষয়টিকে ভালোভাবে দেখলেও অপর একটি অংশ বিষয়টিকে গোষ্ঠী কুন্দলের বহিঃপ্রকাশ বলে আখ্যা দিয়েছে।এই বিষয়ে কংগ্রেস নেতা জয়দুল হোসেনকে জিজ্ঞাসা করা হলে তিনি বিষয়টির ব্যাখ্যা দিতে গিয়ে বলেন নভেম্বর মাসেই খুব সম্ভবত আগামী বিধানসভা নির্বাচনে কংগ্রেস প্রার্থী ঘোষণা করতে চলেছে।কংগ্রেস প্রার্থী তালিকা ঘোষণা হয়ে গেলে এই বিষয়গুলিরও সমাধান হয়ে যাবে।তবে যে যাই বলুক না কেন সোমবার ইন্দিরা গান্ধীর মৃত্যুবার্ষিকীকে কেন্দ্র করে বিশালগড়ের কংগ্রেস কর্মীরা যে কর্মসূচি গুলি হাতে নিয়েছে তাতে বিশালগড়বাসীকে আগামী বিধানসভা নির্বাচনে শাসকদলকে যে বড়সড় চ্যালেঞ্জ দিতে সক্ষম তা জানান দিতে অনেকটাই সফল হয়েছে বলা চলে।\n\n\n",
+                        "category_id": 181,
+                        "created": "Mon, 31 Oct 2022 12:20:36 GMT",
+                        "draft": false,
+                        "id": 22330,
+                        "last_updated": "Mon, 31 Oct 2022 12:20:36 GMT",
+                        "photos": [
+                            {
+                                "public_id": "e09e72dd-1e0b-4623-88d1-0a102bbfbae1",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/e09e72dd-1e0b-4623-88d1-0a102bbfbae1"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Mon, 31 Oct 2022 12:20:36 GMT",
+                        "site_id": 29,
+                        "title": "বিশালগড়ে শক্তির মহড়া দিল কংগ্রেস গোষ্ঠী কোন্দল প্রকাশ্যে",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 2
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "\n\n\nJanatar kalam web report :- The Central Bureau of Communication, Field Office Agartala carried out Pre-publicity program by pasting posters and miking on 30-Oct-2022.\n\nShri Ranga Swami Pusuloor, Director (E), Doordarshan, Agartala will inaugurate the Photo Exhibition on 31-Oct-2022, at Community Hall, Amtali Higher Secondary School, Dukli block, West Tripura.\n\nField Publicity Officer i.c. Field Office Agartala.\nMinistry of Information & Broadcasting,\nGovernment of India.",
+                        "category_id": 181,
+                        "created": "Sun, 30 Oct 2022 18:26:13 GMT",
+                        "draft": false,
+                        "id": 22313,
+                        "last_updated": "Sun, 30 Oct 2022 18:26:13 GMT",
+                        "photos": [
+                            {
+                                "public_id": "2b27acc5-3706-45ac-9947-0d2f72cea61b",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/2b27acc5-3706-45ac-9947-0d2f72cea61b"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sun, 30 Oct 2022 18:26:13 GMT",
+                        "site_id": 29,
+                        "title": "Photo Exhibition on Azadi Ka Amrit Mahotsav and 8 years Seva, Sushasan & Garib Kalyan.",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 7
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- ছট পূজা উপলক্ষে আগরতলার ক্যাপিটাল কমপ্লেক্স এলাকার রানীর পুকুরে একত্রিত হয়েছিলেন  মহিলারা। জলে নেমে সূর্য দেবতার উদ্দেশ্যে আরতির পাশাপাশি পুন্যস্নানও করেন তারা। বিহার, ঝাড়খন্ড ,উত্তরপ্রদেশ সহ সমগ্র উত্তর ভারত ও নেপালে এই পূজার প্রচলন রয়েছে। মূলত আগরতলায় বসবাসকারী সে সমস্ত রাজ্যের মানুষেরাই পারিবারিক  সুখ সমবৃদ্ধির আশায় এই পূজা করে থাকেন।  ৩৬ ঘন্টা যাবৎ উপবাসের পর মহিলারা পুণ্যস্নান ও আরতিতে অংশ নেন। \n\n",
+                        "category_id": 181,
+                        "created": "Sun, 30 Oct 2022 14:58:28 GMT",
+                        "draft": false,
+                        "id": 22295,
+                        "last_updated": "Sun, 30 Oct 2022 14:58:28 GMT",
+                        "photos": [
+                            {
+                                "public_id": "8cdc6dfa-c678-4a8b-b7aa-1343fcb3fadd",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/8cdc6dfa-c678-4a8b-b7aa-1343fcb3fadd"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sun, 30 Oct 2022 14:58:28 GMT",
+                        "site_id": 29,
+                        "title": "রাজধানীতে সংঘটিত হলো ছট পূজার পুণ্যস্নান",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 4
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- খাস কল্যাণপুরে দীর্ঘদিন পর উড়ল লাল পতাকা।দীর্ঘ সাড়ে চার বছর পর ঘুরে দাঁড়ানোর চেষ্টা। রবিবার সকালে এক সভার মধ্য দিয়ে কল্যাণপুর থানা এলাকার সি পি আই এম বাগানবাজার অঞ্চল কমিটির অধীন খাস কল্যাণপুর শাখা কমিটির অফিস ঘড় খোলা হল। দীর্ঘ সাড়ে চার বছর এই দলীয় অফিসটি বন্ধ ছিল। রবিবার এক সংক্ষিপ্ত অনুষ্ঠানের মধ্য দিয়ে দলীয় অফিসটি খোলা হয়। অনুষ্ঠানে অন্যদের মধ্যে ছিলেন সিপিআইএম খোয়াই জেলা কমিটির সম্পাদক রঞ্জিত দেববর্মা, সিপিআইএম খোয়াই মহকুমা কমিটির সম্পাদক পদ্ম কুমার দেববর্মা, তেলিয়ামুড়া মহকুমা সম্পাদক হেমন্ত কুমার জমাতিয়া, খোয়াই কেন্দ্রের বিধায়ক নির্মল বিশ্বাস, প্রাক্তন বিধায়ক মনিন্দ্র চন্দ্র দাস, এবং সিপিআইএম নেতা সুভাষ নাথ, প্রমূখ।\n\n",
+                        "category_id": 181,
+                        "created": "Sun, 30 Oct 2022 14:39:40 GMT",
+                        "draft": false,
+                        "id": 22291,
+                        "last_updated": "Sun, 30 Oct 2022 14:39:40 GMT",
+                        "photos": [
+                            {
+                                "public_id": "92229ece-10cc-4165-9a6f-4b410bc3dbac",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/92229ece-10cc-4165-9a6f-4b410bc3dbac"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sun, 30 Oct 2022 14:39:41 GMT",
+                        "site_id": 29,
+                        "title": "সাড়ে চার বছর পর কল্যাণপুরে খোলা হল  সিপিআইএমের পার্টি অফিস খুশি কর্মীরা",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 4
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- রাজ্যে ক্রমবর্ধমান নারী নির্যাতন ,ধর্ষণ এবং গন ধর্ষনের মত   ঘটনাগুলি উত্তরোত্তর বৃদ্ধি পেয়ে চলেছে। যার বিরুদ্ধে রুখে দাঁড়িয়েছে বিরোধী দলের মত সবকটি সংগঠন। রবিবার রাজধানীর সিটি সেন্টারের সামনে এক বিক্ষোভ সমাবেশে সামিল হয়েছে সারা ভারত যুব ফেডারেশন ত্রিপুরা রাজ্য কমিটি। তিনটি যুব সংগঠনের  ডাকে এদিন এক বিক্ষোভ সমাবেশ করা হয়। সমাবেশে যুব নেতৃবৃন্দ বর্তমান শাসকদলকে এই ধর্ষণকাণ্ড গুলোর জন্য দায়ী করছে। অভিযোগ দুটি ধর্ষণের ঘটনায় শাসকদলীয় জড়িত। এদের বিরুদ্ধে পুলিশ কোন ব্যবস্থা গ্রহণ করছে না। তার জন্য রাজ্যব্যাপী গণআন্দোলন গড়ে তুলবে যুব সংগঠন গুলি।\n",
+                        "category_id": 181,
+                        "created": "Sun, 30 Oct 2022 13:49:04 GMT",
+                        "draft": false,
+                        "id": 22282,
+                        "last_updated": "Sun, 30 Oct 2022 13:49:04 GMT",
+                        "photos": [
+                            {
+                                "public_id": "aebcd3e5-b0a9-4a43-b274-a2f407042b55",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/aebcd3e5-b0a9-4a43-b274-a2f407042b55"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sun, 30 Oct 2022 13:49:04 GMT",
+                        "site_id": 29,
+                        "title": "ধর্ষণের বিরুদ্ধে গর্জে উঠছে যুব সংগঠন",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 4
+                    },
+                    {
+                        "alternate_id": 0,
+                        "body": "জনতার কলম ত্রিপুরা আগরতলা প্রতিনিধি :- ইন্দ্রনগর হরিজন কলোনিতে নাবালিকা ধর্ষণের ঘটনায় জিবি আউট পোস্টে ডেপুটেশন প্রধান করল সারা ভারত গণতান্ত্রিক নারী সমিতির। তাদের দাবি অবিলম্বে অভিযুক্তকে গ্রেফতার করে দৃষ্টান্তমূলক শাস্তির ব্যবস্থা করতে হবে। অন্যথায় বৃহত্তর গণআন্দোলন যাবে নারী সমিতি। এদিনের ডেপুটেশন শেষে নারীনেত্রী মিতালী ভট্টাচার্য জানান , ফারি থানার ওসি জানিয়েছে অবিলম্বে এই বিষয়ে প্রয়োজনীয় ব্যবস্থা গ্রহণ করবে পুলিশ।\n",
+                        "category_id": 181,
+                        "created": "Sun, 30 Oct 2022 13:43:05 GMT",
+                        "draft": false,
+                        "id": 22280,
+                        "last_updated": "Sun, 30 Oct 2022 13:43:05 GMT",
+                        "photos": [
+                            {
+                                "public_id": "db811d36-8792-48b7-9909-8bf90a27aded",
+                                "secure_urls": "https://janatarkalam.s3.ap-south-1.amazonaws.com/db811d36-8792-48b7-9909-8bf90a27aded"
+                            }
+                        ],
+                        "published": true,
+                        "published_on": "Sun, 30 Oct 2022 13:43:06 GMT",
+                        "site_id": 29,
+                        "title": "ধর্ষক গ্রেপ্তারের দাবিতে ডেপুটেশন সারা ভারত গণতান্ত্রিক নারী সমিতির",
+                        "user_id": 10,
+                        "videos": [],
+                        "views": 3
+                    }
+                ]
+            }
+        },
+        "multimedia": {
+            "image_gallary": [],
+            "video_gallary": []
+        }
+    },
+    "statusCode": 200
+}

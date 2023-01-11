@@ -1,0 +1,50 @@
+.newsContainer{
+  width: 30rem;
+  height: 8rem;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  margin: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.newsImage img{
+  width: 11rem;
+  height: 100%;
+  border-top-left-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+  margin-right: 1rem;
+}
+
+.newsInfoContainer{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  font-size: medium;
+}
+
+.newsHeading{
+  margin-top: 0.8rem;
+  width: 90%;
+  height: 100%;
+  text-align: left;
+}
+
+.newsDetails{
+  margin-bottom: 0.3rem;
+  font-size: smaller;
+}
+
+@media only screen and (max-width: 600px) {
+ .newsContainer{
+  width: 20.5rem;
+  height: 7rem;
+ }
+ .newsImage img{
+  width: 8.5rem;
+  height: 100%;
+}
+
+
+}

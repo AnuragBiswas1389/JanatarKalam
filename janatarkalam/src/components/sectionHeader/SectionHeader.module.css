@@ -1,9 +1,10 @@
 .headerContainer {
+  margin-bottom: 0.5rem;
 }
 
 .headerTopSection {
   background-color: var(---colorPrimary);
-  width: 30%;
+  width: 10rem;
   border-radius: 0.8px;
   margin-top: 1rem;
   margin-left: 1rem;
@@ -12,7 +13,7 @@
 
 .headerBottomSection {
   background-color: var(---colorPrimary);
-  width: 90%;
+  width: 30rem;
   height: 0.1rem;
   margin-left: 1rem;
 }
