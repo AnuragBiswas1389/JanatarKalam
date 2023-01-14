@@ -1,0 +1,10 @@
+.marquee{
+    background-color: var(---colorPrimary);
+    margin-top: 20px;
+}
+
+.marquee p{
+    padding: 0;
+   
+    margin: 0.2rem;
+}

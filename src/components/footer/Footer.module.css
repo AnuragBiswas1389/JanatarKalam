@@ -1,0 +1,83 @@
+.footerContainer {
+  background-color: var(---colorPrimary);
+  width: 100%;
+  height: 10rem;
+  margin-top: 1.5rem;
+  padding-top: 0.5rem;
+  /* padding-right: 0.1rem;
+  padding-left:0.1rem; */
+  position: relative;
+}
+/* ---footer primary container----- */
+.footerPrimaryContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  font-size: x-small;
+  justify-content: space-around;
+}
+/* ----logo container---- */
+.footerPrimaryLogo img {
+  width: 7rem;
+}
+.tagLine {
+  font-size: x-small;
+}
+/* ---footer links container */
+.linkHeading {
+  font-size: 0.7rem;
+  font-weight: 600;
+}
+.link a {
+  text-decoration: underline;
+  color: black;
+}
+.link {
+  text-decoration: underline;
+  color: black;
+}
+/* -----footer contacts */
+.footerPrimaryContact {
+  /* position: absolute;*/
+  right: 0;
+}
+.contactHeading {
+  font-size: 0.7rem;
+  font-weight: 600;
+}
+
+/* ----footer secondary------ */
+.footerSecondaryContainer {
+  font-size: x-small;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 0.3rem;
+  padding-top: 0.1rem;
+
+}
+.footerSecondaryContainer p {
+  width: 100%;
+  text-align: center;
+  /* padding: 0.2px;
+  margin: 0.1rem; */
+}
+
+/* ---------footer end container-------- */
+.footerEndContainer {
+  background-color: var(---colorSecondary);
+  font-size: x-small;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding-bottom: 0.1rem;
+  padding-top: 0.1rem;
+}
+.footerEndContainer p {
+  width: 100%;
+  text-align: center;
+  margin: 0rem;
+}
+.footerEndContainer p a {
+  text-decoration: underline;
+  color: black;
+}
