@@ -1,49 +1,23 @@
-import Footer from "./components/footer/Footer";
+import Footer from "./components/Footer";
 import "./App.css";
-import News from "./components/news/New";
-import Header from "./components/header/Header";
-import Signin from "./components/account/signin/Signin";
-import Signup from "./components/account/signup/Singup";
-import Archive from "./components/archive/Archive";
-import SectionHeader from "./components/sectionHeader/SectionHeader";
-import Marquee from "./components/marquee/Marquee";
+import News from "./components/News";
+import Header from "./components/Header";
+import Signin from "./components/account/Signin";
+import Signup from "./components/account/Singup";
+import Archive from "./components/Archive";
+import SectionHeader from "./components/SectionHeader";
+import Marquee from "./components/Marquee";
 import NewsUpdate from "./components/NewsUpdate";
 import Video from "./components/Video";
-import Slider from "./components/Slider";
 import Image from "./components/Image";
+import Tender from "./components/Tender";
+import Home from './pages/Home'
 import "normalize.css";
 
 function App() {
   return (
     <div className="App">
-      <Header></Header>
-      <Marquee></Marquee>
-      <SectionHeader title={"News update"}></SectionHeader>
-      <NewsUpdate></NewsUpdate>
-      <SectionHeader title={"latest update"}></SectionHeader>
-      <News></News>
-      <News></News>
-      <News></News>
-      <SectionHeader title={"Videos"}></SectionHeader>
-      <Video></Video>
-      <Video></Video>
-      <Video></Video>
-      <Video></Video>
-      <SectionHeader title={"You may like"}></SectionHeader>
-      <Image
-        size={"Wide"}
-        src={
-          "https://janatarkalam.s3.ap-south-1.amazonaws.com/su9tdwcumzbj1gjvjwxo.jpg"
-        }
-      ></Image>
-      <SectionHeader title={"Tender"}></SectionHeader>
-      <Image
-        size={"medium"}
-        src={
-          "https://janatarkalam.s3.ap-south-1.amazonaws.com/xp0bk2qxm8h3mwfs3vmy.jpg"
-        }
-      ></Image>
-      <Footer></Footer>
+      <Home></Home>
     </div>
   );
 }
