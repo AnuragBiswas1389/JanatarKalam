@@ -1,16 +1,103 @@
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {
-    .topContainer{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-    }
+.midContainer {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: space-evenly;
+}
 
-    .newsCatContent{
-        display: grid;
-        grid-template-rows: auto auto auto auto auto;
-        grid-template-columns: auto auto;
-    }
+/*NOTE---- Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 900px) {
+  .topContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .homeNewsContainer {
+    width: 100%;
+  }
+  .topNewsContainer {
+    display: flex;
+    background-color: aqua;
+    width: 100%;
+  }
+
+  .newsCatContent {
+    display: grid;
+    grid-template-rows: auto auto auto auto auto;
+    grid-template-columns: auto auto;
+  }
 
 
+  .newslatestContainer {
+    display: flex;
+    justify-content: space-between;
+    margin-left: var(---marginLeft);
+    margin-right: 2rem;
+  }
+  .homeCurrentUpdate {
+    /* background-color: yellow; */
+    margin: auto;
+    display: flex;
+    justify-content: center;
+  }
+  .homeCurrentUpdateNews {
+    background-color: var(---containerBackground);
+    padding-right: 0.8rem;
+    padding-left: 0;
+    padding-top: 0.4rem;
+    margin: 0.8rem;
+    border-radius: 0.5rem;
+    margin-top: 0;
+  }
+  .midContainer {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+  }
+  .newsCat {
+    background-color: rgba(201, 198, 198, 0.199);
+    margin-bottom: 1rem;
+    padding: 0.1rem;
+    border-radius: 1rem;
+  }
+  .tenderContainer {
+    display: block;
+
+    margin-right: 0.1rem;
+    padding: 0.1rem;
+    border-radius: 1rem;
+    height: auto;
+  }
+  .tenderContents {
+    background-color: var(---containerBackground);
+    margin-right: 0.1rem;
+    padding: 0.1rem;
+    border-radius: 1rem;
+  }
+
+  .adContainer {
+    /* background-color: var(---containerBackground); */
+    border-radius: 1rem;
+    padding: 0.1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .tenderAdContainer {
+    margin-top: 3rem;
+  }
+  .endContainer {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .adContainerEnd {
+    margin: auto;
+    margin-bottom: 9rem;
+  }
+
+  .adTenderContainer {
+    background-color: rgba(201, 198, 198, 0.199);
+    margin-bottom: 1rem;
+    padding: 0.1rem;
+    border-radius: 1rem;
+  }
 }

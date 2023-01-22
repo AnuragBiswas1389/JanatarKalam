@@ -1,13 +1,23 @@
 import style from "./Header.module.css";
+import menuIcon from "../../Assets/menu.png";
+import { useState } from "react";
 
 function Header() {
+
+  const[menu, setMenu]=useState(false);
+
+  function showMenu(){
+    setMenu(!menu);
+  }
+
+
   return (
     <>
       <div className={style.headerContainer}>
         <div className={style.HeadContainer}>
           {/*------menu btn for mobile --should hide in desktop mode-- */}
-          <div className={style.headBtnConainer}>
-            <img src="icon/menu.png"></img>
+          <div className={style.headBtnConainer} onClick={showMenu}>
+            <img src={menuIcon}></img>
           </div>
           {/*--------dateWeather--------*/}
           <div className={style.headInfoConainer}>
@@ -17,9 +27,6 @@ function Header() {
           </div>
           {/* ----links container------ */}
           <div className={style.headLinksContainer}>
-            <div>
-              <img className={style.headUser} src="icon/user.png"></img>
-            </div>
             <div>
               <a href="https://www.janatarkalam.com/">
                 <img
@@ -31,21 +38,23 @@ function Header() {
           </div>
         </div>
         {/* -------nav links container for mobile----- */}
-        <div className={style.mobileNavContainer}>
+        <div
+          className={` ${(menu? style.mobileNavContainerVisible : style.mobileNavContainerInvisible)}`}
+        >
           <div className={style.mobileNavLinks}>
-            <a href="">link</a>
+            <a href="">অপরাধ</a>
           </div>
           <div className={style.mobileNavLinks}>
-            <a href="">link</a>
+            <a href="">খেলা</a>
           </div>
           <div className={style.mobileNavLinks}>
-            <a href="">link</a>
+            <a href="">রাজ্য</a>
           </div>
           <div className={style.mobileNavLinks}>
-            <a href="">link</a>
+            <a href="">দেশ</a>
           </div>
           <div className={style.mobileNavLinks}>
-            <a href="">link</a>
+            <a href="">বিশ্ব</a>
           </div>
           <div className={style.mobileDetails}>
             <a href="">Join us / Singup</a>
@@ -54,19 +63,19 @@ function Header() {
         {/* -------nav links container for desktop----- */}
         <div className={style.desktopNavContainer}>
           <div className={style.desktopNavLinks}>
-            <a href="">link</a>
+            <a href="">অপরাধ</a>
           </div>
           <div className={style.desktopNavLinks}>
-            <a href="">link</a>
+            <a href="">খেলা</a>
           </div>
           <div className={style.desktopNavLinks}>
-            <a href="">link</a>
+            <a href="">রাজ্য</a>
           </div>
           <div className={style.desktopNavLinks}>
-            <a href="">link</a>
+            <a href="">দেশ</a>
           </div>
           <div className={style.desktopNavLinks}>
-            <a href="">link</a>
+            <a href="">বিশ্ব</a>
           </div>
         </div>
       </div>

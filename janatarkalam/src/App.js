@@ -1,23 +1,19 @@
 import Footer from "./components/Footer";
 import "./App.css";
-import News from "./components/News";
-import Header from "./components/Header";
-import Signin from "./components/account/Signin";
-import Signup from "./components/account/Singup";
-import Archive from "./components/Archive";
-import SectionHeader from "./components/SectionHeader";
-import Marquee from "./components/Marquee";
-import NewsUpdate from "./components/NewsUpdate";
-import Video from "./components/Video";
-import Image from "./components/Image";
-import Tender from "./components/Tender";
-import Home from './pages/Home'
+import Home from "./pages/Home";
+import Login from "./pages/Login";
+import Signup from "./pages/Signup";
+import Archive from "./pages/Archive";
+import Reader from "./pages/Reader";
+import NewsCategory from "./pages/NewsCategory";
+import Router from "./pages/Router/Router";
 import "normalize.css";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
-      <Home></Home>
+      <Router></Router>
     </div>
   );
 }

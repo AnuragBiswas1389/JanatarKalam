@@ -1,24 +1,25 @@
-.sliderContainer {
-    position: relative;
+.sliderElement {
+  margin-right: 1rem;
+}
+.SliderContainer {
+  margin-left: var(---marginLeft);
+}
+.slider{
+  display: flex;
+  padding-left: 0.5rem;
 }
 
-.iconContainer{
-    position: absolute;
-    top: 50%;
+
+@media only screen and (max-width: 900px) {
+  .sliderContainer {
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    width: 100%;
-}
-
-.sliderIconLeft img {
-  width: 2rem;
-  height: 2rem;
-  opacity: 0.5;
-}
-.sliderIconRight img {
-  width: 2rem;
-  height: 2rem;
-  opacity: 0.5;
-
+    padding-left: 0.5rem;
+  }
+  .sliderContainerSlider {
+    display: flex;
+    padding-left: 0.5rem;
+  }
+  .SliderElement {
+    margin: auto;
+  }
 }

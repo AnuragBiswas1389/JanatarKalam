@@ -166,8 +166,8 @@
                     "tall_image_id": "",
                     "tall_image_secure_url": "",
                     "tender_image_id": "zkvtrm6tinhnc5womlu6",
-                    "tender_image_secure_url": "https://janatarkalam.s3.ap-south-1.amazonaws.com/zkvtrm6tinhnc5womlu6.jpg",
-                    "wide_image_id": "",
+                    "tender_image_secure_url": "",
+                    "wide_image_id": "",https://janatarkalam.s3.ap-south-1.amazonaws.com/zkvtrm6tinhnc5womlu6.jpg
                     "wide_image_secure_url": ""
                 },
                 {

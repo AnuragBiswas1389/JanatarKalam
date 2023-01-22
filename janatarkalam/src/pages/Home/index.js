@@ -8,93 +8,253 @@ import Video from "../../components/Video";
 import Slider from "../../components/Slider";
 import Footer from "../../components/Footer";
 import Image from "../../components/Image";
+import Carousel from "../../components/Carousel";
 
 function Home(props) {
   return (
-    <div class="Container home">
+    <div class="containerHome">
       <div class="header">
         <Header></Header>
         <Marquee></Marquee>
       </div>
 
       <div class="topContainer">
-        <div class="newsContainer">
+        <div class="homeNewsContainer">
           <SectionHeader title={"Current updates"}></SectionHeader>
-          <NewsUpdate></NewsUpdate>
-          <SectionHeader title={"Current News"}></SectionHeader>
-          <News></News>
-          <News></News>
-          <News></News>
-          <News></News>
-        </div>
-        {/* ----VideoContainer------ */}
-        <div class="video">
-          <SectionHeader title={"Latest videos"}></SectionHeader>
-          <Video></Video>
-          <Video></Video>
-          <Video></Video>
-          <Video></Video>
-        </div>
-      </div>
-      <div class="ad">
-        <SectionHeader title={"You may like"}></SectionHeader>
-        <Slider>
-          <Image
-            src={
-              "https://janatarkalam.s3.ap-south-1.amazonaws.com/su9tdwcumzbj1gjvjwxo.jpg"
-            }
-            size={""}
-          ></Image>
-        </Slider>
-      </div>
-      <div class="tender">
-        <SectionHeader title={"Tender"}></SectionHeader>
-        <Image
-          src={
-            "https://janatarkalam.s3.ap-south-1.amazonaws.com/su9tdwcumzbj1gjvjwxo.jpg"
-          }
-          size={"Wide"}
-        ></Image>
-      </div>
-      <div class={"newsByCatContainer"}>
-        <div class={"newsCat"}>
-          <SectionHeader title={"World"}></SectionHeader>
-          <div class="newsCatContent">
-            <News></News>
-            <News></News>
-            <News></News>
-            <News></News>
-            <News></News>
-            <News></News>
-            <News></News>
-            <News></News>
-            <News></News>
-            <News></News>
-            <Slider></Slider>
+          <div class="homeCurrentUpdate">
+            <NewsUpdate></NewsUpdate>
+            <div class="homeCurrentUpdateNews" >
+              <News></News>
+              <News></News>
+              <News></News>
+            </div>
+          </div>
+          <div class="newslatestContainer">
+            <div>
+              <SectionHeader title={"Current News"}></SectionHeader>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+            </div>
+            <div>
+              <SectionHeader title={"Current News"}></SectionHeader>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+            </div>
           </div>
         </div>
-        <div class={"newsCat"}>
-          <SectionHeader title={"country"}></SectionHeader>
-          <News></News>
-          <News></News>
-          <News></News>
-          <News></News>
-        </div>
-        <div class={"newsCat"}>
-          <SectionHeader title={"Sports"}></SectionHeader>
-          <News></News>
-          <News></News>
-          <News></News>
-          <News></News>
-        </div>{" "}
-        <div class={"newsCat"}>
-          <SectionHeader title={"crime"}></SectionHeader>
-          <News></News>
-          <News></News>
-          <News></News>
-          <News></News>
+        <div class="homeVideoContainer">
+          <SectionHeader title="latest videos"></SectionHeader>
+          <div class="homeVideoContent">
+            <Video></Video>
+            <Video></Video>
+            <Video></Video>
+            <Video></Video>
+            <Video></Video>
+            <Video></Video>
+          </div>
         </div>
       </div>
+
+      {/* -----------Tender section here------------------ */}
+      <div class="midContainer">
+        <div class="tenderContainer">
+          <div class="tenderContents">
+            <SectionHeader title={"Latest tender"}></SectionHeader>
+            <Slider>
+              <Image
+                size={"Tender"}
+                src="https://janatarkalam.s3.ap-south-1.amazonaws.com/cngohemwuuv6jzoxkpva.jpg"
+              ></Image>
+              <Image
+                size={"Tender"}
+                src="https://janatarkalam.s3.ap-south-1.amazonaws.com/cngohemwuuv6jzoxkpva.jpg"
+              ></Image>
+              <Image
+                size={"Tender"}
+                src="https://janatarkalam.s3.ap-south-1.amazonaws.com/cngohemwuuv6jzoxkpva.jpg"
+              ></Image>
+              <Image
+                size={"Tender"}
+                src="https://janatarkalam.s3.ap-south-1.amazonaws.com/cngohemwuuv6jzoxkpva.jpg"
+              ></Image>
+              <Image
+                size={"Tender"}
+                src="https://janatarkalam.s3.ap-south-1.amazonaws.com/cngohemwuuv6jzoxkpva.jpg"
+              ></Image>
+              <Image
+                size={"Tender"}
+                src="https://janatarkalam.s3.ap-south-1.amazonaws.com/cngohemwuuv6jzoxkpva.jpg"
+              ></Image>
+              <Image
+                size={"Tender"}
+                src="https://janatarkalam.s3.ap-south-1.amazonaws.com/cngohemwuuv6jzoxkpva.jpg"
+              ></Image>
+              <Image
+                size={"Tender"}
+                src="https://janatarkalam.s3.ap-south-1.amazonaws.com/cngohemwuuv6jzoxkpva.jpg"
+              ></Image>
+              <Image
+                size={"Tender"}
+                src="https://janatarkalam.s3.ap-south-1.amazonaws.com/cngohemwuuv6jzoxkpva.jpg"
+              ></Image>
+              <Image
+                size={"Tender"}
+                src="https://janatarkalam.s3.ap-south-1.amazonaws.com/cngohemwuuv6jzoxkpva.jpg"
+              ></Image>
+            </Slider>
+          </div>
+        </div>
+        {/* -------------------news top section--------------------- */}
+        <div class={"newsByCatContainer"}>
+          <div class="newsCatTop">
+            <div class={"newsCat"}>
+              <SectionHeader title={"country"}></SectionHeader>
+              <Carousel>
+                <News size={"small"}></News>
+                <News size={"small"}></News>
+                <News size="small"></News>
+                <News size="small"></News>
+                <News size="small"></News>
+                <News size="small"></News>
+                <News size="small"></News>
+                <News size="small"></News>
+                <News size="small"></News>
+                <News size="small"></News>
+              </Carousel>
+            </div>
+          </div>
+
+          {/* -----------------bottom carousel container---------------------- */}
+          <div class={"newsCat"}>
+            <SectionHeader title={"Sports"}></SectionHeader>
+            <Carousel>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+            </Carousel>
+          </div>
+          <div class={"newsCat"}>
+            <SectionHeader title={"Sports"}></SectionHeader>
+            <Carousel>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+            </Carousel>
+          </div>
+        </div>
+      </div>
+      <div class="endContainer">
+        <div class="endNewsContainer">
+          <div class={"newsCat"}>
+            <SectionHeader title={"Sports"}></SectionHeader>
+            <Carousel>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+            </Carousel>
+          </div>
+          {/* -------adContainer */}
+          <div class="adContainer">
+            <SectionHeader title={"You may like"}></SectionHeader>
+            <Image
+              src={
+                "https://janatarkalam.s3.ap-south-1.amazonaws.com/msvfjrnow7sthaxbohz3.jpg"
+              }
+              size={"Adv"}
+            ></Image>
+          </div>
+          <div class={"newsCat"}>
+            <SectionHeader title={"Sports"}></SectionHeader>
+            <Carousel>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+              <News></News>
+            </Carousel>
+          </div>
+        </div>
+        <div>
+          <div class="adTenderContainer">
+            <SectionHeader title={"Latest tender"}></SectionHeader>
+            <Slider>
+              <Image
+                size={"Tender"}
+                src="https://janatarkalam.s3.ap-south-1.amazonaws.com/cngohemwuuv6jzoxkpva.jpg"
+              ></Image>
+              <Image
+                size={"Tender"}
+                src="https://janatarkalam.s3.ap-south-1.amazonaws.com/cngohemwuuv6jzoxkpva.jpg"
+              ></Image>
+              <Image
+                size={"Tender"}
+                src="https://janatarkalam.s3.ap-south-1.amazonaws.com/cngohemwuuv6jzoxkpva.jpg"
+              ></Image>
+              <Image
+                size={"Tender"}
+                src="https://janatarkalam.s3.ap-south-1.amazonaws.com/cngohemwuuv6jzoxkpva.jpg"
+              ></Image>
+              <Image
+                size={"Tender"}
+                src="https://janatarkalam.s3.ap-south-1.amazonaws.com/cngohemwuuv6jzoxkpva.jpg"
+              ></Image>
+              <Image
+                size={"Tender"}
+                src="https://janatarkalam.s3.ap-south-1.amazonaws.com/cngohemwuuv6jzoxkpva.jpg"
+              ></Image>
+              <Image
+                size={"Tender"}
+                src="https://janatarkalam.s3.ap-south-1.amazonaws.com/cngohemwuuv6jzoxkpva.jpg"
+              ></Image>
+              <Image
+                size={"Tender"}
+                src="https://janatarkalam.s3.ap-south-1.amazonaws.com/cngohemwuuv6jzoxkpva.jpg"
+              ></Image>
+            </Slider>
+          </div>
+        </div>
+      </div>
+      {/* -------adContainer */}
+      <div class="adContainerEnd">
+        <SectionHeader title={"You may like"}></SectionHeader>
+        <Image
+          src={
+            "https://janatarkalam.s3.ap-south-1.amazonaws.com/3419f709-5f50-48c2-bc10-4a471934757c"
+          }
+          size={"Adv"}
+        ></Image>
+      </div>
+
       <div class={"footer"}>
         <Footer></Footer>
       </div>

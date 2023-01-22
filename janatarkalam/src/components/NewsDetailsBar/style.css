@@ -1,0 +1,48 @@
+.newsDetailsContainer {
+  padding: 0.2rem;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: small;
+  border-style: solid;
+  border-width: 0.1rem;
+  border-radius: 0.4rem;
+  border-color: var(---colorPrimary);
+}
+
+.newsShareBtn button {
+  background-color: var(---colorPrimary);
+  border: none;
+  border-radius: 0.2rem;
+  height: 2.2rem;
+  width: 5rem;
+  cursor: pointer;
+}
+.newsViews {
+  padding-top: 0.6rem;
+}
+
+.newsDateTime {
+  padding-top: 0.6rem;
+}
+
+@media screen and (max-width: 700px) {
+  .newsShareBtn button {
+    background-color: var(---colorPrimary);
+    border: none;
+    border-radius: 0.2rem;
+    height: 1.4rem;
+    width: 4rem;
+    cursor: pointer;
+  }
+
+  .newsViews {
+  padding-top: 0.2rem;
+}
+
+.newsDateTime {
+  padding-top: 0.2rem;
+}
+}

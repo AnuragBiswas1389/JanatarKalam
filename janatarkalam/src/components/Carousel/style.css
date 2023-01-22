@@ -1,0 +1,31 @@
+.carouselElement {
+  margin-right: 0.8rem;
+}
+
+.carouselContainer {
+  display: grid;
+  grid-template-rows: auto auto auto auto auto;
+  grid-template-columns: 30rem auto;
+  grid-column-gap: 2rem;
+}
+
+.carouselContainerSlider {
+  background-color: aqua;
+  display: flex;
+  padding-left: 2rem;
+  /* width: 90%; */
+}
+
+@media only screen and (max-width: 700px) {
+  .carouselContainer {
+    display: flex;
+    padding-left: 0.5rem;
+  }
+  .carouselContainerSlider {
+    display: flex;
+    padding-left: 0.5rem;
+  }
+  .carouselElement {
+    margin: auto;
+  }
+}

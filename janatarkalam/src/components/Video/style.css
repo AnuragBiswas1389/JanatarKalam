@@ -1,7 +1,7 @@
 .videoContainer {
   margin: auto;
-  width: 25rem;
-  height: 15rem;
+  width: 19rem;
+  height: 10rem;
   padding: -0.2rem;
   position: relative;
   border-radius: 0.5rem;
@@ -32,7 +32,7 @@
 
 @media only screen and (max-width: 700px) {
   .videoContainer {
-    width: 20rem;
-    height: 13rem;
+    width: 19rem;
+    height: 11rem;
   }
 }

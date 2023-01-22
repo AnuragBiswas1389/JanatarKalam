@@ -1,10 +1,14 @@
 import React from "react";
 import style from "./News.module.css";
 
-function News() {
+function News(props) {
+  var cls = " ";
+  var size=props.size;
+  
+
   return (
     <>
-      <div className={style.newsContainer}>
+      <div className={`${props.size} ${style.newsContainer}`}>
         <div className={style.newsImage}>
           <img
             src="https://janatarkalam.s3.ap-south-1.amazonaws.com/248a5a91-1a5d-496e-a21a-f042efa5c7ee"
@@ -21,6 +25,6 @@ function News() {
       </div>
     </>
   );
-};
+}
 
 export default News;

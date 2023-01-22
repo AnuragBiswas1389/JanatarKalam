@@ -1,5 +1,5 @@
 .headerContainer {
- margin-bottom: 0.2rem;
+  margin-bottom: 0.2rem;
 }
 
 /* ----------head---------------- */
@@ -19,15 +19,15 @@
   color: var(---colorPrimary);
   font-size: larger;
   display: flex;
-  flex-direction:row;
+  flex-direction: row;
   margin-left: 0.5rem;
 }
 .infoBar {
   height: 90.5%;
   background-color: var(---colorPrimary);
-    width: 0.2rem;
-    margin: 0.1rem;
-    border-radius: 1rem;
+  width: 0.2rem;
+  margin: 0.1rem;
+  border-radius: 1rem;
 }
 .headUser {
   display: none;
@@ -37,54 +37,56 @@
   height: 2.1rem;
 }
 
-/* -----------links-------------------------- */
+/* -----------links-----------cd--------------- */
 
-.mobileNavContainer{
- display: none;
+.mobileNavContainerVisible {
+  display: none;
 }
-.desktopNavContainer{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    margin-left: 0.7rem;
-    margin-right: 0.7rem;
+.mobileNavContainerInvisible {
+  display: none;
 }
-
-.desktopNavLinks a{
-    text-decoration: none;
-    font-size: large;
-    color: black;
+.desktopNavContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 0.7rem;
+  margin-right: 0.7rem;
 }
 
-.desktopNavLinks :hover{
-    border-bottom-style:solid;
+.desktopNavLinks a {
+  text-decoration: none;
+  font-size: large;
+  color: black;
 }
- .desktopNavLinks a:hover{
-    color: var(---colorPrimary);
-    cursor: pointer;
-    
+
+.desktopNavLinks :hover {
+  border-bottom-style: solid;
+}
+.desktopNavLinks a:hover {
+  color: var(---colorPrimary);
+  cursor: pointer;
 }
 
 @media only screen and (max-width: 700px) {
-
-/* --------------head--------------- */
+  /* --------------head--------------- */
   .headBtnConainer {
     display: block;
     margin-left: 0.2rem;
+    margin-top: 0.3rem;
+    margin-bottom: auto;
   }
   .infoBar {
     display: none;
   }
-  
+
   .headInfoConainer {
     display: block;
     height: 100%;
     font-size: small;
     align-self: center;
     text-align: center;
-    margin: 0;
     padding: 0;
-    margin-top: 0.6rem;
+    margin-top: 1.1rem;
     width: 100%;
   }
   .headLinksContainer {
@@ -105,37 +107,52 @@
 
   /* ----------------------------links------------------------ */
 
-  .desktopNavContainer{
+  .desktopNavContainer {
     display: none;
   }
   /* ------ */
-  .mobileNavContainer{
-
+  .mobileNavContainerVisible {
+    display: flex;
+    flex-direction: column;
+    z-index: 1;
+    display: block;
+  }
+  .mobileNavContainerInvisible {
+    display: flex;
+    flex-direction: column;
+    z-index: 1;
+    display: none;
   }
 
-  .mobileNavLinks{
+  .mobileNavLinks {
     border: none;
     border-style: solid;
-    border-top-width:0.01rem;
+    border-top-width: 0.01rem;
+    background-color: var(---colorPrimary);
+    color: white;
     border-color: white;
-    border-left:none;
+    border-left: none;
     border-right: none;
+    padding: 0.2rem;
   }
-   .mobileNavLinks a {
+  .mobileNavLinks a {
     font-size: larger;
     text-decoration: none;
     margin: 0.2rem;
     margin-left: 0.5rem;
-   }
+    color: white;
+    padding: 0.7rem;
+  }
 
-  .mobileDetails{
+  .mobileDetails {
     text-align: center;
     font-size: larger;
     text-decoration: none;
     margin: 0.2rem;
     margin-left: 0.5rem;
   }
-  .mobileDetails a{
+  .mobileDetails a {
     text-decoration: none;
+    font-size: small;
   }
 }

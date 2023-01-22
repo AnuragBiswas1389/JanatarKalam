@@ -2,9 +2,9 @@
   background-color: white;
   margin: 0rem;
   width: 30rem;
-  height: 23rem;
+  height: 25rem;
   margin-bottom: 1rem;
-  margin-left: 1rem;
+  margin-left: var(---marginLeft);
   border-radius: 0.5rem;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
