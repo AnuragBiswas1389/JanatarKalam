@@ -1,9 +1,14 @@
 import "./style.css";
 
 function Video(props) {
+  const videoId = "2k8c0fyVAZY";
+  function handelClick() {
+    window.open(`https://www.youtube.com/watch?v=${videoId}`, "_blank");
+  }
+
   return (
     <>
-      <div class="videoContainer">
+      <div class="videoContainer" onClick={handelClick}>
         <a href={props.Videolink}>
           <div class="videoImage">
             <img

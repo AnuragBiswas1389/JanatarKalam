@@ -4,8 +4,17 @@
   justify-content: space-evenly;
 }
 
+@media (min-width: 700px) and (max-width: 990px) {
+ body{
+  /* background-color: rgb(201, 201, 84); */
+ }
+
+}
+
+
+
 /*NOTE---- Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 900px) {
+@media only screen and (min-width: 990px) {
   .topContainer {
     display: flex;
     flex-direction: row;

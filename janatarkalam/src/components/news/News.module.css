@@ -47,6 +47,20 @@
   font-size: smaller;
 }
 
+@media (min-width: 700px) and (max-width: 1000px) {
+  .newsContainer {
+    width: 22rem;
+    height: 8rem;
+  }
+  .newsImage img {
+  width: 8rem;
+  height: 100%;
+  border-top-left-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+  margin-right: 1rem;
+}
+}
+
 @media only screen and (max-width: 700px) {
   .newsContainer {
     width: 20.8rem;

@@ -1,9 +1,17 @@
 import "./style.css";
+import { useNavigate } from "react-router-dom";
 
 function NewsUpdate(props) {
+   
+  let navigate = useNavigate();
+  function handelReader() {
+    navigate("/Reader", { state: { newsId: "100" } });
+  }
+
+
   return (
     <>
-      <div className="newsUpdateContainer">
+      <div className="newsUpdateContainer" onClick={handelReader}>
         <div className="newsUpdateImage">
           <img
             src="https://janatarkalam.s3.ap-south-1.amazonaws.com/248a5a91-1a5d-496e-a21a-f042efa5c7ee"

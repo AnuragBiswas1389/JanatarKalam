@@ -13,7 +13,7 @@
   width: 30rem;
   height: 18rem;
 }
-.imageAdv{
+.imageAdv {
   width: 90%;
   height: 18rem;
 }
@@ -28,7 +28,7 @@
   border-radius: inherit;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 900px) {
   .imageContainer {
     width: 20rem;
     height: 10rem;
@@ -40,6 +40,8 @@
     width: 100%;
     height: 20rem;
   }
-
-
+  .imageAdv {
+    width: 90%;
+    height: 10rem;
+  }
 }

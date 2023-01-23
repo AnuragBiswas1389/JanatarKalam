@@ -11,6 +11,13 @@
   padding: 0.3rem;
   justify-content: space-between;
   height: 2rem;
+  border-color: var(---colorPrimary);
+  border-style: solid;
+  border-top-width: 0;
+  border-right-width: 0;
+  border-left-width: 0;
+  border-bottom-width: 2.9px;
+  font-weight: 850;
 }
 .headBtnConainer {
   display: none;
@@ -49,14 +56,18 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  padding-top: 0.3rem;
   margin-left: 0.7rem;
   margin-right: 0.7rem;
+  height: 1.5rem;
 }
 
 .desktopNavLinks a {
   text-decoration: none;
-  font-size: large;
+  font-size: larger;
   color: black;
+  font-family: var(---fontBengali);
+ font-stretch: expanded;
 }
 
 .desktopNavLinks :hover {

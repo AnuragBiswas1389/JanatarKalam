@@ -49,12 +49,13 @@ function Home(props) {
         <div class="homeVideoContainer">
           <SectionHeader title="latest videos"></SectionHeader>
           <div class="homeVideoContent">
+            <Slider>
             <Video></Video>
             <Video></Video>
             <Video></Video>
             <Video></Video>
             <Video></Video>
-            <Video></Video>
+            <Video></Video></Slider>
           </div>
         </div>
       </div>

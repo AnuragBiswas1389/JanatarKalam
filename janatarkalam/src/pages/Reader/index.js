@@ -6,6 +6,8 @@ import Video from "../../components/Video";
 import SectionHeader from "../../components/SectionHeader";
 import Footer from "../../components/Footer";
 import News from "../../components/News";
+import { ThreeDots } from "react-loader-spinner";
+import { useLocation } from "react-router-dom";
 
 function Reader(props) {
   const headLine =
@@ -16,6 +18,30 @@ function Reader(props) {
 
   const newsText =
     "লক ডাউনের পরিপ্রেক্ষিতে রাজ্য সরকার ১০৩২৩ শিক্ষকদের জন্য এককালীন ৩৫০০০ টাকা অনুদানের ঘোষণা দিয়েছিলো , সেই ঘোষণা অনুযায়ী রাজ্য সরকার কোনো প্রকারের শর্তাবলী না জড়ালেও জড়াচ্ছে শিক্ষা ভবনের অধিকর্তারা এমনটাই অভিযোগ ১০৩২৩ এডহক পে শিক্ষক কর্মচারী সংগঠনের । মঙ্গলবার ১০৩২৩ এডহক পে শিক্ষক কর্মচারী সংগঠন ৪ দফা দাবির ভিত্তিতে রাজধানীর শিক্ষাভবনে এক ডেপুটেশনে মিলিত হন । এদিন শিক্ষাভবনের শিক্ষা অধিকর্তাদের বিরুদ্ধে তীব্র ক্ষোভ প্রকাশ করেন ১০৩২৩ এডহক পে শিক্ষক কর্মচারী সংগঠন। পাশাপাশি আন্দোলন তীব্র থেকে তীব্রতর হয়ে হয়ে উঠে ফলে প্রশাসন কর্মকর্তাদের সাথে ধস্তাধস্তি লেগে যায় আন্দোলনরত শিক্ষকরা। তবে আন্দোলন তীব্রতর হতে থাকলে শিক্ষা দপ্তরের অধিকর্তা শিক্ষকদের ৩ জনের একটি প্রতিনিধি দল অধিকর্তার সাথে সাক্ষাৎ করেন কিন্তু সাক্ষাতের আলোচনা বিষয়বস্তু  জানা যায়নি ।  এই মুহূর্তে এরা কষ্টে আছেন ঠিকই কিন্তু সমাজের মেরুদন্ড হয়ে এই মহামারীর সময়ে এইভাবে জড়ো হয়ে সামাজিক দূরত্বকে বৃদ্ধাঙ্গুল দেখিয়ে আন্দোলনে সামিল হওয়াটা খুবই নিন্দনীয় ব্যাপার।";
+
+  const location = useLocation();
+  console.log(location.state.newsId);
+
+  const doatsLoader = (
+    <ThreeDots
+      height="80"
+      width="80"
+      radius="9"
+      color="rgb(218, 86, 86)"
+      ariaLabel="three-dots-loading"
+      wrapperStyle={{}}
+      wrapperClassName=""
+      visible={true}
+    />
+  );
+
+  const loadComponent = (
+    <div class="readerLoader">
+      <div class="readerLoaderComp">
+        <div>{doatsLoader}</div>
+      </div>
+    </div>
+  );
 
   return (
     <div class="readerContainer">
@@ -37,8 +63,7 @@ function Reader(props) {
             ></NewsDetailsBar>
           </div>
           <div class="readerNewsText">{newsText}</div>
-          <div class="readerVideoContainer">
-          </div>
+          <div class="readerVideoContainer"></div>
         </div>
         <div class="readerRightContainer">
           <div class="readerRightNews">

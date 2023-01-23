@@ -38,6 +38,14 @@
   margin-bottom: 5rem;
 }
 
+.readerLoader{
+  display: flex;
+  justify-content: center;
+  height: 12rem;
+  margin-top: 5rem;
+}
+
+
 @media screen and (max-width: 600px) {
   .readerLeftContainer {
     width: 90%;

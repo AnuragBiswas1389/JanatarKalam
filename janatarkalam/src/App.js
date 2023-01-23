@@ -1,16 +1,32 @@
-import Footer from "./components/Footer";
 import "./App.css";
-import Home from "./pages/Home";
-import Login from "./pages/Login";
-import Signup from "./pages/Signup";
-import Archive from "./pages/Archive";
-import Reader from "./pages/Reader";
-import NewsCategory from "./pages/NewsCategory";
 import Router from "./pages/Router/Router";
 import "normalize.css";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { ColorRing } from "react-loader-spinner";
+
+
 
 function App() {
+
+  const ringLoader =<ColorRing
+    visible={true}
+    height="80"
+    width="80"
+    ariaLabel="blocks-loading"
+    wrapperStyle={{}}
+    wrapperClass="blocks-wrapper"
+    colors={["#e15b64", "#f47e60", "#f8b26a", "#abbd81", "#849b87"]}
+  />;
+
+  const loadComponent = (
+    <div class="appLoader">
+      <div class="appLoaderComp">
+        <div>{ringLoader}</div>
+        <div class="appLoaderText">Loading...</div>
+      </div>
+    </div>
+  );
+
+
   return (
     <div className="App">
       <Router></Router>

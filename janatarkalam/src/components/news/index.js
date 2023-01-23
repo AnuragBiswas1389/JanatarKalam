@@ -1,19 +1,28 @@
 import React from "react";
 import style from "./News.module.css";
+import loadImage from "../../Assets/loadImage.jpg";
+import { useNavigate } from "react-router-dom";
 
 function News(props) {
   var cls = " ";
-  var size=props.size;
-  
+  var size = props.size;
+  let navigate = useNavigate();
+
+  function handelReader() {
+    navigate("/Reader",{state:{ newsId: "100" }});
+  }
+
+  const src =
+    "https://janatarkalam.s3.ap-south-1.amazonaws.com/248a5a91-1a5d-496e-a21a-f042efa5c7ee";
 
   return (
     <>
-      <div className={`${props.size} ${style.newsContainer}`}>
+      <div
+        className={`${props.size} ${style.newsContainer}`}
+        onClick={handelReader}
+      >
         <div className={style.newsImage}>
-          <img
-            src="https://janatarkalam.s3.ap-south-1.amazonaws.com/248a5a91-1a5d-496e-a21a-f042efa5c7ee"
-            alt="newsImage"
-          ></img>
+          <img src={loadImage} alt="newsImage"></img>
         </div>
 
         <div className={style.newsInfoContainer}>
