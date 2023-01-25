@@ -23,7 +23,7 @@ function Home(props) {
           <SectionHeader title={"Current updates"}></SectionHeader>
           <div class="homeCurrentUpdate">
             <NewsUpdate></NewsUpdate>
-            <div class="homeCurrentUpdateNews" >
+            <div class="homeCurrentUpdateNews">
               <News></News>
               <News></News>
               <News></News>
@@ -50,12 +50,13 @@ function Home(props) {
           <SectionHeader title="latest videos"></SectionHeader>
           <div class="homeVideoContent">
             <Slider>
-            <Video></Video>
-            <Video></Video>
-            <Video></Video>
-            <Video></Video>
-            <Video></Video>
-            <Video></Video></Slider>
+              <Video></Video>
+              <Video></Video>
+              <Video></Video>
+              <Video></Video>
+              <Video></Video>
+              <Video></Video>
+            </Slider>
           </div>
         </div>
       </div>
